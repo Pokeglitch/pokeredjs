@@ -8,11 +8,12 @@ A Javascript based Pokemon Red disassembly
 
 This repository is based on the pret pokered disassembly.  It is not using any reference to official Pokemon source codes.
 
-This disassembly is a WIP, and is being built hand in hand with the js2gb Gameboy Assembler.
+This disassembly is a WIP, and is being built hand in hand with my js2gb assembler: https://github.com/Pokeglitch/js2gb
 
 It still relies on using the Pokemon Red base rom for build confirmation.  That is not delivered with this package, and must be acquired separately.
 
 It can be built through the pret pokered disassembly project: https://github.com/pret/pokered
+
 ---
 
 # Instructions
