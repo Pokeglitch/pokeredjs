@@ -1,0 +1,416 @@
+{
+	"MasterBall": {
+		"ID": 1
+	},
+	"UltraBall": {
+		"ID": 2
+	},
+	"GreatBall": {
+		"ID": 3
+	},
+	"PokeBall": {
+		"ID": 4
+	},
+	"TownMap": {
+		"ID": 5
+	},
+	"Bicycle": {
+		"ID": 6
+	},
+	"Surfboard": {
+		"ID": 7
+	},
+	"SafariBall": {
+		"ID": 8
+	},
+	"Pokedex": {
+		"ID": 9
+	},
+	"MoonStone": {
+		"ID": 10
+	},
+	"Antidote": {
+		"ID": 11
+	},
+	"BurnHeal": {
+		"ID": 12
+	},
+	"IceHeal": {
+		"ID": 13
+	},
+	"Awakening": {
+		"ID": 14
+	},
+	"ParlyzHeal": {
+		"ID": 15
+	},
+	"FullRestore": {
+		"ID": 16
+	},
+	"MaxPotion": {
+		"ID": 17
+	},
+	"HyperPotion": {
+		"ID": 18
+	},
+	"SuperPotion": {
+		"ID": 19
+	},
+	"Potion": {
+		"ID": 20
+	},
+	"Boulderbadge": {
+		"ID": 21
+	},
+	"Cascadebadge": {
+		"ID": 22
+	},
+	"SafariBait": {
+		"ID": 21
+	},
+	"SafariRock": {
+		"ID": 22
+	},
+	"Thunderbadge": {
+		"ID": 23
+	},
+	"Rainbowbadge": {
+		"ID": 24
+	},
+	"Soulbadge": {
+		"ID": 25
+	},
+	"Marshbadge": {
+		"ID": 26
+	},
+	"Volcanobadge": {
+		"ID": 27
+	},
+	"Earthbadge": {
+		"ID": 28
+	},
+	"EscapeRope": {
+		"ID": 29
+	},
+	"Repel": {
+		"ID": 30
+	},
+	"OldAmber": {
+		"ID": 31
+	},
+	"FireStone": {
+		"ID": 32
+	},
+	"ThunderStone": {
+		"ID": 33
+	},
+	"WaterStone": {
+		"ID": 34
+	},
+	"HpUp": {
+		"ID": 35
+	},
+	"Protein": {
+		"ID": 36
+	},
+	"Iron": {
+		"ID": 37
+	},
+	"Carbos": {
+		"ID": 38
+	},
+	"Calcium": {
+		"ID": 39
+	},
+	"RareCandy": {
+		"ID": 40
+	},
+	"DomeFossil": {
+		"ID": 41
+	},
+	"HelixFossil": {
+		"ID": 42
+	},
+	"SecretKey": {
+		"ID": 43
+	},
+	"BikeVoucher": {
+		"ID": 45
+	},
+	"XAccuracy": {
+		"ID": 46
+	},
+	"LeafStone": {
+		"ID": 47
+	},
+	"CardKey": {
+		"ID": 48
+	},
+	"Nugget": {
+		"ID": 49
+	},
+	"PokeDoll": {
+		"ID": 51
+	},
+	"FullHeal": {
+		"ID": 52
+	},
+	"Revive": {
+		"ID": 53
+	},
+	"MaxRevive": {
+		"ID": 54
+	},
+	"GuardSpec": {
+		"ID": 55
+	},
+	"SuperRepel": {
+		"ID": 56
+	},
+	"MaxRepel": {
+		"ID": 57
+	},
+	"DireHit": {
+		"ID": 58
+	},
+	"Coin": {
+		"ID": 59
+	},
+	"FreshWater": {
+		"ID": 60
+	},
+	"SodaPop": {
+		"ID": 61
+	},
+	"Lemonade": {
+		"ID": 62
+	},
+	"SSTicket": {
+		"ID": 63
+	},
+	"GoldTeeth": {
+		"ID": 64
+	},
+	"XAttack": {
+		"ID": 65
+	},
+	"XDefend": {
+		"ID": 66
+	},
+	"XSpeed": {
+		"ID": 67
+	},
+	"XSpecial": {
+		"ID": 68
+	},
+	"CoinCase": {
+		"ID": 69
+	},
+	"OaksParcel": {
+		"ID": 70
+	},
+	"Itemfinder": {
+		"ID": 71
+	},
+	"SilphScope": {
+		"ID": 72
+	},
+	"PokeFlute": {
+		"ID": 73
+	},
+	"LiftKey": {
+		"ID": 74
+	},
+	"ExpAll": {
+		"ID": 75
+	},
+	"OldRod": {
+		"ID": 76
+	},
+	"GoodRod": {
+		"ID": 77
+	},
+	"SuperRod": {
+		"ID": 78
+	},
+	"PpUp": {
+		"ID": 79
+	},
+	"Ether": {
+		"ID": 80
+	},
+	"MaxEther": {
+		"ID": 81
+	},
+	"Elixer": {
+		"ID": 82
+	},
+	"MaxElixer": {
+		"ID": 83
+	},
+	"Hm01": {
+		"ID": 196
+	},
+	"Hm02": {
+		"ID": 197
+	},
+	"Hm03": {
+		"ID": 198
+	},
+	"Hm04": {
+		"ID": 199
+	},
+	"Hm05": {
+		"ID": 200
+	},
+	"Tm01": {
+		"ID": 201
+	},
+	"Tm02": {
+		"ID": 202
+	},
+	"Tm03": {
+		"ID": 203
+	},
+	"Tm04": {
+		"ID": 204
+	},
+	"Tm05": {
+		"ID": 205
+	},
+	"Tm06": {
+		"ID": 206
+	},
+	"Tm07": {
+		"ID": 207
+	},
+	"Tm08": {
+		"ID": 208
+	},
+	"Tm09": {
+		"ID": 209
+	},
+	"Tm10": {
+		"ID": 210
+	},
+	"Tm11": {
+		"ID": 211
+	},
+	"Tm12": {
+		"ID": 212
+	},
+	"Tm13": {
+		"ID": 213
+	},
+	"Tm14": {
+		"ID": 214
+	},
+	"Tm15": {
+		"ID": 215
+	},
+	"Tm16": {
+		"ID": 216
+	},
+	"Tm17": {
+		"ID": 217
+	},
+	"Tm18": {
+		"ID": 218
+	},
+	"Tm19": {
+		"ID": 219
+	},
+	"Tm20": {
+		"ID": 220
+	},
+	"Tm21": {
+		"ID": 221
+	},
+	"Tm22": {
+		"ID": 222
+	},
+	"Tm23": {
+		"ID": 223
+	},
+	"Tm24": {
+		"ID": 224
+	},
+	"Tm25": {
+		"ID": 225
+	},
+	"Tm26": {
+		"ID": 226
+	},
+	"Tm27": {
+		"ID": 227
+	},
+	"Tm28": {
+		"ID": 228
+	},
+	"Tm29": {
+		"ID": 229
+	},
+	"Tm30": {
+		"ID": 230
+	},
+	"Tm31": {
+		"ID": 231
+	},
+	"Tm32": {
+		"ID": 232
+	},
+	"Tm33": {
+		"ID": 233
+	},
+	"Tm34": {
+		"ID": 234
+	},
+	"Tm35": {
+		"ID": 235
+	},
+	"Tm36": {
+		"ID": 236
+	},
+	"Tm37": {
+		"ID": 237
+	},
+	"Tm38": {
+		"ID": 238
+	},
+	"Tm39": {
+		"ID": 239
+	},
+	"Tm40": {
+		"ID": 240
+	},
+	"Tm41": {
+		"ID": 241
+	},
+	"Tm42": {
+		"ID": 242
+	},
+	"Tm43": {
+		"ID": 243
+	},
+	"Tm44": {
+		"ID": 244
+	},
+	"Tm45": {
+		"ID": 245
+	},
+	"Tm46": {
+		"ID": 246
+	},
+	"Tm47": {
+		"ID": 247
+	},
+	"Tm48": {
+		"ID": 248
+	},
+	"Tm49": {
+		"ID": 249
+	},
+	"Tm50": {
+		"ID": 250
+	}
+}

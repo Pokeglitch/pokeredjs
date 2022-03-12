@@ -1,0 +1,9 @@
+node_modules/
+*.gbc
+*.gb
+*.sgm
+*.sav
+*.rtc
+*.sn*
+*.sa*
+*.sg1

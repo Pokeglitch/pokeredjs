@@ -1,0 +1,215 @@
+{
+	"Red": {
+		"ID": 1
+	},
+	"Blue": {
+		"ID": 2
+	},
+	"Oak": {
+		"ID": 3
+	},
+	"BugCatcher": {
+		"ID": 4
+	},
+	"Slowbro": {
+		"ID": 5
+	},
+	"Lass": {
+		"ID": 6
+	},
+	"BlackHairBoy1": {
+		"ID": 7
+	},
+	"LittleGirl": {
+		"ID": 8
+	},
+	"Bird": {
+		"ID": 9
+	},
+	"FatBaldGuy": {
+		"ID": 10
+	},
+	"Gambler": {
+		"ID": 11
+	},
+	"BlackHairBoy2": {
+		"ID": 12
+	},
+	"Girl": {
+		"ID": 13
+	},
+	"Hiker": {
+		"ID": 14
+	},
+	"FoulardWoman": {
+		"ID": 15
+	},
+	"Gentleman": {
+		"ID": 16
+	},
+	"Daisy": {
+		"ID": 17
+	},
+	"Biker": {
+		"ID": 18
+	},
+	"Sailor": {
+		"ID": 19
+	},
+	"Cook": {
+		"ID": 20
+	},
+	"BikeShopGuy": {
+		"ID": 21
+	},
+	"MrFuji": {
+		"ID": 22
+	},
+	"Giovanni": {
+		"ID": 23
+	},
+	"Rocket": {
+		"ID": 24
+	},
+	"Medium": {
+		"ID": 25
+	},
+	"Waiter": {
+		"ID": 26
+	},
+	"Erika": {
+		"ID": 27
+	},
+	"MomGeisha": {
+		"ID": 28
+	},
+	"BrunetteGirl": {
+		"ID": 29
+	},
+	"Lance": {
+		"ID": 30
+	},
+	"OakScientistAide": {
+		"ID": 31
+	},
+	"OakAide": {
+		"ID": 32
+	},
+	"Rocker": {
+		"ID": 33
+	},
+	"Swimmer": {
+		"ID": 34
+	},
+	"WhitePlayer": {
+		"ID": 35
+	},
+	"GymHelper": {
+		"ID": 36
+	},
+	"OldPerson": {
+		"ID": 37
+	},
+	"MartGuy": {
+		"ID": 38
+	},
+	"Fisher": {
+		"ID": 39
+	},
+	"OldMediumWoman": {
+		"ID": 40
+	},
+	"Nurse": {
+		"ID": 41
+	},
+	"CableClubWoman": {
+		"ID": 42
+	},
+	"MrMasterball": {
+		"ID": 43
+	},
+	"LaprasGiver": {
+		"ID": 44
+	},
+	"Warden": {
+		"ID": 45
+	},
+	"SsCaptain": {
+		"ID": 46
+	},
+	"Fisher2": {
+		"ID": 47
+	},
+	"Blackbelt": {
+		"ID": 48
+	},
+	"Guard": {
+		"ID": 49
+	},
+	"Mom": {
+		"ID": 51
+	},
+	"BaldingGuy": {
+		"ID": 52
+	},
+	"YoungBoy": {
+		"ID": 53
+	},
+	"GameboyKid": {
+		"ID": 54
+	},
+	"GameboyKidCopy": {
+		"ID": 55
+	},
+	"Clefairy": {
+		"ID": 56
+	},
+	"Agatha": {
+		"ID": 57
+	},
+	"Bruno": {
+		"ID": 58
+	},
+	"Lorelei": {
+		"ID": 59
+	},
+	"Seel": {
+		"ID": 60
+	},
+	"Ball": {
+		"ID": 61
+	},
+	"Omanyte": {
+		"ID": 62
+	},
+	"Boulder": {
+		"ID": 63
+	},
+	"PaperSheet": {
+		"ID": 64
+	},
+	"BookMapDex": {
+		"ID": 65
+	},
+	"Clipboard": {
+		"ID": 66
+	},
+	"Snorlax": {
+		"ID": 67
+	},
+	"OldAmberCopy": {
+		"ID": 68
+	},
+	"OldAmber": {
+		"ID": 69
+	},
+	"LyingOldManUnused1": {
+		"ID": 70
+	},
+	"LyingOldManUnused2": {
+		"ID": 71
+	},
+	"LyingOldMan": {
+		"ID": 72
+	}
+}

@@ -1,0 +1,2134 @@
+{
+	"PalletTownHeader": {
+		"Height": 9,
+		"Width": 10,
+		"Objects": "PalletTownObjects",
+		"Blocks": "PalletTownBlocks",
+		"Tileset": "Overworld",
+		"Connections": {
+			"North": {
+				"Map": "Route1",
+				"Offset": 0
+			},
+			"South": {
+				"Map": "Route21",
+				"Offset": 0
+			}
+		}
+	},
+	"ViridianCityHeader": {
+		"Height": 18,
+		"Width": 20,
+		"Objects": "ViridianCityObjects",
+		"Blocks": "ViridianCityBlocks",
+		"Tileset": "Overworld",
+		"Connections": {
+			"North": {
+				"Map": "Route2",
+				"Offset": 5
+			},
+			"South": {
+				"Map": "Route1",
+				"Offset": 5
+			},
+			"West": {
+				"Map": "Route22",
+				"Offset": 4
+			}
+		}
+	},
+	"PewterCityHeader": {
+		"Height": 18,
+		"Width": 20,
+		"Objects": "PewterCityObjects",
+		"Blocks": "PewterCityBlocks",
+		"Tileset": "Overworld",
+		"Connections": {
+			"South": {
+				"Map": "Route2",
+				"Offset": 5
+			},
+			"East": {
+				"Map": "Route3",
+				"Offset": 4
+			}
+		}
+	},
+	"CeruleanCityHeader": {
+		"Height": 18,
+		"Width": 20,
+		"Objects": "CeruleanCityObjects",
+		"Blocks": "CeruleanCityBlocks",
+		"Tileset": "Overworld",
+		"Connections": {
+			"North": {
+				"Map": "Route24",
+				"Offset": 5
+			},
+			"South": {
+				"Map": "Route5",
+				"Offset": 5
+			},
+			"East": {
+				"Map": "Route9",
+				"Offset": 4
+			},
+			"West": {
+				"Map": "Route4",
+				"Offset": 4
+			}
+		}
+	},
+	"LavenderTownHeader": {
+		"Height": 9,
+		"Width": 10,
+		"Objects": "LavenderTownObjects",
+		"Blocks": "LavenderTownBlocks",
+		"Tileset": "Overworld",
+		"Connections": {
+			"North": {
+				"Map": "Route10",
+				"Offset": 0
+			},
+			"South": {
+				"Map": "Route12",
+				"Offset": 0
+			},
+			"West": {
+				"Map": "Route8",
+				"Offset": 0
+			}
+		}
+	},
+	"VermilionCityHeader": {
+		"Height": 18,
+		"Width": 20,
+		"Objects": "VermilionCityObjects",
+		"Blocks": "VermilionCityBlocks",
+		"Tileset": "Overworld",
+		"Connections": {
+			"North": {
+				"Map": "Route6",
+				"Offset": 5
+			},
+			"East": {
+				"Map": "Route11",
+				"Offset": 4
+			}
+		}
+	},
+	"CeladonCityHeader": {
+		"Height": 18,
+		"Width": 25,
+		"Objects": "CeladonCityObjects",
+		"Blocks": "CeladonCityBlocks",
+		"Tileset": "Overworld",
+		"Connections": {
+			"East": {
+				"Map": "Route7",
+				"Offset": 4
+			},
+			"West": {
+				"Map": "Route16",
+				"Offset": 4
+			}
+		}
+	},
+	"FuchsiaCityHeader": {
+		"Height": 18,
+		"Width": 20,
+		"Objects": "FuchsiaCityObjects",
+		"Blocks": "FuchsiaCityBlocks",
+		"Tileset": "Overworld",
+		"Connections": {
+			"South": {
+				"Map": "Route19",
+				"Offset": 5
+			},
+			"East": {
+				"Map": "Route15",
+				"Offset": 4
+			},
+			"West": {
+				"Map": "Route18",
+				"Offset": 4
+			}
+		}
+	},
+	"CinnabarIslandHeader": {
+		"Height": 9,
+		"Width": 10,
+		"Objects": "CinnabarIslandObjects",
+		"Blocks": "CinnabarIslandBlocks",
+		"Tileset": "Overworld",
+		"Connections": {
+			"North": {
+				"Map": "Route21",
+				"Offset": 0
+			},
+			"East": {
+				"Map": "Route20",
+				"Offset": 0
+			}
+		}
+	},
+	"IndigoPlateauHeader": {
+		"Height": 9,
+		"Width": 10,
+		"Objects": "IndigoPlateauObjects",
+		"Blocks": "IndigoPlateauBlocks",
+		"Tileset": "Plateau",
+		"Connections": {
+			"South": {
+				"Map": "Route23",
+				"Offset": 0
+			}
+		}
+	},
+	"SaffronCityHeader": {
+		"Height": 18,
+		"Width": 20,
+		"Objects": "SaffronCityObjects",
+		"Blocks": "SaffronCityBlocks",
+		"Tileset": "Overworld",
+		"Connections": {
+			"North": {
+				"Map": "Route5",
+				"Offset": 5
+			},
+			"South": {
+				"Map": "Route6",
+				"Offset": 5
+			},
+			"East": {
+				"Map": "Route8",
+				"Offset": 4
+			},
+			"West": {
+				"Map": "Route7",
+				"Offset": 4
+			}
+		}
+	},
+	"Route1Header": {
+		"Height": 18,
+		"Width": 10,
+		"Objects": "Route1Objects",
+		"Blocks": "Route1Blocks",
+		"Tileset": "Overworld",
+		"Connections": {
+			"North": {
+				"Map": "ViridianCity",
+				"Offset": -5
+			},
+			"South": {
+				"Map": "PalletTown",
+				"Offset": 0
+			}
+		}
+	},
+	"Route2Header": {
+		"Height": 36,
+		"Width": 10,
+		"Objects": "Route2Objects",
+		"Blocks": "Route2Blocks",
+		"Tileset": "Overworld",
+		"Connections": {
+			"North": {
+				"Map": "PewterCity",
+				"Offset": -5
+			},
+			"South": {
+				"Map": "ViridianCity",
+				"Offset": -5
+			}
+		}
+	},
+	"Route3Header": {
+		"Height": 9,
+		"Width": 35,
+		"Objects": "Route3Objects",
+		"Blocks": "Route3Blocks",
+		"Tileset": "Overworld",
+		"Connections": {
+			"North": {
+				"Map": "Route4",
+				"Offset": 25
+			},
+			"West": {
+				"Map": "PewterCity",
+				"Offset": -4
+			}
+		}
+	},
+	"Route4Header": {
+		"Height": 9,
+		"Width": 45,
+		"Objects": "Route4Objects",
+		"Blocks": "Route4Blocks",
+		"Tileset": "Overworld",
+		"Connections": {
+			"South": {
+				"Map": "Route3",
+				"Offset": -25
+			},
+			"East": {
+				"Map": "CeruleanCity",
+				"Offset": -4
+			}
+		}
+	},
+	"Route5Header": {
+		"Height": 18,
+		"Width": 10,
+		"Objects": "Route5Objects",
+		"Blocks": "Route5Blocks",
+		"Tileset": "Overworld",
+		"Connections": {
+			"North": {
+				"Map": "CeruleanCity",
+				"Offset": -5
+			},
+			"South": {
+				"Map": "SaffronCity",
+				"Offset": -5
+			}
+		}
+	},
+	"Route6Header": {
+		"Height": 18,
+		"Width": 10,
+		"Objects": "Route6Objects",
+		"Blocks": "Route6Blocks",
+		"Tileset": "Overworld",
+		"Connections": {
+			"North": {
+				"Map": "SaffronCity",
+				"Offset": -5
+			},
+			"South": {
+				"Map": "VermilionCity",
+				"Offset": -5
+			}
+		}
+	},
+	"Route7Header": {
+		"Height": 9,
+		"Width": 10,
+		"Objects": "Route7Objects",
+		"Blocks": "Route7Blocks",
+		"Tileset": "Overworld",
+		"Connections": {
+			"East": {
+				"Map": "SaffronCity",
+				"Offset": -4
+			},
+			"West": {
+				"Map": "CeladonCity",
+				"Offset": -4
+			}
+		}
+	},
+	"Route8Header": {
+		"Height": 9,
+		"Width": 30,
+		"Objects": "Route8Objects",
+		"Blocks": "Route8Blocks",
+		"Tileset": "Overworld",
+		"Connections": {
+			"East": {
+				"Map": "LavenderTown",
+				"Offset": 0
+			},
+			"West": {
+				"Map": "SaffronCity",
+				"Offset": -4
+			}
+		}
+	},
+	"Route9Header": {
+		"Height": 9,
+		"Width": 30,
+		"Objects": "Route9Objects",
+		"Blocks": "Route9Blocks",
+		"Tileset": "Overworld",
+		"Connections": {
+			"East": {
+				"Map": "Route10",
+				"Offset": 0
+			},
+			"West": {
+				"Map": "CeruleanCity",
+				"Offset": -4
+			}
+		}
+	},
+	"Route10Header": {
+		"Height": 36,
+		"Width": 10,
+		"Objects": "Route10Objects",
+		"Blocks": "Route10Blocks",
+		"Tileset": "Overworld",
+		"Connections": {
+			"South": {
+				"Map": "LavenderTown",
+				"Offset": 0
+			},
+			"West": {
+				"Map": "Route9",
+				"Offset": 0
+			}
+		}
+	},
+	"Route11Header": {
+		"Height": 9,
+		"Width": 30,
+		"Objects": "Route11Objects",
+		"Blocks": "Route11Blocks",
+		"Tileset": "Overworld",
+		"Connections": {
+			"East": {
+				"Map": "Route12",
+				"Offset": -27
+			},
+			"West": {
+				"Map": "VermilionCity",
+				"Offset": -4
+			}
+		}
+	},
+	"Route12Header": {
+		"Height": 54,
+		"Width": 10,
+		"Objects": "Route12Objects",
+		"Blocks": "Route12Blocks",
+		"Tileset": "Overworld",
+		"Connections": {
+			"North": {
+				"Map": "LavenderTown",
+				"Offset": 0
+			},
+			"South": {
+				"Map": "Route13",
+				"Offset": -20
+			},
+			"West": {
+				"Map": "Route11",
+				"Offset": 27
+			}
+		}
+	},
+	"Route13Header": {
+		"Height": 9,
+		"Width": 30,
+		"Objects": "Route13Objects",
+		"Blocks": "Route13Blocks",
+		"Tileset": "Overworld",
+		"Connections": {
+			"North": {
+				"Map": "Route12",
+				"Offset": 20
+			},
+			"West": {
+				"Map": "Route14",
+				"Offset": 0
+			}
+		}
+	},
+	"Route14Header": {
+		"Height": 27,
+		"Width": 10,
+		"Objects": "Route14Objects",
+		"Blocks": "Route14Blocks",
+		"Tileset": "Overworld",
+		"Connections": {
+			"East": {
+				"Map": "Route13",
+				"Offset": 0
+			},
+			"West": {
+				"Map": "Route15",
+				"Offset": 18
+			}
+		}
+	},
+	"Route15Header": {
+		"Height": 9,
+		"Width": 30,
+		"Objects": "Route15Objects",
+		"Blocks": "Route15Blocks",
+		"Tileset": "Overworld",
+		"Connections": {
+			"East": {
+				"Map": "Route14",
+				"Offset": -18
+			},
+			"West": {
+				"Map": "FuchsiaCity",
+				"Offset": -4
+			}
+		}
+	},
+	"Route16Header": {
+		"Height": 9,
+		"Width": 20,
+		"Objects": "Route16Objects",
+		"Blocks": "Route16Blocks",
+		"Tileset": "Overworld",
+		"Connections": {
+			"South": {
+				"Map": "Route17",
+				"Offset": 0
+			},
+			"East": {
+				"Map": "CeladonCity",
+				"Offset": -4
+			}
+		}
+	},
+	"Route17Header": {
+		"Height": 72,
+		"Width": 10,
+		"Objects": "Route17Objects",
+		"Blocks": "Route17Blocks",
+		"Tileset": "Overworld",
+		"Connections": {
+			"North": {
+				"Map": "Route16",
+				"Offset": 0
+			},
+			"South": {
+				"Map": "Route18",
+				"Offset": 0
+			}
+		}
+	},
+	"Route18Header": {
+		"Height": 9,
+		"Width": 25,
+		"Objects": "Route18Objects",
+		"Blocks": "Route18Blocks",
+		"Tileset": "Overworld",
+		"Connections": {
+			"North": {
+				"Map": "Route17",
+				"Offset": 0
+			},
+			"East": {
+				"Map": "FuchsiaCity",
+				"Offset": -4
+			}
+		}
+	},
+	"Route19Header": {
+		"Height": 27,
+		"Width": 10,
+		"Objects": "Route19Objects",
+		"Blocks": "Route19Blocks",
+		"Tileset": "Overworld",
+		"Connections": {
+			"North": {
+				"Map": "FuchsiaCity",
+				"Offset": -5
+			},
+			"West": {
+				"Map": "Route20",
+				"Offset": 18
+			}
+		}
+	},
+	"Route20Header": {
+		"Height": 9,
+		"Width": 50,
+		"Objects": "Route20Objects",
+		"Blocks": "Route20Blocks",
+		"Tileset": "Overworld",
+		"Connections": {
+			"East": {
+				"Map": "Route19",
+				"Offset": -18
+			},
+			"West": {
+				"Map": "CinnabarIsland",
+				"Offset": 0
+			}
+		}
+	},
+	"Route21Header": {
+		"Height": 45,
+		"Width": 10,
+		"Objects": "Route21Objects",
+		"Blocks": "Route21Blocks",
+		"Tileset": "Overworld",
+		"Connections": {
+			"North": {
+				"Map": "PalletTown",
+				"Offset": 0
+			},
+			"South": {
+				"Map": "CinnabarIsland",
+				"Offset": 0
+			}
+		}
+	},
+	"Route22Header": {
+		"Height": 9,
+		"Width": 20,
+		"Objects": "Route22Objects",
+		"Blocks": "Route22Blocks",
+		"Tileset": "Overworld",
+		"Connections": {
+			"North": {
+				"Map": "Route23",
+				"Offset": 0
+			},
+			"East": {
+				"Map": "ViridianCity",
+				"Offset": -4
+			}
+		}
+	},
+	"Route23Header": {
+		"Height": 72,
+		"Width": 10,
+		"Objects": "Route23Objects",
+		"Blocks": "Route23Blocks",
+		"Tileset": "Plateau",
+		"Connections": {
+			"North": {
+				"Map": "IndigoPlateau",
+				"Offset": 0
+			},
+			"South": {
+				"Map": "Route22",
+				"Offset": 0
+			}
+		}
+	},
+	"Route24Header": {
+		"Height": 18,
+		"Width": 10,
+		"Objects": "Route24Objects",
+		"Blocks": "Route24Blocks",
+		"Tileset": "Overworld",
+		"Connections": {
+			"South": {
+				"Map": "CeruleanCity",
+				"Offset": -5
+			},
+			"East": {
+				"Map": "Route25",
+				"Offset": 0
+			}
+		}
+	},
+	"Route25Header": {
+		"Height": 9,
+		"Width": 30,
+		"Objects": "Route25Objects",
+		"Blocks": "Route25Blocks",
+		"Tileset": "Overworld",
+		"Connections": {
+			"West": {
+				"Map": "Route24",
+				"Offset": 0
+			}
+		}
+	},
+	"RedsHouse1FHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "RedsHouse1FObjects",
+		"Blocks": "RedsHouse1FBlocks",
+		"Tileset": "RedsHouse1",
+		"Connections": {}
+	},
+	"RedsHouse2FHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "RedsHouse2FObjects",
+		"Blocks": "SharedHouse2FBlocks",
+		"Tileset": "RedsHouse2",
+		"Connections": {}
+	},
+	"BluesHouseHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "BluesHouseObjects",
+		"Blocks": "BluesHouseBlocks",
+		"Tileset": "House",
+		"Connections": {}
+	},
+	"OaksLabHeader": {
+		"Height": 6,
+		"Width": 5,
+		"Objects": "OaksLabObjects",
+		"Blocks": "OaksLabBlocks",
+		"Tileset": "Dojo",
+		"Connections": {}
+	},
+	"ViridianPokecenterHeader": {
+		"Height": 4,
+		"Width": 7,
+		"Objects": "ViridianPokecenterObjects",
+		"Blocks": "ViridianPokecenterBlocks",
+		"Tileset": "Pokecenter",
+		"Connections": {}
+	},
+	"ViridianMartHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "ViridianMartObjects",
+		"Blocks": "ViridianMartBlocks",
+		"Tileset": "Mart",
+		"Connections": {}
+	},
+	"ViridianSchoolHouseHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "ViridianSchoolHouseObjects",
+		"Blocks": "SharedSchoolBlocks",
+		"Tileset": "House",
+		"Connections": {}
+	},
+	"ViridianNicknameHouseHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "ViridianNicknameHouseObjects",
+		"Blocks": "SharedHouseBlocks1",
+		"Tileset": "House",
+		"Connections": {}
+	},
+	"ViridianGymHeader": {
+		"Height": 9,
+		"Width": 10,
+		"Objects": "ViridianGymObjects",
+		"Blocks": "ViridianGymBlocks",
+		"Tileset": "Gym",
+		"Connections": {}
+	},
+	"DiglettsCaveRoute2Header": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "DiglettsCaveRoute2Objects",
+		"Blocks": "SharedCaveEntranceBlocks",
+		"Tileset": "Cavern",
+		"Connections": {}
+	},
+	"ViridianForestNorthGateHeader": {
+		"Height": 4,
+		"Width": 5,
+		"Objects": "ViridianForestNorthGateObjects",
+		"Blocks": "SharedGateBlocks2",
+		"Tileset": "ForestGate",
+		"Connections": {}
+	},
+	"Route2TradeHouseHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "Route2TradeHouseObjects",
+		"Blocks": "SharedHouseBlocks1",
+		"Tileset": "House",
+		"Connections": {}
+	},
+	"Route2GateHeader": {
+		"Height": 4,
+		"Width": 5,
+		"Objects": "Route2GateObjects",
+		"Blocks": "SharedGateBlocks2",
+		"Tileset": "Gate",
+		"Connections": {}
+	},
+	"ViridianForestSouthGateHeader": {
+		"Height": 4,
+		"Width": 5,
+		"Objects": "ViridianForestSouthGateObjects",
+		"Blocks": "SharedGateBlocks2",
+		"Tileset": "ForestGate",
+		"Connections": {}
+	},
+	"ViridianForestHeader": {
+		"Height": 24,
+		"Width": 17,
+		"Objects": "ViridianForestObjects",
+		"Blocks": "ViridianForestBlocks",
+		"Tileset": "Forest",
+		"Connections": {}
+	},
+	"Museum1FHeader": {
+		"Height": 4,
+		"Width": 10,
+		"Objects": "Museum1FObjects",
+		"Blocks": "Museum1FBlocks",
+		"Tileset": "Museum",
+		"Connections": {}
+	},
+	"Museum2FHeader": {
+		"Height": 4,
+		"Width": 7,
+		"Objects": "Museum2FObjects",
+		"Blocks": "Museum2FBlocks",
+		"Tileset": "Museum",
+		"Connections": {}
+	},
+	"PewterGymHeader": {
+		"Height": 7,
+		"Width": 5,
+		"Objects": "PewterGymObjects",
+		"Blocks": "PewterGymBlocks",
+		"Tileset": "Gym",
+		"Connections": {}
+	},
+	"PewterNidoranHouseHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "PewterNidoranHouseObjects",
+		"Blocks": "SharedHouseBlocks1",
+		"Tileset": "House",
+		"Connections": {}
+	},
+	"PewterMartHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "PewterMartObjects",
+		"Blocks": "SharedMartBlocks2",
+		"Tileset": "Mart",
+		"Connections": {}
+	},
+	"PewterSpeechHouseHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "PewterSpeechHouseObjects",
+		"Blocks": "SharedHouseBlocks1",
+		"Tileset": "House",
+		"Connections": {}
+	},
+	"PewterPokecenterHeader": {
+		"Height": 4,
+		"Width": 7,
+		"Objects": "PewterPokecenterObjects",
+		"Blocks": "SharedPokecenterBlocks2",
+		"Tileset": "Pokecenter",
+		"Connections": {}
+	},
+	"MtMoon1FHeader": {
+		"Height": 18,
+		"Width": 20,
+		"Objects": "MtMoon1FObjects",
+		"Blocks": "MtMoon1FBlocks",
+		"Tileset": "Cavern",
+		"Connections": {}
+	},
+	"MtMoonB1FHeader": {
+		"Height": 14,
+		"Width": 14,
+		"Objects": "MtMoonB1FObjects",
+		"Blocks": "MtMoonB1FBlocks",
+		"Tileset": "Cavern",
+		"Connections": {}
+	},
+	"MtMoonB2FHeader": {
+		"Height": 18,
+		"Width": 20,
+		"Objects": "MtMoonB2FObjects",
+		"Blocks": "MtMoonB2FBlocks",
+		"Tileset": "Cavern",
+		"Connections": {}
+	},
+	"CeruleanTrashedHouseHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "CeruleanTrashedHouseObjects",
+		"Blocks": "CeruleanTrashedHouseBlocks",
+		"Tileset": "House",
+		"Connections": {}
+	},
+	"CeruleanTradeHouseHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "CeruleanTradeHouseObjects",
+		"Blocks": "SharedHouseBlocks1",
+		"Tileset": "House",
+		"Connections": {}
+	},
+	"CeruleanPokecenterHeader": {
+		"Height": 4,
+		"Width": 7,
+		"Objects": "CeruleanPokecenterObjects",
+		"Blocks": "CeruleanPokecenterBlocks",
+		"Tileset": "Pokecenter",
+		"Connections": {}
+	},
+	"CeruleanGymHeader": {
+		"Height": 7,
+		"Width": 5,
+		"Objects": "CeruleanGymObjects",
+		"Blocks": "CeruleanGymBlocks",
+		"Tileset": "Gym",
+		"Connections": {}
+	},
+	"BikeShopHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "BikeShopObjects",
+		"Blocks": "BikeShopBlocks",
+		"Tileset": "Club",
+		"Connections": {}
+	},
+	"CeruleanMartHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "CeruleanMartObjects",
+		"Blocks": "SharedMartBlocks1",
+		"Tileset": "Mart",
+		"Connections": {}
+	},
+	"MtMoonPokecenterHeader": {
+		"Height": 4,
+		"Width": 7,
+		"Objects": "MtMoonPokecenterObjects",
+		"Blocks": "SharedPokecenterBlocks1",
+		"Tileset": "Pokecenter",
+		"Connections": {}
+	},
+	"Route5GateHeader": {
+		"Height": 3,
+		"Width": 4,
+		"Objects": "Route5GateObjects",
+		"Blocks": "Route5GateBlocks",
+		"Tileset": "Gate",
+		"Connections": {}
+	},
+	"UndergroundPathRoute5Header": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "UndergroundPathRoute5Objects",
+		"Blocks": "SharedUndergroundPathEntranceBlocks",
+		"Tileset": "Gate",
+		"Connections": {}
+	},
+	"DaycareHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "DaycareObjects",
+		"Blocks": "SharedHouseBlocks2",
+		"Tileset": "House",
+		"Connections": {}
+	},
+	"Route6GateHeader": {
+		"Height": 3,
+		"Width": 4,
+		"Objects": "Route6GateObjects",
+		"Blocks": "Route6GateBlocks",
+		"Tileset": "Gate",
+		"Connections": {}
+	},
+	"UndergroundPathRoute6Header": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "UndergroundPathRoute6Objects",
+		"Blocks": "SharedUndergroundPathEntranceBlocks",
+		"Tileset": "Gate",
+		"Connections": {}
+	},
+	"Route7GateHeader": {
+		"Height": 4,
+		"Width": 3,
+		"Objects": "Route7GateObjects",
+		"Blocks": "Route7GateBlocks",
+		"Tileset": "Gate",
+		"Connections": {}
+	},
+	"UndergroundPathRoute7Header": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "UndergroundPathRoute7Objects",
+		"Blocks": "SharedUndergroundPathEntranceBlocks",
+		"Tileset": "Gate",
+		"Connections": {}
+	},
+	"UndergroundPathRoute7CopyHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "UndergroundPathRoute7CopyObjects",
+		"Blocks": "SharedUndergroundPathEntranceBlocks",
+		"Tileset": "Gate",
+		"Connections": {}
+	},
+	"Route8GateHeader": {
+		"Height": 4,
+		"Width": 3,
+		"Objects": "Route8GateObjects",
+		"Blocks": "Route8GateBlocks",
+		"Tileset": "Gate",
+		"Connections": {}
+	},
+	"UndergroundPathRoute8Header": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "UndergroundPathRoute8Objects",
+		"Blocks": "UndergroundPathRoute8Blocks",
+		"Tileset": "Gate",
+		"Connections": {}
+	},
+	"RockTunnelPokecenterHeader": {
+		"Height": 4,
+		"Width": 7,
+		"Objects": "RockTunnelPokecenterObjects",
+		"Blocks": "SharedPokecenterBlocks1",
+		"Tileset": "Pokecenter",
+		"Connections": {}
+	},
+	"RockTunnel1FHeader": {
+		"Height": 18,
+		"Width": 20,
+		"Objects": "RockTunnel1FObjects",
+		"Blocks": "RockTunnel1FBlocks",
+		"Tileset": "Cavern",
+		"Connections": {}
+	},
+	"PowerPlantHeader": {
+		"Height": 18,
+		"Width": 20,
+		"Objects": "PowerPlantObjects",
+		"Blocks": "PowerPlantBlocks",
+		"Tileset": "Facility",
+		"Connections": {}
+	},
+	"Route11Gate1FHeader": {
+		"Height": 5,
+		"Width": 4,
+		"Objects": "Route11Gate1FObjects",
+		"Blocks": "SharedGateBlocks1",
+		"Tileset": "Gate",
+		"Connections": {}
+	},
+	"DiglettsCaveRoute11Header": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "DiglettsCaveRoute11Objects",
+		"Blocks": "SharedCaveEntranceBlocks",
+		"Tileset": "Cavern",
+		"Connections": {}
+	},
+	"Route11Gate2FHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "Route11Gate2FObjects",
+		"Blocks": "SharedGateUpstairsBlocks",
+		"Tileset": "Gate",
+		"Connections": {}
+	},
+	"Route12Gate1FHeader": {
+		"Height": 4,
+		"Width": 5,
+		"Objects": "Route12Gate1FObjects",
+		"Blocks": "Route12Gate1FBlocks",
+		"Tileset": "Gate",
+		"Connections": {}
+	},
+	"BillsHouseHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "BillsHouseObjects",
+		"Blocks": "BillsHouseBlocks",
+		"Tileset": "Interior",
+		"Connections": {}
+	},
+	"VermilionPokecenterHeader": {
+		"Height": 4,
+		"Width": 7,
+		"Objects": "VermilionPokecenterObjects",
+		"Blocks": "SharedPokecenterBlocks2",
+		"Tileset": "Pokecenter",
+		"Connections": {}
+	},
+	"PokemonFanClubHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "PokemonFanClubObjects",
+		"Blocks": "PokemonFanClubBlocks",
+		"Tileset": "Interior",
+		"Connections": {}
+	},
+	"VermilionMartHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "VermilionMartObjects",
+		"Blocks": "SharedMartBlocks1",
+		"Tileset": "Mart",
+		"Connections": {}
+	},
+	"VermilionGymHeader": {
+		"Height": 9,
+		"Width": 5,
+		"Objects": "VermilionGymObjects",
+		"Blocks": "VermilionGymBlocks",
+		"Tileset": "Gym",
+		"Connections": {}
+	},
+	"VermilionPidgeyHouseHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "VermilionPidgeyHouseObjects",
+		"Blocks": "SharedHouseBlocks1",
+		"Tileset": "House",
+		"Connections": {}
+	},
+	"VermilionDockHeader": {
+		"Height": 6,
+		"Width": 14,
+		"Objects": "VermilionDockObjects",
+		"Blocks": "VermilionDockBlocks",
+		"Tileset": "ShipPort",
+		"Connections": {}
+	},
+	"SSAnne1FHeader": {
+		"Height": 9,
+		"Width": 20,
+		"Objects": "SSAnne1FObjects",
+		"Blocks": "SSAnne1FBlocks",
+		"Tileset": "Ship",
+		"Connections": {}
+	},
+	"SSAnne2FHeader": {
+		"Height": 9,
+		"Width": 20,
+		"Objects": "SSAnne2FObjects",
+		"Blocks": "SSAnne2FBlocks",
+		"Tileset": "Ship",
+		"Connections": {}
+	},
+	"SSAnne3FHeader": {
+		"Height": 3,
+		"Width": 10,
+		"Objects": "SSAnne3FObjects",
+		"Blocks": "SSAnne3FBlocks",
+		"Tileset": "Ship",
+		"Connections": {}
+	},
+	"SSAnneB1FHeader": {
+		"Height": 4,
+		"Width": 15,
+		"Objects": "SSAnneB1FObjects",
+		"Blocks": "SSAnneB1FBlocks",
+		"Tileset": "Ship",
+		"Connections": {}
+	},
+	"SSAnneBowHeader": {
+		"Height": 7,
+		"Width": 10,
+		"Objects": "SSAnneBowObjects",
+		"Blocks": "SSAnneBowBlocks",
+		"Tileset": "Ship",
+		"Connections": {}
+	},
+	"SSAnneKitchenHeader": {
+		"Height": 8,
+		"Width": 7,
+		"Objects": "SSAnneKitchenObjects",
+		"Blocks": "SSAnneKitchenBlocks",
+		"Tileset": "Ship",
+		"Connections": {}
+	},
+	"SSAnneCaptainsRoomHeader": {
+		"Height": 4,
+		"Width": 3,
+		"Objects": "SSAnneCaptainsRoomObjects",
+		"Blocks": "SSAnneCaptainsRoomBlocks",
+		"Tileset": "Ship",
+		"Connections": {}
+	},
+	"SSAnne1FRoomsHeader": {
+		"Height": 8,
+		"Width": 12,
+		"Objects": "SSAnne1FRoomsObjects",
+		"Blocks": "SSAnne1FRoomsBlocks",
+		"Tileset": "Ship",
+		"Connections": {}
+	},
+	"SSAnne2FRoomsHeader": {
+		"Height": 8,
+		"Width": 12,
+		"Objects": "SSAnne2FRoomsObjects",
+		"Blocks": "SharedSSAnneBlocks",
+		"Tileset": "Ship",
+		"Connections": {}
+	},
+	"SSAnneB1FRoomsHeader": {
+		"Height": 8,
+		"Width": 12,
+		"Objects": "SSAnneB1FRoomsObjects",
+		"Blocks": "SharedSSAnneBlocks",
+		"Tileset": "Ship",
+		"Connections": {}
+	},
+	"VictoryRoad1FHeader": {
+		"Height": 9,
+		"Width": 10,
+		"Objects": "VictoryRoad1FObjects",
+		"Blocks": "VictoryRoad1FBlocks",
+		"Tileset": "Cavern",
+		"Connections": {}
+	},
+	"LancesRoomHeader": {
+		"Height": 13,
+		"Width": 13,
+		"Objects": "LancesRoomObjects",
+		"Blocks": "LancesRoomBlocks",
+		"Tileset": "Dojo",
+		"Connections": {}
+	},
+	"HallOfFameHeader": {
+		"Height": 4,
+		"Width": 5,
+		"Objects": "HallOfFameObjects",
+		"Blocks": "HallOfFameBlocks",
+		"Tileset": "Gym",
+		"Connections": {}
+	},
+	"UndergroundPathNorthSouthHeader": {
+		"Height": 24,
+		"Width": 4,
+		"Objects": "UndergroundPathNorthSouthObjects",
+		"Blocks": "UndergroundPathNorthSouthBlocks",
+		"Tileset": "Underground",
+		"Connections": {}
+	},
+	"ChampionsRoomHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "ChampionsRoomObjects",
+		"Blocks": "ChampionsRoomBlocks",
+		"Tileset": "Gym",
+		"Connections": {}
+	},
+	"UndergroundPathWestEastHeader": {
+		"Height": 4,
+		"Width": 25,
+		"Objects": "UndergroundPathWestEastObjects",
+		"Blocks": "UndergroundPathWestEastBlocks",
+		"Tileset": "Underground",
+		"Connections": {}
+	},
+	"CeladonMart1FHeader": {
+		"Height": 4,
+		"Width": 10,
+		"Objects": "CeladonMart1FObjects",
+		"Blocks": "CeladonMart1FBlocks",
+		"Tileset": "Lobby",
+		"Connections": {}
+	},
+	"CeladonMart2FHeader": {
+		"Height": 4,
+		"Width": 10,
+		"Objects": "CeladonMart2FObjects",
+		"Blocks": "CeladonMart2FBlocks",
+		"Tileset": "Lobby",
+		"Connections": {}
+	},
+	"CeladonMart3FHeader": {
+		"Height": 4,
+		"Width": 10,
+		"Objects": "CeladonMart3FObjects",
+		"Blocks": "CeladonMart3FBlocks",
+		"Tileset": "Lobby",
+		"Connections": {}
+	},
+	"CeladonMart4FHeader": {
+		"Height": 4,
+		"Width": 10,
+		"Objects": "CeladonMart4FObjects",
+		"Blocks": "CeladonMart4FBlocks",
+		"Tileset": "Lobby",
+		"Connections": {}
+	},
+	"CeladonMartRoofHeader": {
+		"Height": 4,
+		"Width": 10,
+		"Objects": "CeladonMartRoofObjects",
+		"Blocks": "CeladonMartRoofBlocks",
+		"Tileset": "Lobby",
+		"Connections": {}
+	},
+	"CeladonMartElevatorHeader": {
+		"Height": 2,
+		"Width": 2,
+		"Objects": "CeladonMartElevatorObjects",
+		"Blocks": "CeladonMartElevatorBlocks",
+		"Tileset": "Lobby",
+		"Connections": {}
+	},
+	"CeladonMansion1FHeader": {
+		"Height": 6,
+		"Width": 4,
+		"Objects": "CeladonMansion1FObjects",
+		"Blocks": "CeladonMansion1FBlocks",
+		"Tileset": "Mansion",
+		"Connections": {}
+	},
+	"CeladonMansion2FHeader": {
+		"Height": 6,
+		"Width": 4,
+		"Objects": "CeladonMansion2FObjects",
+		"Blocks": "CeladonMansion2FBlocks",
+		"Tileset": "Mansion",
+		"Connections": {}
+	},
+	"CeladonMansion3FHeader": {
+		"Height": 6,
+		"Width": 4,
+		"Objects": "CeladonMansion3FObjects",
+		"Blocks": "CeladonMansion3FBlocks",
+		"Tileset": "Mansion",
+		"Connections": {}
+	},
+	"CeladonMansionRoofHeader": {
+		"Height": 6,
+		"Width": 4,
+		"Objects": "CeladonMansionRoofObjects",
+		"Blocks": "CeladonMansionRoofBlocks",
+		"Tileset": "Mansion",
+		"Connections": {}
+	},
+	"CeladonMansionRoofHouseHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "CeladonMansionRoofHouseObjects",
+		"Blocks": "SharedSchoolBlocks",
+		"Tileset": "House",
+		"Connections": {}
+	},
+	"CeladonPokecenterHeader": {
+		"Height": 4,
+		"Width": 7,
+		"Objects": "CeladonPokecenterObjects",
+		"Blocks": "SharedPokecenterBlocks1",
+		"Tileset": "Pokecenter",
+		"Connections": {}
+	},
+	"CeladonGymHeader": {
+		"Height": 9,
+		"Width": 5,
+		"Objects": "CeladonGymObjects",
+		"Blocks": "CeladonGymBlocks",
+		"Tileset": "Gym",
+		"Connections": {}
+	},
+	"GameCornerHeader": {
+		"Height": 9,
+		"Width": 10,
+		"Objects": "GameCornerObjects",
+		"Blocks": "GameCornerBlocks",
+		"Tileset": "Lobby",
+		"Connections": {}
+	},
+	"CeladonMart5FHeader": {
+		"Height": 4,
+		"Width": 10,
+		"Objects": "CeladonMart5FObjects",
+		"Blocks": "CeladonMart5FBlocks",
+		"Tileset": "Lobby",
+		"Connections": {}
+	},
+	"GameCornerPrizeRoomHeader": {
+		"Height": 4,
+		"Width": 5,
+		"Objects": "GameCornerPrizeRoomObjects",
+		"Blocks": "GameCornerPrizeRoomBlocks",
+		"Tileset": "Lobby",
+		"Connections": {}
+	},
+	"CeladonDinerHeader": {
+		"Height": 4,
+		"Width": 5,
+		"Objects": "CeladonDinerObjects",
+		"Blocks": "CeladonDinerBlocks",
+		"Tileset": "Lobby",
+		"Connections": {}
+	},
+	"CeladonChiefHouseHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "CeladonChiefHouseObjects",
+		"Blocks": "CeladonChiefHouseBlocks",
+		"Tileset": "Mansion",
+		"Connections": {}
+	},
+	"CeladonHotelHeader": {
+		"Height": 4,
+		"Width": 7,
+		"Objects": "CeladonHotelObjects",
+		"Blocks": "CeladonHotelBlocks",
+		"Tileset": "Pokecenter",
+		"Connections": {}
+	},
+	"LavenderPokecenterHeader": {
+		"Height": 4,
+		"Width": 7,
+		"Objects": "LavenderPokecenterObjects",
+		"Blocks": "SharedPokecenterBlocks2",
+		"Tileset": "Pokecenter",
+		"Connections": {}
+	},
+	"PokemonTower1FHeader": {
+		"Height": 9,
+		"Width": 10,
+		"Objects": "PokemonTower1FObjects",
+		"Blocks": "PokemonTower1FBlocks",
+		"Tileset": "Cemetery",
+		"Connections": {}
+	},
+	"PokemonTower2FHeader": {
+		"Height": 9,
+		"Width": 10,
+		"Objects": "PokemonTower2FObjects",
+		"Blocks": "PokemonTower2FBlocks",
+		"Tileset": "Cemetery",
+		"Connections": {}
+	},
+	"PokemonTower3FHeader": {
+		"Height": 9,
+		"Width": 10,
+		"Objects": "PokemonTower3FObjects",
+		"Blocks": "PokemonTower3FBlocks",
+		"Tileset": "Cemetery",
+		"Connections": {}
+	},
+	"PokemonTower4FHeader": {
+		"Height": 9,
+		"Width": 10,
+		"Objects": "PokemonTower4FObjects",
+		"Blocks": "PokemonTower4FBlocks",
+		"Tileset": "Cemetery",
+		"Connections": {}
+	},
+	"PokemonTower5FHeader": {
+		"Height": 9,
+		"Width": 10,
+		"Objects": "PokemonTower5FObjects",
+		"Blocks": "PokemonTower5FBlocks",
+		"Tileset": "Cemetery",
+		"Connections": {}
+	},
+	"PokemonTower6FHeader": {
+		"Height": 9,
+		"Width": 10,
+		"Objects": "PokemonTower6FObjects",
+		"Blocks": "PokemonTower6FBlocks",
+		"Tileset": "Cemetery",
+		"Connections": {}
+	},
+	"PokemonTower7FHeader": {
+		"Height": 9,
+		"Width": 10,
+		"Objects": "PokemonTower7FObjects",
+		"Blocks": "PokemonTower7FBlocks",
+		"Tileset": "Cemetery",
+		"Connections": {}
+	},
+	"MrFujisHouseHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "MrFujisHouseObjects",
+		"Blocks": "SharedHouseBlocks1",
+		"Tileset": "House",
+		"Connections": {}
+	},
+	"LavenderMartHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "LavenderMartObjects",
+		"Blocks": "SharedMartBlocks1",
+		"Tileset": "Mart",
+		"Connections": {}
+	},
+	"LavenderCuboneHouseHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "LavenderCuboneHouseObjects",
+		"Blocks": "SharedHouseBlocks1",
+		"Tileset": "House",
+		"Connections": {}
+	},
+	"FuchsiaMartHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "FuchsiaMartObjects",
+		"Blocks": "FuchsiaMartBlocks",
+		"Tileset": "Mart",
+		"Connections": {}
+	},
+	"FuchsiaBillsGrandpasHouseHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "FuchsiaBillsGrandpasHouseObjects",
+		"Blocks": "FuchsiaBillsGrandpasHouseBlocks",
+		"Tileset": "House",
+		"Connections": {}
+	},
+	"FuchsiaPokecenterHeader": {
+		"Height": 4,
+		"Width": 7,
+		"Objects": "FuchsiaPokecenterObjects",
+		"Blocks": "SharedPokecenterBlocks3",
+		"Tileset": "Pokecenter",
+		"Connections": {}
+	},
+	"WardensHouseHeader": {
+		"Height": 4,
+		"Width": 5,
+		"Objects": "WardensHouseObjects",
+		"Blocks": "WardensHouseBlocks",
+		"Tileset": "Lab",
+		"Connections": {}
+	},
+	"SafariZoneGateHeader": {
+		"Height": 3,
+		"Width": 4,
+		"Objects": "SafariZoneGateObjects",
+		"Blocks": "SafariZoneGateBlocks",
+		"Tileset": "Gate",
+		"Connections": {}
+	},
+	"FuchsiaGymHeader": {
+		"Height": 9,
+		"Width": 5,
+		"Objects": "FuchsiaGymObjects",
+		"Blocks": "FuchsiaGymBlocks",
+		"Tileset": "Gym",
+		"Connections": {}
+	},
+	"FuchsiaMeetingRoomHeader": {
+		"Height": 4,
+		"Width": 7,
+		"Objects": "FuchsiaMeetingRoomObjects",
+		"Blocks": "FuchsiaMeetingRoomBlocks",
+		"Tileset": "Lab",
+		"Connections": {}
+	},
+	"SeafoamIslandsB1FHeader": {
+		"Height": 9,
+		"Width": 15,
+		"Objects": "SeafoamIslandsB1FObjects",
+		"Blocks": "SeafoamIslandsB1FBlocks",
+		"Tileset": "Cavern",
+		"Connections": {}
+	},
+	"SeafoamIslandsB2FHeader": {
+		"Height": 9,
+		"Width": 15,
+		"Objects": "SeafoamIslandsB2FObjects",
+		"Blocks": "SeafoamIslandsB2FBlocks",
+		"Tileset": "Cavern",
+		"Connections": {}
+	},
+	"SeafoamIslandsB3FHeader": {
+		"Height": 9,
+		"Width": 15,
+		"Objects": "SeafoamIslandsB3FObjects",
+		"Blocks": "SeafoamIslandsB3FBlocks",
+		"Tileset": "Cavern",
+		"Connections": {}
+	},
+	"SeafoamIslandsB4FHeader": {
+		"Height": 9,
+		"Width": 15,
+		"Objects": "SeafoamIslandsB4FObjects",
+		"Blocks": "SeafoamIslandsB4FBlocks",
+		"Tileset": "Cavern",
+		"Connections": {}
+	},
+	"VermilionOldRodHouseHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "VermilionOldRodHouseObjects",
+		"Blocks": "SharedHouseBlocks2",
+		"Tileset": "House",
+		"Connections": {}
+	},
+	"FuchsiaGoodRodHouseHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "FuchsiaGoodRodHouseObjects",
+		"Blocks": "FuchsiaGoodRodHouseBlocks",
+		"Tileset": "Ship",
+		"Connections": {}
+	},
+	"PokemonMansion1FHeader": {
+		"Height": 14,
+		"Width": 15,
+		"Objects": "PokemonMansion1FObjects",
+		"Blocks": "PokemonMansion1FBlocks",
+		"Tileset": "Facility",
+		"Connections": {}
+	},
+	"CinnabarGymHeader": {
+		"Height": 9,
+		"Width": 10,
+		"Objects": "CinnabarGymObjects",
+		"Blocks": "CinnabarGymBlocks",
+		"Tileset": "Facility",
+		"Connections": {}
+	},
+	"CinnabarLabHeader": {
+		"Height": 4,
+		"Width": 9,
+		"Objects": "CinnabarLabObjects",
+		"Blocks": "CinnabarLabBlocks",
+		"Tileset": "Lab",
+		"Connections": {}
+	},
+	"CinnabarLabTradeRoomHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "CinnabarLabTradeRoomObjects",
+		"Blocks": "CinnabarLabTradeRoomBlocks",
+		"Tileset": "Lab",
+		"Connections": {}
+	},
+	"CinnabarLabMetronomeRoomHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "CinnabarLabMetronomeRoomObjects",
+		"Blocks": "CinnabarLabMetronomeRoomBlocks",
+		"Tileset": "Lab",
+		"Connections": {}
+	},
+	"CinnabarLabFossilRoomHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "CinnabarLabFossilRoomObjects",
+		"Blocks": "CinnabarLabFossilRoomBlocks",
+		"Tileset": "Lab",
+		"Connections": {}
+	},
+	"CinnabarPokecenterHeader": {
+		"Height": 4,
+		"Width": 7,
+		"Objects": "CinnabarPokecenterObjects",
+		"Blocks": "SharedPokecenterBlocks3",
+		"Tileset": "Pokecenter",
+		"Connections": {}
+	},
+	"CinnabarMartHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "CinnabarMartObjects",
+		"Blocks": "SharedMartBlocks2",
+		"Tileset": "Mart",
+		"Connections": {}
+	},
+	"IndigoPlateauLobbyHeader": {
+		"Height": 6,
+		"Width": 8,
+		"Objects": "IndigoPlateauLobbyObjects",
+		"Blocks": "IndigoPlateauLobbyBlocks",
+		"Tileset": "Mart",
+		"Connections": {}
+	},
+	"CopycatsHouse1FHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "CopycatsHouse1FObjects",
+		"Blocks": "CopycatsHouse1FBlocks",
+		"Tileset": "RedsHouse1",
+		"Connections": {}
+	},
+	"CopycatsHouse2FHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "CopycatsHouse2FObjects",
+		"Blocks": "SharedHouse2FBlocks",
+		"Tileset": "RedsHouse2",
+		"Connections": {}
+	},
+	"FightingDojoHeader": {
+		"Height": 6,
+		"Width": 5,
+		"Objects": "FightingDojoObjects",
+		"Blocks": "FightingDojoBlocks",
+		"Tileset": "Dojo",
+		"Connections": {}
+	},
+	"SaffronGymHeader": {
+		"Height": 9,
+		"Width": 10,
+		"Objects": "SaffronGymObjects",
+		"Blocks": "SaffronGymBlocks",
+		"Tileset": "Facility",
+		"Connections": {}
+	},
+	"SaffronPidgeyHouseHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "SaffronPidgeyHouseObjects",
+		"Blocks": "SharedHouseBlocks1",
+		"Tileset": "House",
+		"Connections": {}
+	},
+	"SaffronMartHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "SaffronMartObjects",
+		"Blocks": "SharedMartBlocks1",
+		"Tileset": "Mart",
+		"Connections": {}
+	},
+	"SilphCo1FHeader": {
+		"Height": 9,
+		"Width": 15,
+		"Objects": "SilphCo1FObjects",
+		"Blocks": "SilphCo1FBlocks",
+		"Tileset": "Facility",
+		"Connections": {}
+	},
+	"SaffronPokecenterHeader": {
+		"Height": 4,
+		"Width": 7,
+		"Objects": "SaffronPokecenterObjects",
+		"Blocks": "SharedPokecenterBlocks2",
+		"Tileset": "Pokecenter",
+		"Connections": {}
+	},
+	"MrPsychicsHouseHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "MrPsychicsHouseObjects",
+		"Blocks": "SharedHouseBlocks1",
+		"Tileset": "House",
+		"Connections": {}
+	},
+	"Route15Gate1FHeader": {
+		"Height": 5,
+		"Width": 4,
+		"Objects": "Route15Gate1FObjects",
+		"Blocks": "SharedGateBlocks1",
+		"Tileset": "Gate",
+		"Connections": {}
+	},
+	"Route15Gate2FHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "Route15Gate2FObjects",
+		"Blocks": "SharedGateUpstairsBlocks",
+		"Tileset": "Gate",
+		"Connections": {}
+	},
+	"Route16Gate1FHeader": {
+		"Height": 7,
+		"Width": 4,
+		"Objects": "Route16Gate1FObjects",
+		"Blocks": "Route16Gate1FBlocks",
+		"Tileset": "Gate",
+		"Connections": {}
+	},
+	"Route16Gate2FHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "Route16Gate2FObjects",
+		"Blocks": "SharedGateUpstairsBlocks",
+		"Tileset": "Gate",
+		"Connections": {}
+	},
+	"Route16FlyHouseHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "Route16FlyHouseObjects",
+		"Blocks": "SharedHouseBlocks1",
+		"Tileset": "House",
+		"Connections": {}
+	},
+	"Route12SuperRodHouseHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "Route12SuperRodHouseObjects",
+		"Blocks": "SharedHouseBlocks2",
+		"Tileset": "House",
+		"Connections": {}
+	},
+	"Route18Gate1FHeader": {
+		"Height": 5,
+		"Width": 4,
+		"Objects": "Route18Gate1FObjects",
+		"Blocks": "SharedGateBlocks1",
+		"Tileset": "Gate",
+		"Connections": {}
+	},
+	"Route18Gate2FHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "Route18Gate2FObjects",
+		"Blocks": "SharedGateUpstairsBlocks",
+		"Tileset": "Gate",
+		"Connections": {}
+	},
+	"SeafoamIslands1FHeader": {
+		"Height": 9,
+		"Width": 15,
+		"Objects": "SeafoamIslands1FObjects",
+		"Blocks": "SeafoamIslands1FBlocks",
+		"Tileset": "Cavern",
+		"Connections": {}
+	},
+	"Route22GateHeader": {
+		"Height": 4,
+		"Width": 5,
+		"Objects": "Route22GateObjects",
+		"Blocks": "Route22GateBlocks",
+		"Tileset": "Gate",
+		"Connections": {}
+	},
+	"VictoryRoad2FHeader": {
+		"Height": 9,
+		"Width": 15,
+		"Objects": "VictoryRoad2FObjects",
+		"Blocks": "VictoryRoad2FBlocks",
+		"Tileset": "Cavern",
+		"Connections": {}
+	},
+	"Route12Gate2FHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "Route12Gate2FObjects",
+		"Blocks": "SharedGateUpstairsBlocks",
+		"Tileset": "Gate",
+		"Connections": {}
+	},
+	"VermilionTradeHouseHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "VermilionTradeHouseObjects",
+		"Blocks": "VermilionTradeHouseBlocks",
+		"Tileset": "House",
+		"Connections": {}
+	},
+	"DiglettsCaveHeader": {
+		"Height": 18,
+		"Width": 20,
+		"Objects": "DiglettsCaveObjects",
+		"Blocks": "DiglettsCaveBlocks",
+		"Tileset": "Cavern",
+		"Connections": {}
+	},
+	"VictoryRoad3FHeader": {
+		"Height": 9,
+		"Width": 15,
+		"Objects": "VictoryRoad3FObjects",
+		"Blocks": "VictoryRoad3FBlocks",
+		"Tileset": "Cavern",
+		"Connections": {}
+	},
+	"RocketHideoutB1FHeader": {
+		"Height": 14,
+		"Width": 15,
+		"Objects": "RocketHideoutB1FObjects",
+		"Blocks": "RocketHideoutB1FBlocks",
+		"Tileset": "Facility",
+		"Connections": {}
+	},
+	"RocketHideoutB2FHeader": {
+		"Height": 14,
+		"Width": 15,
+		"Objects": "RocketHideoutB2FObjects",
+		"Blocks": "RocketHideoutB2FBlocks",
+		"Tileset": "Facility",
+		"Connections": {}
+	},
+	"RocketHideoutB3FHeader": {
+		"Height": 14,
+		"Width": 15,
+		"Objects": "RocketHideoutB3FObjects",
+		"Blocks": "RocketHideoutB3FBlocks",
+		"Tileset": "Facility",
+		"Connections": {}
+	},
+	"RocketHideoutB4FHeader": {
+		"Height": 12,
+		"Width": 15,
+		"Objects": "RocketHideoutB4FObjects",
+		"Blocks": "RocketHideoutB4FBlocks",
+		"Tileset": "Facility",
+		"Connections": {}
+	},
+	"RocketHideoutElevatorHeader": {
+		"Height": 4,
+		"Width": 3,
+		"Objects": "RocketHideoutElevatorObjects",
+		"Blocks": "RocketHideoutElevatorBlocks",
+		"Tileset": "Lobby",
+		"Connections": {}
+	},
+	"SilphCo2FHeader": {
+		"Height": 9,
+		"Width": 15,
+		"Objects": "SilphCo2FObjects",
+		"Blocks": "SilphCo2FBlocks",
+		"Tileset": "Facility",
+		"Connections": {}
+	},
+	"SilphCo3FHeader": {
+		"Height": 9,
+		"Width": 15,
+		"Objects": "SilphCo3FObjects",
+		"Blocks": "SilphCo3FBlocks",
+		"Tileset": "Facility",
+		"Connections": {}
+	},
+	"SilphCo4FHeader": {
+		"Height": 9,
+		"Width": 15,
+		"Objects": "SilphCo4FObjects",
+		"Blocks": "SilphCo4FBlocks",
+		"Tileset": "Facility",
+		"Connections": {}
+	},
+	"SilphCo5FHeader": {
+		"Height": 9,
+		"Width": 15,
+		"Objects": "SilphCo5FObjects",
+		"Blocks": "SilphCo5FBlocks",
+		"Tileset": "Facility",
+		"Connections": {}
+	},
+	"SilphCo6FHeader": {
+		"Height": 9,
+		"Width": 13,
+		"Objects": "SilphCo6FObjects",
+		"Blocks": "SilphCo6FBlocks",
+		"Tileset": "Facility",
+		"Connections": {}
+	},
+	"SilphCo7FHeader": {
+		"Height": 9,
+		"Width": 13,
+		"Objects": "SilphCo7FObjects",
+		"Blocks": "SilphCo7FBlocks",
+		"Tileset": "Facility",
+		"Connections": {}
+	},
+	"SilphCo8FHeader": {
+		"Height": 9,
+		"Width": 13,
+		"Objects": "SilphCo8FObjects",
+		"Blocks": "SilphCo8FBlocks",
+		"Tileset": "Facility",
+		"Connections": {}
+	},
+	"PokemonMansion2FHeader": {
+		"Height": 14,
+		"Width": 15,
+		"Objects": "PokemonMansion2FObjects",
+		"Blocks": "PokemonMansion2FBlocks",
+		"Tileset": "Facility",
+		"Connections": {}
+	},
+	"PokemonMansion3FHeader": {
+		"Height": 9,
+		"Width": 15,
+		"Objects": "PokemonMansion3FObjects",
+		"Blocks": "PokemonMansion3FBlocks",
+		"Tileset": "Facility",
+		"Connections": {}
+	},
+	"PokemonMansionB1FHeader": {
+		"Height": 14,
+		"Width": 15,
+		"Objects": "PokemonMansionB1FObjects",
+		"Blocks": "PokemonMansionB1FBlocks",
+		"Tileset": "Facility",
+		"Connections": {}
+	},
+	"SafariZoneEastHeader": {
+		"Height": 13,
+		"Width": 15,
+		"Objects": "SafariZoneEastObjects",
+		"Blocks": "SafariZoneEastBlocks",
+		"Tileset": "Forest",
+		"Connections": {}
+	},
+	"SafariZoneNorthHeader": {
+		"Height": 18,
+		"Width": 20,
+		"Objects": "SafariZoneNorthObjects",
+		"Blocks": "SafariZoneNorthBlocks",
+		"Tileset": "Forest",
+		"Connections": {}
+	},
+	"SafariZoneWestHeader": {
+		"Height": 13,
+		"Width": 15,
+		"Objects": "SafariZoneWestObjects",
+		"Blocks": "SafariZoneWestBlocks",
+		"Tileset": "Forest",
+		"Connections": {}
+	},
+	"SafariZoneCenterHeader": {
+		"Height": 13,
+		"Width": 15,
+		"Objects": "SafariZoneCenterObjects",
+		"Blocks": "SafariZoneCenterBlocks",
+		"Tileset": "Forest",
+		"Connections": {}
+	},
+	"SafariZoneCenterRestHouseHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "SafariZoneCenterRestHouseObjects",
+		"Blocks": "SharedRestHouseBlocks",
+		"Tileset": "Gate",
+		"Connections": {}
+	},
+	"SafariZoneSecretHouseHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "SafariZoneSecretHouseObjects",
+		"Blocks": "SafariZoneSecretHouseBlocks",
+		"Tileset": "Lab",
+		"Connections": {}
+	},
+	"SafariZoneWestRestHouseHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "SafariZoneWestRestHouseObjects",
+		"Blocks": "SharedRestHouseBlocks",
+		"Tileset": "Gate",
+		"Connections": {}
+	},
+	"SafariZoneEastRestHouseHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "SafariZoneEastRestHouseObjects",
+		"Blocks": "SharedRestHouseBlocks",
+		"Tileset": "Gate",
+		"Connections": {}
+	},
+	"SafariZoneNorthRestHouseHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "SafariZoneNorthRestHouseObjects",
+		"Blocks": "SharedRestHouseBlocks",
+		"Tileset": "Gate",
+		"Connections": {}
+	},
+	"CeruleanCave2FHeader": {
+		"Height": 9,
+		"Width": 15,
+		"Objects": "CeruleanCave2FObjects",
+		"Blocks": "CeruleanCave2FBlocks",
+		"Tileset": "Cavern",
+		"Connections": {}
+	},
+	"CeruleanCaveB1FHeader": {
+		"Height": 9,
+		"Width": 15,
+		"Objects": "CeruleanCaveB1FObjects",
+		"Blocks": "CeruleanCaveB1FBlocks",
+		"Tileset": "Cavern",
+		"Connections": {}
+	},
+	"CeruleanCave1FHeader": {
+		"Height": 9,
+		"Width": 15,
+		"Objects": "CeruleanCave1FObjects",
+		"Blocks": "CeruleanCave1FBlocks",
+		"Tileset": "Cavern",
+		"Connections": {}
+	},
+	"NameRatersHouseHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "NameRatersHouseObjects",
+		"Blocks": "SharedHouseBlocks1",
+		"Tileset": "House",
+		"Connections": {}
+	},
+	"CeruleanBadgeHouseHeader": {
+		"Height": 4,
+		"Width": 4,
+		"Objects": "CeruleanBadgeHouseObjects",
+		"Blocks": "CeruleanBadgeHouseBlocks",
+		"Tileset": "Ship",
+		"Connections": {}
+	},
+	"RockTunnelB1FHeader": {
+		"Height": 18,
+		"Width": 20,
+		"Objects": "RockTunnelB1FObjects",
+		"Blocks": "RockTunnelB1FBlocks",
+		"Tileset": "Cavern",
+		"Connections": {}
+	},
+	"SilphCo9FHeader": {
+		"Height": 9,
+		"Width": 13,
+		"Objects": "SilphCo9FObjects",
+		"Blocks": "SilphCo9FBlocks",
+		"Tileset": "Facility",
+		"Connections": {}
+	},
+	"SilphCo10FHeader": {
+		"Height": 9,
+		"Width": 8,
+		"Objects": "SilphCo10FObjects",
+		"Blocks": "SilphCo10FBlocks",
+		"Tileset": "Facility",
+		"Connections": {}
+	},
+	"SilphCo11FHeader": {
+		"Height": 9,
+		"Width": 9,
+		"Objects": "SilphCo11FObjects",
+		"Blocks": "SilphCo11FBlocks",
+		"Tileset": "Interior",
+		"Connections": {}
+	},
+	"SilphCoElevatorHeader": {
+		"Height": 2,
+		"Width": 2,
+		"Objects": "SilphCoElevatorObjects",
+		"Blocks": "SilphCoElevatorBlocks",
+		"Tileset": "Lobby",
+		"Connections": {}
+	},
+	"TradeCenterHeader": {
+		"Height": 4,
+		"Width": 5,
+		"Objects": "TradeCenterObjects",
+		"Blocks": "TradeCenterBlocks",
+		"Tileset": "Club",
+		"Connections": {}
+	},
+	"ColosseumHeader": {
+		"Height": 4,
+		"Width": 5,
+		"Objects": "ColosseumObjects",
+		"Blocks": "ColosseumBlocks",
+		"Tileset": "Club",
+		"Connections": {}
+	},
+	"LoreleisRoomHeader": {
+		"Height": 6,
+		"Width": 5,
+		"Objects": "LoreleisRoomObjects",
+		"Blocks": "LoreleisRoomBlocks",
+		"Tileset": "Gym",
+		"Connections": {}
+	},
+	"BrunosRoomHeader": {
+		"Height": 6,
+		"Width": 5,
+		"Objects": "BrunosRoomObjects",
+		"Blocks": "BrunosRoomBlocks",
+		"Tileset": "Gym",
+		"Connections": {}
+	},
+	"AgathasRoomHeader": {
+		"Height": 6,
+		"Width": 5,
+		"Objects": "AgathasRoomObjects",
+		"Blocks": "AgathasRoomBlocks",
+		"Tileset": "Cemetery",
+		"Connections": {}
+	}
+}

@@ -1,0 +1,74 @@
+{
+	"Overworld": {
+		"ID": 0
+	},
+	"RedsHouse1": {
+		"ID": 1
+	},
+	"Mart": {
+		"ID": 2
+	},
+	"Forest": {
+		"ID": 3
+	},
+	"RedsHouse2": {
+		"ID": 4
+	},
+	"Dojo": {
+		"ID": 5
+	},
+	"Pokecenter": {
+		"ID": 6
+	},
+	"Gym": {
+		"ID": 7
+	},
+	"House": {
+		"ID": 8
+	},
+	"ForestGate": {
+		"ID": 9
+	},
+	"Museum": {
+		"ID": 10
+	},
+	"Underground": {
+		"ID": 11
+	},
+	"Gate": {
+		"ID": 12
+	},
+	"Ship": {
+		"ID": 13
+	},
+	"ShipPort": {
+		"ID": 14
+	},
+	"Cemetery": {
+		"ID": 15
+	},
+	"Interior": {
+		"ID": 16
+	},
+	"Cavern": {
+		"ID": 17
+	},
+	"Lobby": {
+		"ID": 18
+	},
+	"Mansion": {
+		"ID": 19
+	},
+	"Lab": {
+		"ID": 20
+	},
+	"Club": {
+		"ID": 21
+	},
+	"Facility": {
+		"ID": 22
+	},
+	"Plateau": {
+		"ID": 23
+	}
+}

@@ -1,0 +1,143 @@
+{
+	"Youngster": {
+		"ID": 1
+	},
+	"BugCatcher": {
+		"ID": 2
+	},
+	"Lass": {
+		"ID": 3
+	},
+	"Sailor": {
+		"ID": 4
+	},
+	"JrTrainerM": {
+		"ID": 5
+	},
+	"JrTrainerF": {
+		"ID": 6
+	},
+	"Pokemaniac": {
+		"ID": 7
+	},
+	"SuperNerd": {
+		"ID": 8
+	},
+	"Hiker": {
+		"ID": 9
+	},
+	"Biker": {
+		"ID": 10
+	},
+	"Burglar": {
+		"ID": 11
+	},
+	"Engineer": {
+		"ID": 12
+	},
+	"JugglerX": {
+		"ID": 13
+	},
+	"Fisher": {
+		"ID": 14
+	},
+	"Swimmer": {
+		"ID": 15
+	},
+	"CueBall": {
+		"ID": 16
+	},
+	"Gambler": {
+		"ID": 17
+	},
+	"Beauty": {
+		"ID": 18
+	},
+	"PsychicTr": {
+		"ID": 19
+	},
+	"Rocker": {
+		"ID": 20
+	},
+	"Juggler": {
+		"ID": 21
+	},
+	"Tamer": {
+		"ID": 22
+	},
+	"BirdKeeper": {
+		"ID": 23
+	},
+	"Blackbelt": {
+		"ID": 24
+	},
+	"Sony1": {
+		"ID": 25
+	},
+	"ProfOak": {
+		"ID": 26
+	},
+	"Chief": {
+		"ID": 27
+	},
+	"Scientist": {
+		"ID": 28
+	},
+	"Giovanni": {
+		"ID": 29
+	},
+	"Rocket": {
+		"ID": 30
+	},
+	"CooltrainerM": {
+		"ID": 31
+	},
+	"CooltrainerF": {
+		"ID": 32
+	},
+	"Bruno": {
+		"ID": 33
+	},
+	"Brock": {
+		"ID": 34
+	},
+	"Misty": {
+		"ID": 35
+	},
+	"LtSurge": {
+		"ID": 36
+	},
+	"Erika": {
+		"ID": 37
+	},
+	"Koga": {
+		"ID": 38
+	},
+	"Blaine": {
+		"ID": 39
+	},
+	"Sabrina": {
+		"ID": 40
+	},
+	"Gentleman": {
+		"ID": 41
+	},
+	"Sony2": {
+		"ID": 42
+	},
+	"Sony3": {
+		"ID": 43
+	},
+	"Lorelei": {
+		"ID": 44
+	},
+	"Channeler": {
+		"ID": 45
+	},
+	"Agatha": {
+		"ID": 46
+	},
+	"Lance": {
+		"ID": 47
+	}
+}
