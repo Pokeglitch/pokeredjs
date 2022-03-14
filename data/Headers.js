@@ -11,8 +11,8 @@ const MAP = {
 let Headers = json('./Headers.json');
 
 class HeaderData {
-    constructor(name, data){
-        this.Name = name;
+    constructor(id, data){
+        this.ID = id;
         this.Maps = new Set();
 
         this.Height = data.Height;
@@ -40,8 +40,8 @@ class HeaderData {
             data.Map = Maps[data.Map];
         });
 
-        Goto(this.Name)
-        this.Pointer = Data(this.Name, this.toROM() )
+        Goto(this.ID)
+        this.Pointer = Data(this.ID, this.toROM() )
     }
     addMap(map){
         this.Maps.add(map);
@@ -50,18 +50,18 @@ class HeaderData {
         this.Maps.remove(map);
     }
     toROM(){
-        let name = this.Name.replace("Header","");
+        let id = this.ID.replace("Header","");
         return {
-            Tileset : this.Tileset.ID,
+            Tileset : this.Tileset.Index,
             Height : this.Height,
             Width : this.Width,
             Blocks : this.Blocks.Pointer,
-            Texts : $(name + '_TextPointers'),
+            Texts : $(id + '_TextPointers'),
             //Texts : this.Texts.Pointer,
-            Scripts : $(name + '_Script'),
+            Scripts : $(id + '_Script'),
             //Scripts : this.Scripts.Pointer,
             Connections : this.ROMConnections(),
-            Objects : $(name + 'Objects'),
+            Objects : $(id + 'Objects'),
             //Objects : this.Objects.Pointer
         }
     }
@@ -80,7 +80,7 @@ class HeaderData {
             },
             toROM = (con, offsets, data) => {
                 return {
-                    Map : con.Map.ID,
+                    Map : con.Map.Index,
                     ConnectionStart : con.Map.Header.Blocks.Pointer[data.ConnectionStartBlock],
                     OverworldStart : wOverworldMap[data.OverworldStartBlock],
                     Size : data.Length - offsets.source,
@@ -179,7 +179,7 @@ class HeaderData {
     }
 }
 
-Object.keys(Headers).forEach(name => {
-    let value = Headers[name];
-    Headers[name] = new HeaderData(name, value);
+Object.keys(Headers).forEach(id => {
+    let value = Headers[id];
+    Headers[id] = new HeaderData(id, value);
 });

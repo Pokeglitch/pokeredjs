@@ -2,7 +2,7 @@ let Tilesets = json('./Tilesets.json');
 
 class TilesetData {
     constructor(data){
-        this.ID = data.ID;
+        this.Index = data.Index;
         this.Headers = new Set();
     }
     addHeader(header){

@@ -3,9 +3,9 @@ let Maps = json('./Maps.json'),
     MapHeaderBanks = new Table('MapHeaderBanks', map => map.Header.Pointer.Bank);
 
 class MapData {
-    constructor(name, data){
-        this.Name = name;
-        this.ID = data.ID;
+    constructor(id, data){
+        this.ID = id;
+        this.Index = data.Index;
         this.Header = Headers[data.Header];
         this.Header.addMap(this);
 
@@ -14,17 +14,17 @@ class MapData {
     }
 }
 
-Object.keys(Maps).forEach(name => {
-    let value = Maps[name];
-    Maps[name] = new MapData(name, value);
+Object.keys(Maps).forEach(id => {
+    let value = Maps[id];
+    Maps[id] = new MapData(id, value);
 });
 
 // Once all maps have been defined, then finalize the other data that refer to maps
-Object.keys(Objects).forEach(name => {
-    Objects[name].finalize();
+Object.keys(Objects).forEach(id => {
+    Objects[id].finalize();
 });
 
-Object.keys(Headers).forEach(name => {
-    Headers[name].finalize();
+Object.keys(Headers).forEach(id => {
+    Headers[id].finalize();
 });
 

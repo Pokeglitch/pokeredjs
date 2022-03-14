@@ -20,8 +20,8 @@ const ITEM = 0x80,
 let Objects = json('./Objects.json');
 
 class ObjectsData {
-    constructor(name, data){
-        this.Name = name;
+    constructor(id, data){
+        this.ID = id;
         this.Border = data.Border;
         this.Warps = data.Warps;
         this.Signs = data.Signs;
@@ -60,8 +60,8 @@ class ObjectsData {
             }
         });
 
-        Goto(this.Name)
-        this.Pointer = Data(this.Name, this.toROM());
+        Goto(this.ID)
+        this.Pointer = Data(this.ID, this.toROM());
     }
     addHeader(header){
         this.Headers.add(header);
@@ -72,7 +72,7 @@ class ObjectsData {
     toROM(){
         let sprites = this.Sprites.map( sprite => {
                 let data = {
-                    Sprite : sprite.Sprite.ID,
+                    Sprite : sprite.Sprite.Index,
                     Y : sprite.Y + 4,
                     X : sprite.X + 4,
                     Movement : sprite.Movement ? Movement.Walk : Movement.Stay,
@@ -84,21 +84,21 @@ class ObjectsData {
                     data.Text += TRAINER;
                     data.Trainer = typeof sprite.Trainer === "number" ?
                         sprite.Trainer :
-                        sprite.Trainer.ID + OPP_ID_OFFSET;
+                        sprite.Trainer.Index + OPP_ID_OFFSET;
                     data.Index = sprite.Index;
                 }
                 else if( sprite.Type == "Pokemon" ){
                     data.Text += TRAINER;
                     data.Pokemon = typeof sprite.Pokemon === "number" ?
                         sprite.Pokemon :
-                        sprite.Pokemon.ID;
+                        sprite.Pokemon.Index;
                     data.Level = sprite.Level;
                 }
                 else if( sprite.Type == "Item" ){
                     data.Text += ITEM;
                     data.Item = typeof sprite.Item === "number" ?
                         sprite.Item :
-                        sprite.Item.ID;
+                        sprite.Item.Index;
                 }
 
                 return data;
@@ -115,7 +115,7 @@ class ObjectsData {
                         Index : warp.Index,
                         Map : typeof warp.Map === "number" ?
                             warp.Map :
-                            warp.Map.ID
+                            warp.Map.Index
                     };
                 }),
             },
@@ -156,7 +156,7 @@ class ObjectsData {
     }
 }
 
-Object.keys(Objects).forEach(name => {
-    let value = Objects[name];
-    Objects[name] = new ObjectsData(name, value);
+Object.keys(Objects).forEach(id => {
+    let value = Objects[id];
+    Objects[id] = new ObjectsData(id, value);
 });

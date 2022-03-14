@@ -1,464 +1,615 @@
 {
 	"Rhydon": {
-		"ID": 1
+		"Index": 1,
+		"Name" : "RHYDON"
 	},
 	"Kangaskhan": {
-		"ID": 2
+		"Index": 2,
+		"Name" : "KANGASKHAN"
 	},
 	"NidoranM": {
-		"ID": 3
+		"Index": 3,
+		"Name" : "NIDORAN♂"
 	},
 	"Clefairy": {
-		"ID": 4
+		"Index": 4,
+		"Name" : "CLEFAIRY"
 	},
 	"Spearow": {
-		"ID": 5
+		"Index": 5,
+		"Name" : "SPEAROW"
 	},
 	"Voltorb": {
-		"ID": 6
+		"Index": 6,
+		"Name" : "VOLTORB"
 	},
 	"Nidoking": {
-		"ID": 7
+		"Index": 7,
+		"Name" : "NIDOKING"
 	},
 	"Slowbro": {
-		"ID": 8
+		"Index": 8,
+		"Name" : "SLOWBRO"
 	},
 	"Ivysaur": {
-		"ID": 9
+		"Index": 9,
+		"Name" : "IVYSAUR"
 	},
 	"Exeggutor": {
-		"ID": 10
+		"Index": 10,
+		"Name" : "EXEGGUTOR"
 	},
 	"Lickitung": {
-		"ID": 11
+		"Index": 11,
+		"Name" : "LICKITUNG"
 	},
 	"Exeggcute": {
-		"ID": 12
+		"Index": 12,
+		"Name" : "EXEGGCUTE"
 	},
 	"Grimer": {
-		"ID": 13
+		"Index": 13,
+		"Name" : "GRIMER"
 	},
 	"Gengar": {
-		"ID": 14
+		"Index": 14,
+		"Name" : "GENGAR"
 	},
 	"NidoranF": {
-		"ID": 15
+		"Index": 15,
+		"Name" : "NIDORAN♀"
 	},
 	"Nidoqueen": {
-		"ID": 16
+		"Index": 16,
+		"Name" : "NIDOQUEEN"
 	},
 	"Cubone": {
-		"ID": 17
+		"Index": 17,
+		"Name" : "CUBONE"
 	},
 	"Rhyhorn": {
-		"ID": 18
+		"Index": 18,
+		"Name" : "RHYHORN"
 	},
 	"Lapras": {
-		"ID": 19
+		"Index": 19,
+		"Name" : "LAPRAS"
 	},
 	"Arcanine": {
-		"ID": 20
+		"Index": 20,
+		"Name" : "ARCANINE"
 	},
 	"Mew": {
-		"ID": 21
+		"Index": 21,
+		"Name" : "MEW"
 	},
 	"Gyarados": {
-		"ID": 22
+		"Index": 22,
+		"Name" : "GYARADOS"
 	},
 	"Shellder": {
-		"ID": 23
+		"Index": 23,
+		"Name" : "SHELLDER"
 	},
 	"Tentacool": {
-		"ID": 24
+		"Index": 24,
+		"Name" : "TENTACOOL"
 	},
 	"Gastly": {
-		"ID": 25
+		"Index": 25,
+		"Name" : "GASTLY"
 	},
 	"Scyther": {
-		"ID": 26
+		"Index": 26,
+		"Name" : "SCYTHER"
 	},
 	"Staryu": {
-		"ID": 27
+		"Index": 27,
+		"Name" : "STARYU"
 	},
 	"Blastoise": {
-		"ID": 28
+		"Index": 28,
+		"Name" : "BLASTOISE"
 	},
 	"Pinsir": {
-		"ID": 29
+		"Index": 29,
+		"Name" : "PINSIR"
 	},
 	"Tangela": {
-		"ID": 30
+		"Index": 30,
+		"Name" : "TANGELA"
 	},
 	"Growlithe": {
-		"ID": 33
+		"Index": 33,
+		"Name" : "GROWLITHE"
 	},
 	"Onix": {
-		"ID": 34
+		"Index": 34,
+		"Name" : "ONIX"
 	},
 	"Fearow": {
-		"ID": 35
+		"Index": 35,
+		"Name" : "FEAROW"
 	},
 	"Pidgey": {
-		"ID": 36
+		"Index": 36,
+		"Name" : "PIDGEY"
 	},
 	"Slowpoke": {
-		"ID": 37
+		"Index": 37,
+		"Name" : "SLOWPOKE"
 	},
 	"Kadabra": {
-		"ID": 38
+		"Index": 38,
+		"Name" : "KADABRA"
 	},
 	"Graveler": {
-		"ID": 39
+		"Index": 39,
+		"Name" : "GRAVELER"
 	},
 	"Chansey": {
-		"ID": 40
+		"Index": 40,
+		"Name" : "CHANSEY"
 	},
 	"Machoke": {
-		"ID": 41
+		"Index": 41,
+		"Name" : "MACHOKE"
 	},
 	"MrMime": {
-		"ID": 42
+		"Index": 42,
+		"Name" : "MR.MIME"
 	},
 	"Hitmonlee": {
-		"ID": 43
+		"Index": 43,
+		"Name" : "HITMONLEE"
 	},
 	"Hitmonchan": {
-		"ID": 44
+		"Index": 44,
+		"Name" : "HITMONCHAN"
 	},
 	"Arbok": {
-		"ID": 45
+		"Index": 45,
+		"Name" : "ARBOK"
 	},
 	"Parasect": {
-		"ID": 46
+		"Index": 46,
+		"Name" : "PARASECT"
 	},
 	"Psyduck": {
-		"ID": 47
+		"Index": 47,
+		"Name" : "PSYDUCK"
 	},
 	"Drowzee": {
-		"ID": 48
+		"Index": 48,
+		"Name" : "DROWZEE"
 	},
 	"Golem": {
-		"ID": 49
+		"Index": 49,
+		"Name" : "GOLEM"
 	},
 	"Magmar": {
-		"ID": 51
+		"Index": 51,
+		"Name" : "MAGMAR"
 	},
 	"Electabuzz": {
-		"ID": 53
+		"Index": 53,
+		"Name" : "ELECTABUZZ"
 	},
 	"Magneton": {
-		"ID": 54
+		"Index": 54,
+		"Name" : "MAGNETON"
 	},
 	"Koffing": {
-		"ID": 55
+		"Index": 55,
+		"Name" : "KOFFING"
 	},
 	"Mankey": {
-		"ID": 57
+		"Index": 57,
+		"Name" : "MANKEY"
 	},
 	"Seel": {
-		"ID": 58
+		"Index": 58,
+		"Name" : "SEEL"
 	},
 	"Diglett": {
-		"ID": 59
+		"Index": 59,
+		"Name" : "DIGLETT"
 	},
 	"Tauros": {
-		"ID": 60
+		"Index": 60,
+		"Name" : "TAUROS"
 	},
 	"FarfetchD": {
-		"ID": 64
+		"Index": 64,
+		"Name" : "FARFETCH'D"
 	},
 	"Venonat": {
-		"ID": 65
+		"Index": 65,
+		"Name" : "VENONAT"
 	},
 	"Dragonite": {
-		"ID": 66
+		"Index": 66,
+		"Name" : "DRAGONITE"
 	},
 	"Doduo": {
-		"ID": 70
+		"Index": 70,
+		"Name" : "DODUO"
 	},
 	"Poliwag": {
-		"ID": 71
+		"Index": 71,
+		"Name" : "POLIWAG"
 	},
 	"Jynx": {
-		"ID": 72
+		"Index": 72,
+		"Name" : "JYNX"
 	},
 	"Moltres": {
-		"ID": 73
+		"Index": 73,
+		"Name" : "MOLTRES"
 	},
 	"Articuno": {
-		"ID": 74
+		"Index": 74,
+		"Name" : "ARTICUNO"
 	},
 	"Zapdos": {
-		"ID": 75
+		"Index": 75,
+		"Name" : "ZAPDOS"
 	},
 	"Ditto": {
-		"ID": 76
+		"Index": 76,
+		"Name" : "DITTO"
 	},
 	"Meowth": {
-		"ID": 77
+		"Index": 77,
+		"Name" : "MEOWTH"
 	},
 	"Krabby": {
-		"ID": 78
+		"Index": 78,
+		"Name" : "KRABBY"
 	},
 	"Vulpix": {
-		"ID": 82
+		"Index": 82,
+		"Name" : "VULPIX"
 	},
 	"Ninetales": {
-		"ID": 83
+		"Index": 83,
+		"Name" : "NINETALES"
 	},
 	"Pikachu": {
-		"ID": 84
+		"Index": 84,
+		"Name" : "PIKACHU"
 	},
 	"Raichu": {
-		"ID": 85
+		"Index": 85,
+		"Name" : "RAICHU"
 	},
 	"Dratini": {
-		"ID": 88
+		"Index": 88,
+		"Name" : "DRATINI"
 	},
 	"Dragonair": {
-		"ID": 89
+		"Index": 89,
+		"Name" : "DRAGONAIR"
 	},
 	"Kabuto": {
-		"ID": 90
+		"Index": 90,
+		"Name" : "KABUTO"
 	},
 	"Kabutops": {
-		"ID": 91
+		"Index": 91,
+		"Name" : "KABUTOPS"
 	},
 	"Horsea": {
-		"ID": 92
+		"Index": 92,
+		"Name" : "HORSEA"
 	},
 	"Seadra": {
-		"ID": 93
+		"Index": 93,
+		"Name" : "SEADRA"
 	},
 	"Sandshrew": {
-		"ID": 96
+		"Index": 96,
+		"Name" : "SANDSHREW"
 	},
 	"Sandslash": {
-		"ID": 97
+		"Index": 97,
+		"Name" : "SANDSLASH"
 	},
 	"Omanyte": {
-		"ID": 98
+		"Index": 98,
+		"Name" : "OMANYTE"
 	},
 	"Omastar": {
-		"ID": 99
+		"Index": 99,
+		"Name" : "OMASTAR"
 	},
 	"Jigglypuff": {
-		"ID": 100
+		"Index": 100,
+		"Name" : "JIGGLYPUFF"
 	},
 	"Wigglytuff": {
-		"ID": 101
+		"Index": 101,
+		"Name" : "WIGGLYTUFF"
 	},
 	"Eevee": {
-		"ID": 102
+		"Index": 102,
+		"Name" : "EEVEE"
 	},
 	"Flareon": {
-		"ID": 103
+		"Index": 103,
+		"Name" : "FLAREON"
 	},
 	"Jolteon": {
-		"ID": 104
+		"Index": 104,
+		"Name" : "JOLTEON"
 	},
 	"Vaporeon": {
-		"ID": 105
+		"Index": 105,
+		"Name" : "VAPOREON"
 	},
 	"Machop": {
-		"ID": 106
+		"Index": 106,
+		"Name" : "MACHOP"
 	},
 	"Zubat": {
-		"ID": 107
+		"Index": 107,
+		"Name" : "ZUBAT"
 	},
 	"Ekans": {
-		"ID": 108
+		"Index": 108,
+		"Name" : "EKANS"
 	},
 	"Paras": {
-		"ID": 109
+		"Index": 109,
+		"Name" : "PARAS"
 	},
 	"Poliwhirl": {
-		"ID": 110
+		"Index": 110,
+		"Name" : "POLIWHIRL"
 	},
 	"Poliwrath": {
-		"ID": 111
+		"Index": 111,
+		"Name" : "POLIWRATH"
 	},
 	"Weedle": {
-		"ID": 112
+		"Index": 112,
+		"Name" : "WEEDLE"
 	},
 	"Kakuna": {
-		"ID": 113
+		"Index": 113,
+		"Name" : "KAKUNA"
 	},
 	"Beedrill": {
-		"ID": 114
+		"Index": 114,
+		"Name" : "BEEDRILL"
 	},
 	"Dodrio": {
-		"ID": 116
+		"Index": 116,
+		"Name" : "DODRIO"
 	},
 	"Primeape": {
-		"ID": 117
+		"Index": 117,
+		"Name" : "PRIMEAPE"
 	},
 	"Dugtrio": {
-		"ID": 118
+		"Index": 118,
+		"Name" : "DUGTRIO"
 	},
 	"Venomoth": {
-		"ID": 119
+		"Index": 119,
+		"Name" : "VENOMOTH"
 	},
 	"Dewgong": {
-		"ID": 120
+		"Index": 120,
+		"Name" : "DEWGONG"
 	},
 	"Caterpie": {
-		"ID": 123
+		"Index": 123,
+		"Name" : "CATERPIE"
 	},
 	"Metapod": {
-		"ID": 124
+		"Index": 124,
+		"Name" : "METAPOD"
 	},
 	"Butterfree": {
-		"ID": 125
+		"Index": 125,
+		"Name" : "BUTTERFREE"
 	},
 	"Machamp": {
-		"ID": 126
+		"Index": 126,
+		"Name" : "MACHAMP"
 	},
 	"Golduck": {
-		"ID": 128
+		"Index": 128,
+		"Name" : "GOLDUCK"
 	},
 	"Hypno": {
-		"ID": 129
+		"Index": 129,
+		"Name" : "HYPNO"
 	},
 	"Golbat": {
-		"ID": 130
+		"Index": 130,
+		"Name" : "GOLBAT"
 	},
 	"Mewtwo": {
-		"ID": 131
+		"Index": 131,
+		"Name" : "MEWTWO"
 	},
 	"Snorlax": {
-		"ID": 132
+		"Index": 132,
+		"Name" : "SNORLAX"
 	},
 	"Magikarp": {
-		"ID": 133
+		"Index": 133,
+		"Name" : "MAGIKARP"
 	},
 	"Muk": {
-		"ID": 136
+		"Index": 136,
+		"Name" : "MUK"
 	},
 	"Kingler": {
-		"ID": 138
+		"Index": 138,
+		"Name" : "KINGLER"
 	},
 	"Cloyster": {
-		"ID": 139
+		"Index": 139,
+		"Name" : "CLOYSTER"
 	},
 	"Electrode": {
-		"ID": 141
+		"Index": 141,
+		"Name" : "ELECTRODE"
 	},
 	"Clefable": {
-		"ID": 142
+		"Index": 142,
+		"Name" : "CLEFABLE"
 	},
 	"Weezing": {
-		"ID": 143
+		"Index": 143,
+		"Name" : "WEEZING"
 	},
 	"Persian": {
-		"ID": 144
+		"Index": 144,
+		"Name" : "PERSIAN"
 	},
 	"Marowak": {
-		"ID": 145
+		"Index": 145,
+		"Name" : "MAROWAK"
 	},
 	"Haunter": {
-		"ID": 147
+		"Index": 147,
+		"Name" : "HAUNTER"
 	},
 	"Abra": {
-		"ID": 148
+		"Index": 148,
+		"Name" : "ABRA"
 	},
 	"Alakazam": {
-		"ID": 149
+		"Index": 149,
+		"Name" : "ALAKAZAM"
 	},
 	"Pidgeotto": {
-		"ID": 150
+		"Index": 150,
+		"Name" : "PIDGEOTTO"
 	},
 	"Pidgeot": {
-		"ID": 151
+		"Index": 151,
+		"Name" : "PIDGEOT"
 	},
 	"Starmie": {
-		"ID": 152
+		"Index": 152,
+		"Name" : "STARMIE"
 	},
 	"Bulbasaur": {
-		"ID": 153
+		"Index": 153,
+		"Name" : "BULBASAUR"
 	},
 	"Venusaur": {
-		"ID": 154
+		"Index": 154,
+		"Name" : "VENUSAUR"
 	},
 	"Tentacruel": {
-		"ID": 155
+		"Index": 155,
+		"Name" : "TENTACRUEL"
 	},
 	"Goldeen": {
-		"ID": 157
+		"Index": 157,
+		"Name" : "GOLDEEN"
 	},
 	"Seaking": {
-		"ID": 158
+		"Index": 158,
+		"Name" : "SEAKING"
 	},
 	"Ponyta": {
-		"ID": 163
+		"Index": 163,
+		"Name" : "PONYTA"
 	},
 	"Rapidash": {
-		"ID": 164
+		"Index": 164,
+		"Name" : "RAPIDASH"
 	},
 	"Rattata": {
-		"ID": 165
+		"Index": 165,
+		"Name" : "RATTATA"
 	},
 	"Raticate": {
-		"ID": 166
+		"Index": 166,
+		"Name" : "RATICATE"
 	},
 	"Nidorino": {
-		"ID": 167
+		"Index": 167,
+		"Name" : "NIDORINO"
 	},
 	"Nidorina": {
-		"ID": 168
+		"Index": 168,
+		"Name" : "NIDORINA"
 	},
 	"Geodude": {
-		"ID": 169
+		"Index": 169,
+		"Name" : "GEODUDE"
 	},
 	"Porygon": {
-		"ID": 170
+		"Index": 170,
+		"Name" : "PORYGON"
 	},
 	"Aerodactyl": {
-		"ID": 171
+		"Index": 171,
+		"Name" : "AERODACTYL"
 	},
 	"Magnemite": {
-		"ID": 173
+		"Index": 173,
+		"Name" : "MAGNEMITE"
 	},
 	"Charmander": {
-		"ID": 176
+		"Index": 176,
+		"Name" : "CHARMANDER"
 	},
 	"Squirtle": {
-		"ID": 177
+		"Index": 177,
+		"Name" : "SQUIRTLE"
 	},
 	"Charmeleon": {
-		"ID": 178
+		"Index": 178,
+		"Name" : "CHARMELEON"
 	},
 	"Wartortle": {
-		"ID": 179
+		"Index": 179,
+		"Name" : "WARTORTLE"
 	},
 	"Charizard": {
-		"ID": 180
+		"Index": 180,
+		"Name" : "CHARIZARD"
 	},
 	"FossilKabutops": {
-		"ID": 182
+		"Index": 182
 	},
 	"FossilAerodactyl": {
-		"ID": 183
+		"Index": 183
 	},
 	"MonGhost": {
-		"ID": 184
+		"Index": 184
 	},
 	"Oddish": {
-		"ID": 185
+		"Index": 185,
+		"Name" : "ODDISH"
 	},
 	"Gloom": {
-		"ID": 186
+		"Index": 186,
+		"Name" : "GLOOM"
 	},
 	"Vileplume": {
-		"ID": 187
+		"Index": 187,
+		"Name" : "VILEPLUME"
 	},
 	"Bellsprout": {
-		"ID": 188
+		"Index": 188,
+		"Name" : "BELLSPROUT"
 	},
 	"Weepinbell": {
-		"ID": 189
+		"Index": 189,
+		"Name" : "WEEPINBELL"
 	},
 	"Victreebel": {
-		"ID": 190
+		"Index": 190,
+		"Name" : "VICTREEBEL"
 	}
 }

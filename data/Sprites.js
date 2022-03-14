@@ -1,13 +1,13 @@
 let Sprites = json('./Sprites.json');
 
 class SpriteData {
-    constructor(name, data){
-        this.Name = name;
-        this.ID = data.ID;
+    constructor(id, data){
+        this.ID = id;
+        this.Index = data.Index;
     }
 }
 
-Object.keys(Sprites).forEach(name => {
-    let value = Sprites[name];
-    Sprites[name] = new SpriteData(name, value);
+Object.keys(Sprites).forEach(id => {
+    let value = Sprites[id];
+    Sprites[id] = new SpriteData(id, value);
 });

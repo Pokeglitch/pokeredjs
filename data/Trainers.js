@@ -1,13 +1,13 @@
 let Trainers = json('./Trainers.json');
 
 class TrainerData {
-    constructor(name, data){
-        this.Name = name;
-        this.ID = data.ID;
+    constructor(id, data){
+        this.ID = id;
+        this.Index = data.Index;
     }
 }
 
-Object.keys(Trainers).forEach(name => {
-    let value = Trainers[name];
-    Trainers[name] = new TrainerData(name, value);
+Object.keys(Trainers).forEach(id => {
+    let value = Trainers[id];
+    Trainers[id] = new TrainerData(id, value);
 });

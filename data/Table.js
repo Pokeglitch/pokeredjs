@@ -1,6 +1,6 @@
 class Table {
-    constructor(name, mapper = null){
-        this.Name = name;
+    constructor(id, mapper = null){
+        this.ID = id;
         this.Mapper = mapper;
         this.Data = [];
         this.Pointer = null;
@@ -10,6 +10,6 @@ class Table {
     }
     toROM(){
         let data = this.Data.map(this.Mapper);
-        this.Pointer = Data(this.Name, data);
+        this.Pointer = Data(this.ID, data);
     }
 }

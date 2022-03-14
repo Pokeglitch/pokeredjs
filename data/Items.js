@@ -1,13 +1,13 @@
 let Items = json('./Items.json');
 
 class ItemData {
-    constructor(name, data){
-        this.Name = name;
-        this.ID = data.ID;
+    constructor(id, data){
+        this.ID = id;
+        this.Index = data.Index;
     }
 }
 
-Object.keys(Items).forEach(name => {
-    let value = Items[name];
-    Items[name] = new ItemData(name, value);
+Object.keys(Items).forEach(id => {
+    let value = Items[id];
+    Items[id] = new ItemData(id, value);
 });

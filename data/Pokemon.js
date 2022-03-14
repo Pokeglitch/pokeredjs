@@ -1,9 +1,10 @@
 let Pokemon = json('./Pokemon.json');
 
 class PokemonData {
-    constructor(name, data){
-        this.Name = name;
-        this.ID = data.ID;
+    constructor(id, data){
+        this.ID = id;
+        this.Index = data.Index;
+        this.Name = data.Name;
     }
 }
 

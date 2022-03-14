@@ -1,994 +1,994 @@
 {
 	"PalletTown": {
-		"ID": 0,
+		"Index": 0,
 		"Header": "PalletTownHeader"
 	},
 	"ViridianCity": {
-		"ID": 1,
+		"Index": 1,
 		"Header": "ViridianCityHeader"
 	},
 	"PewterCity": {
-		"ID": 2,
+		"Index": 2,
 		"Header": "PewterCityHeader"
 	},
 	"CeruleanCity": {
-		"ID": 3,
+		"Index": 3,
 		"Header": "CeruleanCityHeader"
 	},
 	"LavenderTown": {
-		"ID": 4,
+		"Index": 4,
 		"Header": "LavenderTownHeader"
 	},
 	"VermilionCity": {
-		"ID": 5,
+		"Index": 5,
 		"Header": "VermilionCityHeader"
 	},
 	"CeladonCity": {
-		"ID": 6,
+		"Index": 6,
 		"Header": "CeladonCityHeader"
 	},
 	"FuchsiaCity": {
-		"ID": 7,
+		"Index": 7,
 		"Header": "FuchsiaCityHeader"
 	},
 	"CinnabarIsland": {
-		"ID": 8,
+		"Index": 8,
 		"Header": "CinnabarIslandHeader"
 	},
 	"IndigoPlateau": {
-		"ID": 9,
+		"Index": 9,
 		"Header": "IndigoPlateauHeader"
 	},
 	"SaffronCity": {
-		"ID": 10,
+		"Index": 10,
 		"Header": "SaffronCityHeader"
 	},
 	"UnusedMap_0B": {
-		"ID": 11,
+		"Index": 11,
 		"Header": "SaffronCityHeader"
 	},
 	"Route1": {
-		"ID": 12,
+		"Index": 12,
 		"Header": "Route1Header"
 	},
 	"Route2": {
-		"ID": 13,
+		"Index": 13,
 		"Header": "Route2Header"
 	},
 	"Route3": {
-		"ID": 14,
+		"Index": 14,
 		"Header": "Route3Header"
 	},
 	"Route4": {
-		"ID": 15,
+		"Index": 15,
 		"Header": "Route4Header"
 	},
 	"Route5": {
-		"ID": 16,
+		"Index": 16,
 		"Header": "Route5Header"
 	},
 	"Route6": {
-		"ID": 17,
+		"Index": 17,
 		"Header": "Route6Header"
 	},
 	"Route7": {
-		"ID": 18,
+		"Index": 18,
 		"Header": "Route7Header"
 	},
 	"Route8": {
-		"ID": 19,
+		"Index": 19,
 		"Header": "Route8Header"
 	},
 	"Route9": {
-		"ID": 20,
+		"Index": 20,
 		"Header": "Route9Header"
 	},
 	"Route10": {
-		"ID": 21,
+		"Index": 21,
 		"Header": "Route10Header"
 	},
 	"Route11": {
-		"ID": 22,
+		"Index": 22,
 		"Header": "Route11Header"
 	},
 	"Route12": {
-		"ID": 23,
+		"Index": 23,
 		"Header": "Route12Header"
 	},
 	"Route13": {
-		"ID": 24,
+		"Index": 24,
 		"Header": "Route13Header"
 	},
 	"Route14": {
-		"ID": 25,
+		"Index": 25,
 		"Header": "Route14Header"
 	},
 	"Route15": {
-		"ID": 26,
+		"Index": 26,
 		"Header": "Route15Header"
 	},
 	"Route16": {
-		"ID": 27,
+		"Index": 27,
 		"Header": "Route16Header"
 	},
 	"Route17": {
-		"ID": 28,
+		"Index": 28,
 		"Header": "Route17Header"
 	},
 	"Route18": {
-		"ID": 29,
+		"Index": 29,
 		"Header": "Route18Header"
 	},
 	"Route19": {
-		"ID": 30,
+		"Index": 30,
 		"Header": "Route19Header"
 	},
 	"Route20": {
-		"ID": 31,
+		"Index": 31,
 		"Header": "Route20Header"
 	},
 	"Route21": {
-		"ID": 32,
+		"Index": 32,
 		"Header": "Route21Header"
 	},
 	"Route22": {
-		"ID": 33,
+		"Index": 33,
 		"Header": "Route22Header"
 	},
 	"Route23": {
-		"ID": 34,
+		"Index": 34,
 		"Header": "Route23Header"
 	},
 	"Route24": {
-		"ID": 35,
+		"Index": 35,
 		"Header": "Route24Header"
 	},
 	"Route25": {
-		"ID": 36,
+		"Index": 36,
 		"Header": "Route25Header"
 	},
 	"RedsHouse1F": {
-		"ID": 37,
+		"Index": 37,
 		"Header": "RedsHouse1FHeader"
 	},
 	"RedsHouse2F": {
-		"ID": 38,
+		"Index": 38,
 		"Header": "RedsHouse2FHeader"
 	},
 	"BluesHouse": {
-		"ID": 39,
+		"Index": 39,
 		"Header": "BluesHouseHeader"
 	},
 	"OaksLab": {
-		"ID": 40,
+		"Index": 40,
 		"Header": "OaksLabHeader"
 	},
 	"ViridianPokecenter": {
-		"ID": 41,
+		"Index": 41,
 		"Header": "ViridianPokecenterHeader"
 	},
 	"ViridianMart": {
-		"ID": 42,
+		"Index": 42,
 		"Header": "ViridianMartHeader"
 	},
 	"ViridianSchoolHouse": {
-		"ID": 43,
+		"Index": 43,
 		"Header": "ViridianSchoolHouseHeader"
 	},
 	"ViridianNicknameHouse": {
-		"ID": 44,
+		"Index": 44,
 		"Header": "ViridianNicknameHouseHeader"
 	},
 	"ViridianGym": {
-		"ID": 45,
+		"Index": 45,
 		"Header": "ViridianGymHeader"
 	},
 	"DiglettsCaveRoute2": {
-		"ID": 46,
+		"Index": 46,
 		"Header": "DiglettsCaveRoute2Header"
 	},
 	"ViridianForestNorthGate": {
-		"ID": 47,
+		"Index": 47,
 		"Header": "ViridianForestNorthGateHeader"
 	},
 	"Route2TradeHouse": {
-		"ID": 48,
+		"Index": 48,
 		"Header": "Route2TradeHouseHeader"
 	},
 	"Route2Gate": {
-		"ID": 49,
+		"Index": 49,
 		"Header": "Route2GateHeader"
 	},
 	"ViridianForestSouthGate": {
-		"ID": 50,
+		"Index": 50,
 		"Header": "ViridianForestSouthGateHeader"
 	},
 	"ViridianForest": {
-		"ID": 51,
+		"Index": 51,
 		"Header": "ViridianForestHeader"
 	},
 	"Museum1F": {
-		"ID": 52,
+		"Index": 52,
 		"Header": "Museum1FHeader"
 	},
 	"Museum2F": {
-		"ID": 53,
+		"Index": 53,
 		"Header": "Museum2FHeader"
 	},
 	"PewterGym": {
-		"ID": 54,
+		"Index": 54,
 		"Header": "PewterGymHeader"
 	},
 	"PewterNidoranHouse": {
-		"ID": 55,
+		"Index": 55,
 		"Header": "PewterNidoranHouseHeader"
 	},
 	"PewterMart": {
-		"ID": 56,
+		"Index": 56,
 		"Header": "PewterMartHeader"
 	},
 	"PewterSpeechHouse": {
-		"ID": 57,
+		"Index": 57,
 		"Header": "PewterSpeechHouseHeader"
 	},
 	"PewterPokecenter": {
-		"ID": 58,
+		"Index": 58,
 		"Header": "PewterPokecenterHeader"
 	},
 	"MtMoon1F": {
-		"ID": 59,
+		"Index": 59,
 		"Header": "MtMoon1FHeader"
 	},
 	"MtMoonB1F": {
-		"ID": 60,
+		"Index": 60,
 		"Header": "MtMoonB1FHeader"
 	},
 	"MtMoonB2F": {
-		"ID": 61,
+		"Index": 61,
 		"Header": "MtMoonB2FHeader"
 	},
 	"CeruleanTrashedHouse": {
-		"ID": 62,
+		"Index": 62,
 		"Header": "CeruleanTrashedHouseHeader"
 	},
 	"CeruleanTradeHouse": {
-		"ID": 63,
+		"Index": 63,
 		"Header": "CeruleanTradeHouseHeader"
 	},
 	"CeruleanPokecenter": {
-		"ID": 64,
+		"Index": 64,
 		"Header": "CeruleanPokecenterHeader"
 	},
 	"CeruleanGym": {
-		"ID": 65,
+		"Index": 65,
 		"Header": "CeruleanGymHeader"
 	},
 	"BikeShop": {
-		"ID": 66,
+		"Index": 66,
 		"Header": "BikeShopHeader"
 	},
 	"CeruleanMart": {
-		"ID": 67,
+		"Index": 67,
 		"Header": "CeruleanMartHeader"
 	},
 	"MtMoonPokecenter": {
-		"ID": 68,
+		"Index": 68,
 		"Header": "MtMoonPokecenterHeader"
 	},
 	"CeruleanTrashedHouseCopy": {
-		"ID": 69,
+		"Index": 69,
 		"Header": "CeruleanTrashedHouseHeader"
 	},
 	"Route5Gate": {
-		"ID": 70,
+		"Index": 70,
 		"Header": "Route5GateHeader"
 	},
 	"UndergroundPathRoute5": {
-		"ID": 71,
+		"Index": 71,
 		"Header": "UndergroundPathRoute5Header"
 	},
 	"Daycare": {
-		"ID": 72,
+		"Index": 72,
 		"Header": "DaycareHeader"
 	},
 	"Route6Gate": {
-		"ID": 73,
+		"Index": 73,
 		"Header": "Route6GateHeader"
 	},
 	"UndergroundPathRoute6": {
-		"ID": 74,
+		"Index": 74,
 		"Header": "UndergroundPathRoute6Header"
 	},
 	"UndergroundPathRoute6Copy": {
-		"ID": 75,
+		"Index": 75,
 		"Header": "UndergroundPathRoute6Header"
 	},
 	"Route7Gate": {
-		"ID": 76,
+		"Index": 76,
 		"Header": "Route7GateHeader"
 	},
 	"UndergroundPathRoute7": {
-		"ID": 77,
+		"Index": 77,
 		"Header": "UndergroundPathRoute7Header"
 	},
 	"UndergroundPathRoute7Copy": {
-		"ID": 78,
+		"Index": 78,
 		"Header": "UndergroundPathRoute7CopyHeader"
 	},
 	"Route8Gate": {
-		"ID": 79,
+		"Index": 79,
 		"Header": "Route8GateHeader"
 	},
 	"UndergroundPathRoute8": {
-		"ID": 80,
+		"Index": 80,
 		"Header": "UndergroundPathRoute8Header"
 	},
 	"RockTunnelPokecenter": {
-		"ID": 81,
+		"Index": 81,
 		"Header": "RockTunnelPokecenterHeader"
 	},
 	"RockTunnel1F": {
-		"ID": 82,
+		"Index": 82,
 		"Header": "RockTunnel1FHeader"
 	},
 	"PowerPlant": {
-		"ID": 83,
+		"Index": 83,
 		"Header": "PowerPlantHeader"
 	},
 	"Route11Gate1F": {
-		"ID": 84,
+		"Index": 84,
 		"Header": "Route11Gate1FHeader"
 	},
 	"DiglettsCaveRoute11": {
-		"ID": 85,
+		"Index": 85,
 		"Header": "DiglettsCaveRoute11Header"
 	},
 	"Route11Gate2F": {
-		"ID": 86,
+		"Index": 86,
 		"Header": "Route11Gate2FHeader"
 	},
 	"Route12Gate1F": {
-		"ID": 87,
+		"Index": 87,
 		"Header": "Route12Gate1FHeader"
 	},
 	"BillsHouse": {
-		"ID": 88,
+		"Index": 88,
 		"Header": "BillsHouseHeader"
 	},
 	"VermilionPokecenter": {
-		"ID": 89,
+		"Index": 89,
 		"Header": "VermilionPokecenterHeader"
 	},
 	"PokemonFanClub": {
-		"ID": 90,
+		"Index": 90,
 		"Header": "PokemonFanClubHeader"
 	},
 	"VermilionMart": {
-		"ID": 91,
+		"Index": 91,
 		"Header": "VermilionMartHeader"
 	},
 	"VermilionGym": {
-		"ID": 92,
+		"Index": 92,
 		"Header": "VermilionGymHeader"
 	},
 	"VermilionPidgeyHouse": {
-		"ID": 93,
+		"Index": 93,
 		"Header": "VermilionPidgeyHouseHeader"
 	},
 	"VermilionDock": {
-		"ID": 94,
+		"Index": 94,
 		"Header": "VermilionDockHeader"
 	},
 	"SSAnne1F": {
-		"ID": 95,
+		"Index": 95,
 		"Header": "SSAnne1FHeader"
 	},
 	"SSAnne2F": {
-		"ID": 96,
+		"Index": 96,
 		"Header": "SSAnne2FHeader"
 	},
 	"SSAnne3F": {
-		"ID": 97,
+		"Index": 97,
 		"Header": "SSAnne3FHeader"
 	},
 	"SSAnneB1F": {
-		"ID": 98,
+		"Index": 98,
 		"Header": "SSAnneB1FHeader"
 	},
 	"SSAnneBow": {
-		"ID": 99,
+		"Index": 99,
 		"Header": "SSAnneBowHeader"
 	},
 	"SSAnneKitchen": {
-		"ID": 100,
+		"Index": 100,
 		"Header": "SSAnneKitchenHeader"
 	},
 	"SSAnneCaptainsRoom": {
-		"ID": 101,
+		"Index": 101,
 		"Header": "SSAnneCaptainsRoomHeader"
 	},
 	"SSAnne1FRooms": {
-		"ID": 102,
+		"Index": 102,
 		"Header": "SSAnne1FRoomsHeader"
 	},
 	"SSAnne2FRooms": {
-		"ID": 103,
+		"Index": 103,
 		"Header": "SSAnne2FRoomsHeader"
 	},
 	"SSAnneB1FRooms": {
-		"ID": 104,
+		"Index": 104,
 		"Header": "SSAnneB1FRoomsHeader"
 	},
 	"UnusedMap_69": {
-		"ID": 105,
+		"Index": 105,
 		"Header": "LancesRoomHeader"
 	},
 	"UnusedMap_6A": {
-		"ID": 106,
+		"Index": 106,
 		"Header": "LancesRoomHeader"
 	},
 	"UnusedMap_6B": {
-		"ID": 107,
+		"Index": 107,
 		"Header": "LancesRoomHeader"
 	},
 	"VictoryRoad1F": {
-		"ID": 108,
+		"Index": 108,
 		"Header": "VictoryRoad1FHeader"
 	},
 	"UnusedMap_6D": {
-		"ID": 109,
+		"Index": 109,
 		"Header": "LancesRoomHeader"
 	},
 	"UnusedMap_6E": {
-		"ID": 110,
+		"Index": 110,
 		"Header": "LancesRoomHeader"
 	},
 	"UnusedMap_6F": {
-		"ID": 111,
+		"Index": 111,
 		"Header": "LancesRoomHeader"
 	},
 	"UnusedMap_70": {
-		"ID": 112,
+		"Index": 112,
 		"Header": "LancesRoomHeader"
 	},
 	"LancesRoom": {
-		"ID": 113,
+		"Index": 113,
 		"Header": "LancesRoomHeader"
 	},
 	"UnusedMap_72": {
-		"ID": 114,
+		"Index": 114,
 		"Header": "LancesRoomHeader"
 	},
 	"UnusedMap_73": {
-		"ID": 115,
+		"Index": 115,
 		"Header": "LancesRoomHeader"
 	},
 	"UnusedMap_74": {
-		"ID": 116,
+		"Index": 116,
 		"Header": "LancesRoomHeader"
 	},
 	"UnusedMap_75": {
-		"ID": 117,
+		"Index": 117,
 		"Header": "LancesRoomHeader"
 	},
 	"HallOfFame": {
-		"ID": 118,
+		"Index": 118,
 		"Header": "HallOfFameHeader"
 	},
 	"UndergroundPathNorthSouth": {
-		"ID": 119,
+		"Index": 119,
 		"Header": "UndergroundPathNorthSouthHeader"
 	},
 	"ChampionsRoom": {
-		"ID": 120,
+		"Index": 120,
 		"Header": "ChampionsRoomHeader"
 	},
 	"UndergroundPathWestEast": {
-		"ID": 121,
+		"Index": 121,
 		"Header": "UndergroundPathWestEastHeader"
 	},
 	"CeladonMart1F": {
-		"ID": 122,
+		"Index": 122,
 		"Header": "CeladonMart1FHeader"
 	},
 	"CeladonMart2F": {
-		"ID": 123,
+		"Index": 123,
 		"Header": "CeladonMart2FHeader"
 	},
 	"CeladonMart3F": {
-		"ID": 124,
+		"Index": 124,
 		"Header": "CeladonMart3FHeader"
 	},
 	"CeladonMart4F": {
-		"ID": 125,
+		"Index": 125,
 		"Header": "CeladonMart4FHeader"
 	},
 	"CeladonMartRoof": {
-		"ID": 126,
+		"Index": 126,
 		"Header": "CeladonMartRoofHeader"
 	},
 	"CeladonMartElevator": {
-		"ID": 127,
+		"Index": 127,
 		"Header": "CeladonMartElevatorHeader"
 	},
 	"CeladonMansion1F": {
-		"ID": 128,
+		"Index": 128,
 		"Header": "CeladonMansion1FHeader"
 	},
 	"CeladonMansion2F": {
-		"ID": 129,
+		"Index": 129,
 		"Header": "CeladonMansion2FHeader"
 	},
 	"CeladonMansion3F": {
-		"ID": 130,
+		"Index": 130,
 		"Header": "CeladonMansion3FHeader"
 	},
 	"CeladonMansionRoof": {
-		"ID": 131,
+		"Index": 131,
 		"Header": "CeladonMansionRoofHeader"
 	},
 	"CeladonMansionRoofHouse": {
-		"ID": 132,
+		"Index": 132,
 		"Header": "CeladonMansionRoofHouseHeader"
 	},
 	"CeladonPokecenter": {
-		"ID": 133,
+		"Index": 133,
 		"Header": "CeladonPokecenterHeader"
 	},
 	"CeladonGym": {
-		"ID": 134,
+		"Index": 134,
 		"Header": "CeladonGymHeader"
 	},
 	"GameCorner": {
-		"ID": 135,
+		"Index": 135,
 		"Header": "GameCornerHeader"
 	},
 	"CeladonMart5F": {
-		"ID": 136,
+		"Index": 136,
 		"Header": "CeladonMart5FHeader"
 	},
 	"GameCornerPrizeRoom": {
-		"ID": 137,
+		"Index": 137,
 		"Header": "GameCornerPrizeRoomHeader"
 	},
 	"CeladonDiner": {
-		"ID": 138,
+		"Index": 138,
 		"Header": "CeladonDinerHeader"
 	},
 	"CeladonChiefHouse": {
-		"ID": 139,
+		"Index": 139,
 		"Header": "CeladonChiefHouseHeader"
 	},
 	"CeladonHotel": {
-		"ID": 140,
+		"Index": 140,
 		"Header": "CeladonHotelHeader"
 	},
 	"LavenderPokecenter": {
-		"ID": 141,
+		"Index": 141,
 		"Header": "LavenderPokecenterHeader"
 	},
 	"PokemonTower1F": {
-		"ID": 142,
+		"Index": 142,
 		"Header": "PokemonTower1FHeader"
 	},
 	"PokemonTower2F": {
-		"ID": 143,
+		"Index": 143,
 		"Header": "PokemonTower2FHeader"
 	},
 	"PokemonTower3F": {
-		"ID": 144,
+		"Index": 144,
 		"Header": "PokemonTower3FHeader"
 	},
 	"PokemonTower4F": {
-		"ID": 145,
+		"Index": 145,
 		"Header": "PokemonTower4FHeader"
 	},
 	"PokemonTower5F": {
-		"ID": 146,
+		"Index": 146,
 		"Header": "PokemonTower5FHeader"
 	},
 	"PokemonTower6F": {
-		"ID": 147,
+		"Index": 147,
 		"Header": "PokemonTower6FHeader"
 	},
 	"PokemonTower7F": {
-		"ID": 148,
+		"Index": 148,
 		"Header": "PokemonTower7FHeader"
 	},
 	"MrFujisHouse": {
-		"ID": 149,
+		"Index": 149,
 		"Header": "MrFujisHouseHeader"
 	},
 	"LavenderMart": {
-		"ID": 150,
+		"Index": 150,
 		"Header": "LavenderMartHeader"
 	},
 	"LavenderCuboneHouse": {
-		"ID": 151,
+		"Index": 151,
 		"Header": "LavenderCuboneHouseHeader"
 	},
 	"FuchsiaMart": {
-		"ID": 152,
+		"Index": 152,
 		"Header": "FuchsiaMartHeader"
 	},
 	"FuchsiaBillsGrandpasHouse": {
-		"ID": 153,
+		"Index": 153,
 		"Header": "FuchsiaBillsGrandpasHouseHeader"
 	},
 	"FuchsiaPokecenter": {
-		"ID": 154,
+		"Index": 154,
 		"Header": "FuchsiaPokecenterHeader"
 	},
 	"WardensHouse": {
-		"ID": 155,
+		"Index": 155,
 		"Header": "WardensHouseHeader"
 	},
 	"SafariZoneGate": {
-		"ID": 156,
+		"Index": 156,
 		"Header": "SafariZoneGateHeader"
 	},
 	"FuchsiaGym": {
-		"ID": 157,
+		"Index": 157,
 		"Header": "FuchsiaGymHeader"
 	},
 	"FuchsiaMeetingRoom": {
-		"ID": 158,
+		"Index": 158,
 		"Header": "FuchsiaMeetingRoomHeader"
 	},
 	"SeafoamIslandsB1F": {
-		"ID": 159,
+		"Index": 159,
 		"Header": "SeafoamIslandsB1FHeader"
 	},
 	"SeafoamIslandsB2F": {
-		"ID": 160,
+		"Index": 160,
 		"Header": "SeafoamIslandsB2FHeader"
 	},
 	"SeafoamIslandsB3F": {
-		"ID": 161,
+		"Index": 161,
 		"Header": "SeafoamIslandsB3FHeader"
 	},
 	"SeafoamIslandsB4F": {
-		"ID": 162,
+		"Index": 162,
 		"Header": "SeafoamIslandsB4FHeader"
 	},
 	"VermilionOldRodHouse": {
-		"ID": 163,
+		"Index": 163,
 		"Header": "VermilionOldRodHouseHeader"
 	},
 	"FuchsiaGoodRodHouse": {
-		"ID": 164,
+		"Index": 164,
 		"Header": "FuchsiaGoodRodHouseHeader"
 	},
 	"PokemonMansion1F": {
-		"ID": 165,
+		"Index": 165,
 		"Header": "PokemonMansion1FHeader"
 	},
 	"CinnabarGym": {
-		"ID": 166,
+		"Index": 166,
 		"Header": "CinnabarGymHeader"
 	},
 	"CinnabarLab": {
-		"ID": 167,
+		"Index": 167,
 		"Header": "CinnabarLabHeader"
 	},
 	"CinnabarLabTradeRoom": {
-		"ID": 168,
+		"Index": 168,
 		"Header": "CinnabarLabTradeRoomHeader"
 	},
 	"CinnabarLabMetronomeRoom": {
-		"ID": 169,
+		"Index": 169,
 		"Header": "CinnabarLabMetronomeRoomHeader"
 	},
 	"CinnabarLabFossilRoom": {
-		"ID": 170,
+		"Index": 170,
 		"Header": "CinnabarLabFossilRoomHeader"
 	},
 	"CinnabarPokecenter": {
-		"ID": 171,
+		"Index": 171,
 		"Header": "CinnabarPokecenterHeader"
 	},
 	"CinnabarMart": {
-		"ID": 172,
+		"Index": 172,
 		"Header": "CinnabarMartHeader"
 	},
 	"CinnabarMartCopy": {
-		"ID": 173,
+		"Index": 173,
 		"Header": "CinnabarMartHeader"
 	},
 	"IndigoPlateauLobby": {
-		"ID": 174,
+		"Index": 174,
 		"Header": "IndigoPlateauLobbyHeader"
 	},
 	"CopycatsHouse1F": {
-		"ID": 175,
+		"Index": 175,
 		"Header": "CopycatsHouse1FHeader"
 	},
 	"CopycatsHouse2F": {
-		"ID": 176,
+		"Index": 176,
 		"Header": "CopycatsHouse2FHeader"
 	},
 	"FightingDojo": {
-		"ID": 177,
+		"Index": 177,
 		"Header": "FightingDojoHeader"
 	},
 	"SaffronGym": {
-		"ID": 178,
+		"Index": 178,
 		"Header": "SaffronGymHeader"
 	},
 	"SaffronPidgeyHouse": {
-		"ID": 179,
+		"Index": 179,
 		"Header": "SaffronPidgeyHouseHeader"
 	},
 	"SaffronMart": {
-		"ID": 180,
+		"Index": 180,
 		"Header": "SaffronMartHeader"
 	},
 	"SilphCo1F": {
-		"ID": 181,
+		"Index": 181,
 		"Header": "SilphCo1FHeader"
 	},
 	"SaffronPokecenter": {
-		"ID": 182,
+		"Index": 182,
 		"Header": "SaffronPokecenterHeader"
 	},
 	"MrPsychicsHouse": {
-		"ID": 183,
+		"Index": 183,
 		"Header": "MrPsychicsHouseHeader"
 	},
 	"Route15Gate1F": {
-		"ID": 184,
+		"Index": 184,
 		"Header": "Route15Gate1FHeader"
 	},
 	"Route15Gate2F": {
-		"ID": 185,
+		"Index": 185,
 		"Header": "Route15Gate2FHeader"
 	},
 	"Route16Gate1F": {
-		"ID": 186,
+		"Index": 186,
 		"Header": "Route16Gate1FHeader"
 	},
 	"Route16Gate2F": {
-		"ID": 187,
+		"Index": 187,
 		"Header": "Route16Gate2FHeader"
 	},
 	"Route16FlyHouse": {
-		"ID": 188,
+		"Index": 188,
 		"Header": "Route16FlyHouseHeader"
 	},
 	"Route12SuperRodHouse": {
-		"ID": 189,
+		"Index": 189,
 		"Header": "Route12SuperRodHouseHeader"
 	},
 	"Route18Gate1F": {
-		"ID": 190,
+		"Index": 190,
 		"Header": "Route18Gate1FHeader"
 	},
 	"Route18Gate2F": {
-		"ID": 191,
+		"Index": 191,
 		"Header": "Route18Gate2FHeader"
 	},
 	"SeafoamIslands1F": {
-		"ID": 192,
+		"Index": 192,
 		"Header": "SeafoamIslands1FHeader"
 	},
 	"Route22Gate": {
-		"ID": 193,
+		"Index": 193,
 		"Header": "Route22GateHeader"
 	},
 	"VictoryRoad2F": {
-		"ID": 194,
+		"Index": 194,
 		"Header": "VictoryRoad2FHeader"
 	},
 	"Route12Gate2F": {
-		"ID": 195,
+		"Index": 195,
 		"Header": "Route12Gate2FHeader"
 	},
 	"VermilionTradeHouse": {
-		"ID": 196,
+		"Index": 196,
 		"Header": "VermilionTradeHouseHeader"
 	},
 	"DiglettsCave": {
-		"ID": 197,
+		"Index": 197,
 		"Header": "DiglettsCaveHeader"
 	},
 	"VictoryRoad3F": {
-		"ID": 198,
+		"Index": 198,
 		"Header": "VictoryRoad3FHeader"
 	},
 	"RocketHideoutB1F": {
-		"ID": 199,
+		"Index": 199,
 		"Header": "RocketHideoutB1FHeader"
 	},
 	"RocketHideoutB2F": {
-		"ID": 200,
+		"Index": 200,
 		"Header": "RocketHideoutB2FHeader"
 	},
 	"RocketHideoutB3F": {
-		"ID": 201,
+		"Index": 201,
 		"Header": "RocketHideoutB3FHeader"
 	},
 	"RocketHideoutB4F": {
-		"ID": 202,
+		"Index": 202,
 		"Header": "RocketHideoutB4FHeader"
 	},
 	"RocketHideoutElevator": {
-		"ID": 203,
+		"Index": 203,
 		"Header": "RocketHideoutElevatorHeader"
 	},
 	"UnusedMap_CC": {
-		"ID": 204,
+		"Index": 204,
 		"Header": "RocketHideoutElevatorHeader"
 	},
 	"UnusedMap_CD": {
-		"ID": 205,
+		"Index": 205,
 		"Header": "RocketHideoutElevatorHeader"
 	},
 	"UnusedMap_CE": {
-		"ID": 206,
+		"Index": 206,
 		"Header": "RocketHideoutElevatorHeader"
 	},
 	"SilphCo2F": {
-		"ID": 207,
+		"Index": 207,
 		"Header": "SilphCo2FHeader"
 	},
 	"SilphCo3F": {
-		"ID": 208,
+		"Index": 208,
 		"Header": "SilphCo3FHeader"
 	},
 	"SilphCo4F": {
-		"ID": 209,
+		"Index": 209,
 		"Header": "SilphCo4FHeader"
 	},
 	"SilphCo5F": {
-		"ID": 210,
+		"Index": 210,
 		"Header": "SilphCo5FHeader"
 	},
 	"SilphCo6F": {
-		"ID": 211,
+		"Index": 211,
 		"Header": "SilphCo6FHeader"
 	},
 	"SilphCo7F": {
-		"ID": 212,
+		"Index": 212,
 		"Header": "SilphCo7FHeader"
 	},
 	"SilphCo8F": {
-		"ID": 213,
+		"Index": 213,
 		"Header": "SilphCo8FHeader"
 	},
 	"PokemonMansion2F": {
-		"ID": 214,
+		"Index": 214,
 		"Header": "PokemonMansion2FHeader"
 	},
 	"PokemonMansion3F": {
-		"ID": 215,
+		"Index": 215,
 		"Header": "PokemonMansion3FHeader"
 	},
 	"PokemonMansionB1F": {
-		"ID": 216,
+		"Index": 216,
 		"Header": "PokemonMansionB1FHeader"
 	},
 	"SafariZoneEast": {
-		"ID": 217,
+		"Index": 217,
 		"Header": "SafariZoneEastHeader"
 	},
 	"SafariZoneNorth": {
-		"ID": 218,
+		"Index": 218,
 		"Header": "SafariZoneNorthHeader"
 	},
 	"SafariZoneWest": {
-		"ID": 219,
+		"Index": 219,
 		"Header": "SafariZoneWestHeader"
 	},
 	"SafariZoneCenter": {
-		"ID": 220,
+		"Index": 220,
 		"Header": "SafariZoneCenterHeader"
 	},
 	"SafariZoneCenterRestHouse": {
-		"ID": 221,
+		"Index": 221,
 		"Header": "SafariZoneCenterRestHouseHeader"
 	},
 	"SafariZoneSecretHouse": {
-		"ID": 222,
+		"Index": 222,
 		"Header": "SafariZoneSecretHouseHeader"
 	},
 	"SafariZoneWestRestHouse": {
-		"ID": 223,
+		"Index": 223,
 		"Header": "SafariZoneWestRestHouseHeader"
 	},
 	"SafariZoneEastRestHouse": {
-		"ID": 224,
+		"Index": 224,
 		"Header": "SafariZoneEastRestHouseHeader"
 	},
 	"SafariZoneNorthRestHouse": {
-		"ID": 225,
+		"Index": 225,
 		"Header": "SafariZoneNorthRestHouseHeader"
 	},
 	"CeruleanCave2F": {
-		"ID": 226,
+		"Index": 226,
 		"Header": "CeruleanCave2FHeader"
 	},
 	"CeruleanCaveB1F": {
-		"ID": 227,
+		"Index": 227,
 		"Header": "CeruleanCaveB1FHeader"
 	},
 	"CeruleanCave1F": {
-		"ID": 228,
+		"Index": 228,
 		"Header": "CeruleanCave1FHeader"
 	},
 	"NameRatersHouse": {
-		"ID": 229,
+		"Index": 229,
 		"Header": "NameRatersHouseHeader"
 	},
 	"CeruleanBadgeHouse": {
-		"ID": 230,
+		"Index": 230,
 		"Header": "CeruleanBadgeHouseHeader"
 	},
 	"UnusedMap_E7": {
-		"ID": 231,
+		"Index": 231,
 		"Header": "Route16Gate1FHeader"
 	},
 	"RockTunnelB1F": {
-		"ID": 232,
+		"Index": 232,
 		"Header": "RockTunnelB1FHeader"
 	},
 	"SilphCo9F": {
-		"ID": 233,
+		"Index": 233,
 		"Header": "SilphCo9FHeader"
 	},
 	"SilphCo10F": {
-		"ID": 234,
+		"Index": 234,
 		"Header": "SilphCo10FHeader"
 	},
 	"SilphCo11F": {
-		"ID": 235,
+		"Index": 235,
 		"Header": "SilphCo11FHeader"
 	},
 	"SilphCoElevator": {
-		"ID": 236,
+		"Index": 236,
 		"Header": "SilphCoElevatorHeader"
 	},
 	"UnusedMap_ED": {
-		"ID": 237,
+		"Index": 237,
 		"Header": "SilphCo2FHeader"
 	},
 	"UnusedMap_EE": {
-		"ID": 237,
+		"Index": 237,
 		"Header": "SilphCo2FHeader"
 	},
 	"TradeCenter": {
-		"ID": 239,
+		"Index": 239,
 		"Header": "TradeCenterHeader"
 	},
 	"Colosseum": {
-		"ID": 240,
+		"Index": 240,
 		"Header": "ColosseumHeader"
 	},
 	"UnusedMap_F1": {
-		"ID": 241,
+		"Index": 241,
 		"Header": "SilphCo2FHeader"
 	},
 	"UnusedMap_F2": {
-		"ID": 242,
+		"Index": 242,
 		"Header": "SilphCo2FHeader"
 	},
 	"UnusedMap_F3": {
-		"ID": 243,
+		"Index": 243,
 		"Header": "SilphCo2FHeader"
 	},
 	"UnusedMap_F4": {
-		"ID": 244,
+		"Index": 244,
 		"Header": "SilphCo2FHeader"
 	},
 	"LoreleisRoom": {
-		"ID": 245,
+		"Index": 245,
 		"Header": "LoreleisRoomHeader"
 	},
 	"BrunosRoom": {
-		"ID": 246,
+		"Index": 246,
 		"Header": "BrunosRoomHeader"
 	},
 	"AgathasRoom": {
-		"ID": 247,
+		"Index": 247,
 		"Header": "AgathasRoomHeader"
 	}
 }

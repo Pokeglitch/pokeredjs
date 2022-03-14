@@ -1,13 +1,13 @@
 let Blocks = json('./Blocks.json');
 
 class BlocksData {
-    constructor(name, data){
-        this.Name = name;
+    constructor(id, data){
+        this.ID = id;
         this.Data = data;        
         this.Headers = new Set();
 
-        Goto(this.Name)
-        this.Pointer = Data(this.Name, this.Data);
+        Goto(this.ID)
+        this.Pointer = Data(this.ID, this.Data);
     }
     addHeader(header){
         this.Headers.add(header);
@@ -17,7 +17,7 @@ class BlocksData {
     }
 }
 
-Object.keys(Blocks).forEach(name => {
-    let value = Blocks[name];
-    Blocks[name] = new BlocksData(name, value);
+Object.keys(Blocks).forEach(id => {
+    let value = Blocks[id];
+    Blocks[id] = new BlocksData(id, value);
 });

@@ -1,416 +1,416 @@
 {
 	"MasterBall": {
-		"ID": 1
+		"Index": 1
 	},
 	"UltraBall": {
-		"ID": 2
+		"Index": 2
 	},
 	"GreatBall": {
-		"ID": 3
+		"Index": 3
 	},
 	"PokeBall": {
-		"ID": 4
+		"Index": 4
 	},
 	"TownMap": {
-		"ID": 5
+		"Index": 5
 	},
 	"Bicycle": {
-		"ID": 6
+		"Index": 6
 	},
 	"Surfboard": {
-		"ID": 7
+		"Index": 7
 	},
 	"SafariBall": {
-		"ID": 8
+		"Index": 8
 	},
 	"Pokedex": {
-		"ID": 9
+		"Index": 9
 	},
 	"MoonStone": {
-		"ID": 10
+		"Index": 10
 	},
 	"Antidote": {
-		"ID": 11
+		"Index": 11
 	},
 	"BurnHeal": {
-		"ID": 12
+		"Index": 12
 	},
 	"IceHeal": {
-		"ID": 13
+		"Index": 13
 	},
 	"Awakening": {
-		"ID": 14
+		"Index": 14
 	},
 	"ParlyzHeal": {
-		"ID": 15
+		"Index": 15
 	},
 	"FullRestore": {
-		"ID": 16
+		"Index": 16
 	},
 	"MaxPotion": {
-		"ID": 17
+		"Index": 17
 	},
 	"HyperPotion": {
-		"ID": 18
+		"Index": 18
 	},
 	"SuperPotion": {
-		"ID": 19
+		"Index": 19
 	},
 	"Potion": {
-		"ID": 20
+		"Index": 20
 	},
 	"Boulderbadge": {
-		"ID": 21
+		"Index": 21
 	},
 	"Cascadebadge": {
-		"ID": 22
+		"Index": 22
 	},
 	"SafariBait": {
-		"ID": 21
+		"Index": 21
 	},
 	"SafariRock": {
-		"ID": 22
+		"Index": 22
 	},
 	"Thunderbadge": {
-		"ID": 23
+		"Index": 23
 	},
 	"Rainbowbadge": {
-		"ID": 24
+		"Index": 24
 	},
 	"Soulbadge": {
-		"ID": 25
+		"Index": 25
 	},
 	"Marshbadge": {
-		"ID": 26
+		"Index": 26
 	},
 	"Volcanobadge": {
-		"ID": 27
+		"Index": 27
 	},
 	"Earthbadge": {
-		"ID": 28
+		"Index": 28
 	},
 	"EscapeRope": {
-		"ID": 29
+		"Index": 29
 	},
 	"Repel": {
-		"ID": 30
+		"Index": 30
 	},
 	"OldAmber": {
-		"ID": 31
+		"Index": 31
 	},
 	"FireStone": {
-		"ID": 32
+		"Index": 32
 	},
 	"ThunderStone": {
-		"ID": 33
+		"Index": 33
 	},
 	"WaterStone": {
-		"ID": 34
+		"Index": 34
 	},
 	"HpUp": {
-		"ID": 35
+		"Index": 35
 	},
 	"Protein": {
-		"ID": 36
+		"Index": 36
 	},
 	"Iron": {
-		"ID": 37
+		"Index": 37
 	},
 	"Carbos": {
-		"ID": 38
+		"Index": 38
 	},
 	"Calcium": {
-		"ID": 39
+		"Index": 39
 	},
 	"RareCandy": {
-		"ID": 40
+		"Index": 40
 	},
 	"DomeFossil": {
-		"ID": 41
+		"Index": 41
 	},
 	"HelixFossil": {
-		"ID": 42
+		"Index": 42
 	},
 	"SecretKey": {
-		"ID": 43
+		"Index": 43
 	},
 	"BikeVoucher": {
-		"ID": 45
+		"Index": 45
 	},
 	"XAccuracy": {
-		"ID": 46
+		"Index": 46
 	},
 	"LeafStone": {
-		"ID": 47
+		"Index": 47
 	},
 	"CardKey": {
-		"ID": 48
+		"Index": 48
 	},
 	"Nugget": {
-		"ID": 49
+		"Index": 49
 	},
 	"PokeDoll": {
-		"ID": 51
+		"Index": 51
 	},
 	"FullHeal": {
-		"ID": 52
+		"Index": 52
 	},
 	"Revive": {
-		"ID": 53
+		"Index": 53
 	},
 	"MaxRevive": {
-		"ID": 54
+		"Index": 54
 	},
 	"GuardSpec": {
-		"ID": 55
+		"Index": 55
 	},
 	"SuperRepel": {
-		"ID": 56
+		"Index": 56
 	},
 	"MaxRepel": {
-		"ID": 57
+		"Index": 57
 	},
 	"DireHit": {
-		"ID": 58
+		"Index": 58
 	},
 	"Coin": {
-		"ID": 59
+		"Index": 59
 	},
 	"FreshWater": {
-		"ID": 60
+		"Index": 60
 	},
 	"SodaPop": {
-		"ID": 61
+		"Index": 61
 	},
 	"Lemonade": {
-		"ID": 62
+		"Index": 62
 	},
 	"SSTicket": {
-		"ID": 63
+		"Index": 63
 	},
 	"GoldTeeth": {
-		"ID": 64
+		"Index": 64
 	},
 	"XAttack": {
-		"ID": 65
+		"Index": 65
 	},
 	"XDefend": {
-		"ID": 66
+		"Index": 66
 	},
 	"XSpeed": {
-		"ID": 67
+		"Index": 67
 	},
 	"XSpecial": {
-		"ID": 68
+		"Index": 68
 	},
 	"CoinCase": {
-		"ID": 69
+		"Index": 69
 	},
 	"OaksParcel": {
-		"ID": 70
+		"Index": 70
 	},
 	"Itemfinder": {
-		"ID": 71
+		"Index": 71
 	},
 	"SilphScope": {
-		"ID": 72
+		"Index": 72
 	},
 	"PokeFlute": {
-		"ID": 73
+		"Index": 73
 	},
 	"LiftKey": {
-		"ID": 74
+		"Index": 74
 	},
 	"ExpAll": {
-		"ID": 75
+		"Index": 75
 	},
 	"OldRod": {
-		"ID": 76
+		"Index": 76
 	},
 	"GoodRod": {
-		"ID": 77
+		"Index": 77
 	},
 	"SuperRod": {
-		"ID": 78
+		"Index": 78
 	},
 	"PpUp": {
-		"ID": 79
+		"Index": 79
 	},
 	"Ether": {
-		"ID": 80
+		"Index": 80
 	},
 	"MaxEther": {
-		"ID": 81
+		"Index": 81
 	},
 	"Elixer": {
-		"ID": 82
+		"Index": 82
 	},
 	"MaxElixer": {
-		"ID": 83
+		"Index": 83
 	},
 	"Hm01": {
-		"ID": 196
+		"Index": 196
 	},
 	"Hm02": {
-		"ID": 197
+		"Index": 197
 	},
 	"Hm03": {
-		"ID": 198
+		"Index": 198
 	},
 	"Hm04": {
-		"ID": 199
+		"Index": 199
 	},
 	"Hm05": {
-		"ID": 200
+		"Index": 200
 	},
-	"Tm01": {
-		"ID": 201
+	"TM01": {
+		"Index": 201
 	},
-	"Tm02": {
-		"ID": 202
+	"TM02": {
+		"Index": 202
 	},
-	"Tm03": {
-		"ID": 203
+	"TM03": {
+		"Index": 203
 	},
-	"Tm04": {
-		"ID": 204
+	"TM04": {
+		"Index": 204
 	},
-	"Tm05": {
-		"ID": 205
+	"TM05": {
+		"Index": 205
 	},
-	"Tm06": {
-		"ID": 206
+	"TM06": {
+		"Index": 206
 	},
-	"Tm07": {
-		"ID": 207
+	"TM07": {
+		"Index": 207
 	},
-	"Tm08": {
-		"ID": 208
+	"TM08": {
+		"Index": 208
 	},
-	"Tm09": {
-		"ID": 209
+	"TM09": {
+		"Index": 209
 	},
-	"Tm10": {
-		"ID": 210
+	"TM10": {
+		"Index": 210
 	},
-	"Tm11": {
-		"ID": 211
+	"TM11": {
+		"Index": 211
 	},
-	"Tm12": {
-		"ID": 212
+	"TM12": {
+		"Index": 212
 	},
-	"Tm13": {
-		"ID": 213
+	"TM13": {
+		"Index": 213
 	},
-	"Tm14": {
-		"ID": 214
+	"TM14": {
+		"Index": 214
 	},
-	"Tm15": {
-		"ID": 215
+	"TM15": {
+		"Index": 215
 	},
-	"Tm16": {
-		"ID": 216
+	"TM16": {
+		"Index": 216
 	},
-	"Tm17": {
-		"ID": 217
+	"TM17": {
+		"Index": 217
 	},
-	"Tm18": {
-		"ID": 218
+	"TM18": {
+		"Index": 218
 	},
-	"Tm19": {
-		"ID": 219
+	"TM19": {
+		"Index": 219
 	},
-	"Tm20": {
-		"ID": 220
+	"TM20": {
+		"Index": 220
 	},
-	"Tm21": {
-		"ID": 221
+	"TM21": {
+		"Index": 221
 	},
-	"Tm22": {
-		"ID": 222
+	"TM22": {
+		"Index": 222
 	},
-	"Tm23": {
-		"ID": 223
+	"TM23": {
+		"Index": 223
 	},
-	"Tm24": {
-		"ID": 224
+	"TM24": {
+		"Index": 224
 	},
-	"Tm25": {
-		"ID": 225
+	"TM25": {
+		"Index": 225
 	},
-	"Tm26": {
-		"ID": 226
+	"TM26": {
+		"Index": 226
 	},
-	"Tm27": {
-		"ID": 227
+	"TM27": {
+		"Index": 227
 	},
-	"Tm28": {
-		"ID": 228
+	"TM28": {
+		"Index": 228
 	},
-	"Tm29": {
-		"ID": 229
+	"TM29": {
+		"Index": 229
 	},
-	"Tm30": {
-		"ID": 230
+	"TM30": {
+		"Index": 230
 	},
-	"Tm31": {
-		"ID": 231
+	"TM31": {
+		"Index": 231
 	},
-	"Tm32": {
-		"ID": 232
+	"TM32": {
+		"Index": 232
 	},
-	"Tm33": {
-		"ID": 233
+	"TM33": {
+		"Index": 233
 	},
-	"Tm34": {
-		"ID": 234
+	"TM34": {
+		"Index": 234
 	},
-	"Tm35": {
-		"ID": 235
+	"TM35": {
+		"Index": 235
 	},
-	"Tm36": {
-		"ID": 236
+	"TM36": {
+		"Index": 236
 	},
-	"Tm37": {
-		"ID": 237
+	"TM37": {
+		"Index": 237
 	},
-	"Tm38": {
-		"ID": 238
+	"TM38": {
+		"Index": 238
 	},
-	"Tm39": {
-		"ID": 239
+	"TM39": {
+		"Index": 239
 	},
-	"Tm40": {
-		"ID": 240
+	"TM40": {
+		"Index": 240
 	},
-	"Tm41": {
-		"ID": 241
+	"TM41": {
+		"Index": 241
 	},
-	"Tm42": {
-		"ID": 242
+	"TM42": {
+		"Index": 242
 	},
-	"Tm43": {
-		"ID": 243
+	"TM43": {
+		"Index": 243
 	},
-	"Tm44": {
-		"ID": 244
+	"TM44": {
+		"Index": 244
 	},
-	"Tm45": {
-		"ID": 245
+	"TM45": {
+		"Index": 245
 	},
-	"Tm46": {
-		"ID": 246
+	"TM46": {
+		"Index": 246
 	},
-	"Tm47": {
-		"ID": 247
+	"TM47": {
+		"Index": 247
 	},
-	"Tm48": {
-		"ID": 248
+	"TM48": {
+		"Index": 248
 	},
-	"Tm49": {
-		"ID": 249
+	"TM49": {
+		"Index": 249
 	},
-	"Tm50": {
-		"ID": 250
+	"TM50": {
+		"Index": 250
 	}
 }

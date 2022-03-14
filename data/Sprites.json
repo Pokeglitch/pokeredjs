@@ -1,215 +1,215 @@
 {
 	"Red": {
-		"ID": 1
+		"Index": 1
 	},
 	"Blue": {
-		"ID": 2
+		"Index": 2
 	},
 	"Oak": {
-		"ID": 3
+		"Index": 3
 	},
 	"BugCatcher": {
-		"ID": 4
+		"Index": 4
 	},
 	"Slowbro": {
-		"ID": 5
+		"Index": 5
 	},
 	"Lass": {
-		"ID": 6
+		"Index": 6
 	},
 	"BlackHairBoy1": {
-		"ID": 7
+		"Index": 7
 	},
 	"LittleGirl": {
-		"ID": 8
+		"Index": 8
 	},
 	"Bird": {
-		"ID": 9
+		"Index": 9
 	},
 	"FatBaldGuy": {
-		"ID": 10
+		"Index": 10
 	},
 	"Gambler": {
-		"ID": 11
+		"Index": 11
 	},
 	"BlackHairBoy2": {
-		"ID": 12
+		"Index": 12
 	},
 	"Girl": {
-		"ID": 13
+		"Index": 13
 	},
 	"Hiker": {
-		"ID": 14
+		"Index": 14
 	},
 	"FoulardWoman": {
-		"ID": 15
+		"Index": 15
 	},
 	"Gentleman": {
-		"ID": 16
+		"Index": 16
 	},
 	"Daisy": {
-		"ID": 17
+		"Index": 17
 	},
 	"Biker": {
-		"ID": 18
+		"Index": 18
 	},
 	"Sailor": {
-		"ID": 19
+		"Index": 19
 	},
 	"Cook": {
-		"ID": 20
+		"Index": 20
 	},
 	"BikeShopGuy": {
-		"ID": 21
+		"Index": 21
 	},
 	"MrFuji": {
-		"ID": 22
+		"Index": 22
 	},
 	"Giovanni": {
-		"ID": 23
+		"Index": 23
 	},
 	"Rocket": {
-		"ID": 24
+		"Index": 24
 	},
 	"Medium": {
-		"ID": 25
+		"Index": 25
 	},
 	"Waiter": {
-		"ID": 26
+		"Index": 26
 	},
 	"Erika": {
-		"ID": 27
+		"Index": 27
 	},
 	"MomGeisha": {
-		"ID": 28
+		"Index": 28
 	},
 	"BrunetteGirl": {
-		"ID": 29
+		"Index": 29
 	},
 	"Lance": {
-		"ID": 30
+		"Index": 30
 	},
 	"OakScientistAide": {
-		"ID": 31
+		"Index": 31
 	},
 	"OakAide": {
-		"ID": 32
+		"Index": 32
 	},
 	"Rocker": {
-		"ID": 33
+		"Index": 33
 	},
 	"Swimmer": {
-		"ID": 34
+		"Index": 34
 	},
 	"WhitePlayer": {
-		"ID": 35
+		"Index": 35
 	},
 	"GymHelper": {
-		"ID": 36
+		"Index": 36
 	},
 	"OldPerson": {
-		"ID": 37
+		"Index": 37
 	},
 	"MartGuy": {
-		"ID": 38
+		"Index": 38
 	},
 	"Fisher": {
-		"ID": 39
+		"Index": 39
 	},
 	"OldMediumWoman": {
-		"ID": 40
+		"Index": 40
 	},
 	"Nurse": {
-		"ID": 41
+		"Index": 41
 	},
 	"CableClubWoman": {
-		"ID": 42
+		"Index": 42
 	},
 	"MrMasterball": {
-		"ID": 43
+		"Index": 43
 	},
 	"LaprasGiver": {
-		"ID": 44
+		"Index": 44
 	},
 	"Warden": {
-		"ID": 45
+		"Index": 45
 	},
 	"SsCaptain": {
-		"ID": 46
+		"Index": 46
 	},
 	"Fisher2": {
-		"ID": 47
+		"Index": 47
 	},
 	"Blackbelt": {
-		"ID": 48
+		"Index": 48
 	},
 	"Guard": {
-		"ID": 49
+		"Index": 49
 	},
 	"Mom": {
-		"ID": 51
+		"Index": 51
 	},
 	"BaldingGuy": {
-		"ID": 52
+		"Index": 52
 	},
 	"YoungBoy": {
-		"ID": 53
+		"Index": 53
 	},
 	"GameboyKid": {
-		"ID": 54
+		"Index": 54
 	},
 	"GameboyKidCopy": {
-		"ID": 55
+		"Index": 55
 	},
 	"Clefairy": {
-		"ID": 56
+		"Index": 56
 	},
 	"Agatha": {
-		"ID": 57
+		"Index": 57
 	},
 	"Bruno": {
-		"ID": 58
+		"Index": 58
 	},
 	"Lorelei": {
-		"ID": 59
+		"Index": 59
 	},
 	"Seel": {
-		"ID": 60
+		"Index": 60
 	},
 	"Ball": {
-		"ID": 61
+		"Index": 61
 	},
 	"Omanyte": {
-		"ID": 62
+		"Index": 62
 	},
 	"Boulder": {
-		"ID": 63
+		"Index": 63
 	},
 	"PaperSheet": {
-		"ID": 64
+		"Index": 64
 	},
 	"BookMapDex": {
-		"ID": 65
+		"Index": 65
 	},
 	"Clipboard": {
-		"ID": 66
+		"Index": 66
 	},
 	"Snorlax": {
-		"ID": 67
+		"Index": 67
 	},
 	"OldAmberCopy": {
-		"ID": 68
+		"Index": 68
 	},
 	"OldAmber": {
-		"ID": 69
+		"Index": 69
 	},
 	"LyingOldManUnused1": {
-		"ID": 70
+		"Index": 70
 	},
 	"LyingOldManUnused2": {
-		"ID": 71
+		"Index": 71
 	},
 	"LyingOldMan": {
-		"ID": 72
+		"Index": 72
 	}
 }

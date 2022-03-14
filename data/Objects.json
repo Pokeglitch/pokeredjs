@@ -2242,7 +2242,7 @@
 				"Type": "Item",
 				"Movement": false,
 				"Direction": "None",
-				"Item": "Tm04"
+				"Item": "TM04"
 			}
 		],
 		"WarpTos": [
@@ -2795,7 +2795,7 @@
 				"Type": "Item",
 				"Movement": false,
 				"Direction": "None",
-				"Item": "Tm30"
+				"Item": "TM30"
 			}
 		],
 		"WarpTos": []
@@ -3248,7 +3248,7 @@
 				"Type": "Item",
 				"Movement": false,
 				"Direction": "None",
-				"Item": "Tm16"
+				"Item": "TM16"
 			},
 			{
 				"X": 5,
@@ -3692,7 +3692,7 @@
 				"Type": "Item",
 				"Movement": false,
 				"Direction": "None",
-				"Item": "Tm20"
+				"Item": "TM20"
 			}
 		],
 		"WarpTos": [
@@ -4778,7 +4778,7 @@
 				"Type": "Item",
 				"Movement": false,
 				"Direction": "None",
-				"Item": "Tm45"
+				"Item": "TM45"
 			}
 		],
 		"WarpTos": []
@@ -4908,7 +4908,7 @@
 				"Type": "Item",
 				"Movement": false,
 				"Direction": "None",
-				"Item": "Tm19"
+				"Item": "TM19"
 			}
 		],
 		"WarpTos": [
@@ -6697,7 +6697,7 @@
 				"Type": "Item",
 				"Movement": false,
 				"Direction": "None",
-				"Item": "Tm12"
+				"Item": "TM12"
 			}
 		],
 		"WarpTos": [
@@ -6933,7 +6933,7 @@
 				"Type": "Item",
 				"Movement": false,
 				"Direction": "None",
-				"Item": "Tm01"
+				"Item": "TM01"
 			}
 		],
 		"WarpTos": [
@@ -8332,7 +8332,7 @@
 				"Type": "Item",
 				"Movement": false,
 				"Direction": "None",
-				"Item": "Tm25"
+				"Item": "TM25"
 			},
 			{
 				"X": 20,
@@ -8342,7 +8342,7 @@
 				"Type": "Item",
 				"Movement": false,
 				"Direction": "None",
-				"Item": "Tm33"
+				"Item": "TM33"
 			}
 		],
 		"WarpTos": [
@@ -9747,7 +9747,7 @@
 				"Type": "Item",
 				"Movement": false,
 				"Direction": "None",
-				"Item": "Tm08"
+				"Item": "TM08"
 			},
 			{
 				"X": 21,
@@ -10211,7 +10211,7 @@
 				"Type": "Item",
 				"Movement": false,
 				"Direction": "None",
-				"Item": "Tm44"
+				"Item": "TM44"
 			},
 			{
 				"X": 12,
@@ -10321,7 +10321,7 @@
 				"Type": "Item",
 				"Movement": false,
 				"Direction": "None",
-				"Item": "Tm43"
+				"Item": "TM43"
 			},
 			{
 				"X": 9,
@@ -16329,7 +16329,7 @@
 				"Type": "Item",
 				"Movement": false,
 				"Direction": "None",
-				"Item": "Tm17"
+				"Item": "TM17"
 			},
 			{
 				"X": 18,
@@ -16349,7 +16349,7 @@
 				"Type": "Item",
 				"Movement": false,
 				"Direction": "None",
-				"Item": "Tm05"
+				"Item": "TM05"
 			},
 			{
 				"X": 11,
@@ -16620,7 +16620,7 @@
 				"Type": "Item",
 				"Movement": false,
 				"Direction": "None",
-				"Item": "Tm47"
+				"Item": "TM47"
 			},
 			{
 				"X": 22,
@@ -16888,7 +16888,7 @@
 				"Type": "Item",
 				"Movement": false,
 				"Direction": "None",
-				"Item": "Tm07"
+				"Item": "TM07"
 			},
 			{
 				"X": 3,
@@ -16972,7 +16972,7 @@
 				"Type": "Item",
 				"Movement": false,
 				"Direction": "None",
-				"Item": "Tm10"
+				"Item": "TM10"
 			},
 			{
 				"X": 20,
@@ -17082,7 +17082,7 @@
 				"Type": "Item",
 				"Movement": false,
 				"Direction": "None",
-				"Item": "Tm02"
+				"Item": "TM02"
 			},
 			{
 				"X": 12,
@@ -17710,7 +17710,7 @@
 				"Type": "Item",
 				"Movement": false,
 				"Direction": "None",
-				"Item": "Tm09"
+				"Item": "TM09"
 			},
 			{
 				"X": 4,
@@ -18098,7 +18098,7 @@
 				"Type": "Item",
 				"Movement": false,
 				"Direction": "None",
-				"Item": "Tm03"
+				"Item": "TM03"
 			}
 		],
 		"WarpTos": [
@@ -18492,7 +18492,7 @@
 				"Type": "Item",
 				"Movement": false,
 				"Direction": "None",
-				"Item": "Tm14"
+				"Item": "TM14"
 			},
 			{
 				"X": 5,
@@ -18502,7 +18502,7 @@
 				"Type": "Item",
 				"Movement": false,
 				"Direction": "None",
-				"Item": "Tm22"
+				"Item": "TM22"
 			},
 			{
 				"X": 16,
@@ -18621,7 +18621,7 @@
 				"Type": "Item",
 				"Movement": false,
 				"Direction": "None",
-				"Item": "Tm37"
+				"Item": "TM37"
 			}
 		],
 		"WarpTos": [
@@ -18751,7 +18751,7 @@
 				"Type": "Item",
 				"Movement": false,
 				"Direction": "None",
-				"Item": "Tm40"
+				"Item": "TM40"
 			}
 		],
 		"WarpTos": [
@@ -18886,7 +18886,7 @@
 				"Type": "Item",
 				"Movement": false,
 				"Direction": "None",
-				"Item": "Tm32"
+				"Item": "TM32"
 			},
 			{
 				"X": 18,
@@ -20013,7 +20013,7 @@
 				"Type": "Item",
 				"Movement": false,
 				"Direction": "None",
-				"Item": "Tm26"
+				"Item": "TM26"
 			},
 			{
 				"X": 4,
