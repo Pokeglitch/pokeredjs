@@ -119,6 +119,12 @@
 		"Index": 30,
 		"Name" : "TANGELA"
 	},
+	"MissingNo1F" : {
+		"Index" : 31
+	},
+	"MissingNo20" : {
+		"Index" : 32
+	},
 	"Growlithe": {
 		"Index": 33,
 		"Name" : "GROWLITHE"
@@ -187,9 +193,15 @@
 		"Index": 49,
 		"Name" : "GOLEM"
 	},
+	"MissingNo32" : {
+		"Index" : 50
+	},
 	"Magmar": {
 		"Index": 51,
 		"Name" : "MAGMAR"
+	},
+	"MissingNo34" : {
+		"Index" : 52
 	},
 	"Electabuzz": {
 		"Index": 53,
@@ -202,6 +214,9 @@
 	"Koffing": {
 		"Index": 55,
 		"Name" : "KOFFING"
+	},
+	"MissingNo38" : {
+		"Index" : 56
 	},
 	"Mankey": {
 		"Index": 57,
@@ -219,6 +234,15 @@
 		"Index": 60,
 		"Name" : "TAUROS"
 	},
+	"MissingNo3D" : {
+		"Index" : 61
+	},
+	"MissingNo3E" : {
+		"Index" : 62
+	},
+	"MissingNo3F" : {
+		"Index" : 63
+	},
 	"FarfetchD": {
 		"Index": 64,
 		"Name" : "FARFETCH'D"
@@ -230,6 +254,15 @@
 	"Dragonite": {
 		"Index": 66,
 		"Name" : "DRAGONITE"
+	},
+	"MissingNo43" : {
+		"Index" : 67
+	},
+	"MissingNo44" : {
+		"Index" : 68
+	},
+	"MissingNo45" : {
+		"Index" : 69
 	},
 	"Doduo": {
 		"Index": 70,
@@ -267,6 +300,15 @@
 		"Index": 78,
 		"Name" : "KRABBY"
 	},
+	"MissingNo4F" : {
+		"Index" : 79
+	},
+	"MissingNo50" : {
+		"Index" : 80
+	},
+	"MissingNo51" : {
+		"Index" : 81
+	},
 	"Vulpix": {
 		"Index": 82,
 		"Name" : "VULPIX"
@@ -282,6 +324,12 @@
 	"Raichu": {
 		"Index": 85,
 		"Name" : "RAICHU"
+	},
+	"MissingNo56" : {
+		"Index" : 86
+	},
+	"MissingNo57" : {
+		"Index" : 87
 	},
 	"Dratini": {
 		"Index": 88,
@@ -306,6 +354,12 @@
 	"Seadra": {
 		"Index": 93,
 		"Name" : "SEADRA"
+	},
+	"MissingNo5E" : {
+		"Index" : 94
+	},
+	"MissingNo5F" : {
+		"Index" : 95
 	},
 	"Sandshrew": {
 		"Index": 96,
@@ -383,6 +437,9 @@
 		"Index": 114,
 		"Name" : "BEEDRILL"
 	},
+	"MissingNo73" : {
+		"Index" : 115
+	},
 	"Dodrio": {
 		"Index": 116,
 		"Name" : "DODRIO"
@@ -403,6 +460,12 @@
 		"Index": 120,
 		"Name" : "DEWGONG"
 	},
+	"MissingNo79" : {
+		"Index" : 121
+	},
+	"MissingNo7A" : {
+		"Index" : 122
+	},
 	"Caterpie": {
 		"Index": 123,
 		"Name" : "CATERPIE"
@@ -418,6 +481,9 @@
 	"Machamp": {
 		"Index": 126,
 		"Name" : "MACHAMP"
+	},
+	"MissingNo7F" : {
+		"Index" : 127
 	},
 	"Golduck": {
 		"Index": 128,
@@ -443,9 +509,18 @@
 		"Index": 133,
 		"Name" : "MAGIKARP"
 	},
+	"MissingNo86" : {
+		"Index" : 134
+	},
+	"MissingNo87" : {
+		"Index" : 135
+	},
 	"Muk": {
 		"Index": 136,
 		"Name" : "MUK"
+	},
+	"MissingNo89" : {
+		"Index" : 137
 	},
 	"Kingler": {
 		"Index": 138,
@@ -454,6 +529,9 @@
 	"Cloyster": {
 		"Index": 139,
 		"Name" : "CLOYSTER"
+	},
+	"MissingNo8C" : {
+		"Index" : 140
 	},
 	"Electrode": {
 		"Index": 141,
@@ -474,6 +552,9 @@
 	"Marowak": {
 		"Index": 145,
 		"Name" : "MAROWAK"
+	},
+	"MissingNo92" : {
+		"Index" : 146
 	},
 	"Haunter": {
 		"Index": 147,
@@ -511,6 +592,9 @@
 		"Index": 155,
 		"Name" : "TENTACRUEL"
 	},
+	"MissingNo9C" : {
+		"Index" : 156
+	},
 	"Goldeen": {
 		"Index": 157,
 		"Name" : "GOLDEEN"
@@ -518,6 +602,18 @@
 	"Seaking": {
 		"Index": 158,
 		"Name" : "SEAKING"
+	},
+	"MissingNo9F" : {
+		"Index" : 159
+	},
+	"MissingNoA0" : {
+		"Index" : 160
+	},
+	"MissingNoA1" : {
+		"Index" : 161
+	},
+	"MissingNoA2" : {
+		"Index" : 162
 	},
 	"Ponyta": {
 		"Index": 163,
@@ -555,9 +651,18 @@
 		"Index": 171,
 		"Name" : "AERODACTYL"
 	},
+	"MissingNoAC" : {
+		"Index" : 172
+	},
 	"Magnemite": {
 		"Index": 173,
 		"Name" : "MAGNEMITE"
+	},
+	"MissingNoAE" : {
+		"Index" : 174
+	},
+	"MissingNoAF" : {
+		"Index" : 175
 	},
 	"Charmander": {
 		"Index": 176,
@@ -578,6 +683,9 @@
 	"Charizard": {
 		"Index": 180,
 		"Name" : "CHARIZARD"
+	},
+	"MissingNoB5" : {
+		"Index" : 181
 	},
 	"FossilKabutops": {
 		"Index": 182

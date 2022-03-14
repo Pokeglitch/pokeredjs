@@ -16495,7 +16495,9 @@
 07:420E SharedCaveEntranceBlocks
 07:421E MonsterNames
 07:421E SharedCaveEntranceBlocks:End
+07:421E PokemonNames
 07:498A DoClearSaveDialogue
+07:498A PokemonNames:End
 07:49C1 ClearSaveDataText
 07:49C6 DisplayElevatorFloorMenu
 07:4A0D DisplayElevatorFloorMenu.UpdateWarp
