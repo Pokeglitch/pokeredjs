@@ -6,7 +6,7 @@ const POKEMON = {
 }
 
 let Pokemon = json('./Pokemon.json'),
-    PokemonNames = new Table("PokemonNames", pokemon => pokemon.getROMName() )
+    PokemonNames = new Table("MonsterNames", pokemon => pokemon.getROMName() )
 
 class PokemonData {
     constructor(id, data){
