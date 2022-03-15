@@ -25,9 +25,6 @@ class TownMapCoordinates {
         this.X = data.X;
         this.Y = data.Y;
         this.Maps = new Set();
-
-        this.Internal = 
-        this.MapGroups = [];
     }
     addMap(map){
         this.Maps.add(map);

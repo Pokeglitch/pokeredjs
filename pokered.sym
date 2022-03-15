@@ -25120,7 +25120,6 @@
 1C:5304 LoadTownMapEntry.external
 1C:530D LoadTownMapEntry.readEntry
 1C:5313 ExternalTownMapEntryTable
-1C:5382 InternalMapEntries
 1C:5382 ExternalTownMapEntryTable:End
 1C:5382 InternalTownMapEntryTable
 1C:5473 InternalTownMapEntryTable:End
