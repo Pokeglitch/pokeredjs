@@ -1,994 +1,1990 @@
 {
-	"PalletTown": {
-		"Index": 0,
-		"Header": "PalletTownHeader"
-	},
-	"ViridianCity": {
-		"Index": 1,
-		"Header": "ViridianCityHeader"
-	},
-	"PewterCity": {
-		"Index": 2,
-		"Header": "PewterCityHeader"
-	},
-	"CeruleanCity": {
-		"Index": 3,
-		"Header": "CeruleanCityHeader"
-	},
-	"LavenderTown": {
-		"Index": 4,
-		"Header": "LavenderTownHeader"
-	},
-	"VermilionCity": {
-		"Index": 5,
-		"Header": "VermilionCityHeader"
-	},
-	"CeladonCity": {
-		"Index": 6,
-		"Header": "CeladonCityHeader"
-	},
-	"FuchsiaCity": {
-		"Index": 7,
-		"Header": "FuchsiaCityHeader"
-	},
-	"CinnabarIsland": {
-		"Index": 8,
-		"Header": "CinnabarIslandHeader"
-	},
-	"IndigoPlateau": {
-		"Index": 9,
-		"Header": "IndigoPlateauHeader"
-	},
-	"SaffronCity": {
-		"Index": 10,
-		"Header": "SaffronCityHeader"
-	},
-	"UnusedMap_0B": {
-		"Index": 11,
-		"Header": "SaffronCityHeader"
-	},
-	"Route1": {
-		"Index": 12,
-		"Header": "Route1Header"
-	},
-	"Route2": {
-		"Index": 13,
-		"Header": "Route2Header"
-	},
-	"Route3": {
-		"Index": 14,
-		"Header": "Route3Header"
-	},
-	"Route4": {
-		"Index": 15,
-		"Header": "Route4Header"
-	},
-	"Route5": {
-		"Index": 16,
-		"Header": "Route5Header"
-	},
-	"Route6": {
-		"Index": 17,
-		"Header": "Route6Header"
-	},
-	"Route7": {
-		"Index": 18,
-		"Header": "Route7Header"
-	},
-	"Route8": {
-		"Index": 19,
-		"Header": "Route8Header"
-	},
-	"Route9": {
-		"Index": 20,
-		"Header": "Route9Header"
-	},
-	"Route10": {
-		"Index": 21,
-		"Header": "Route10Header"
-	},
-	"Route11": {
-		"Index": 22,
-		"Header": "Route11Header"
-	},
-	"Route12": {
-		"Index": 23,
-		"Header": "Route12Header"
-	},
-	"Route13": {
-		"Index": 24,
-		"Header": "Route13Header"
-	},
-	"Route14": {
-		"Index": 25,
-		"Header": "Route14Header"
-	},
-	"Route15": {
-		"Index": 26,
-		"Header": "Route15Header"
-	},
-	"Route16": {
-		"Index": 27,
-		"Header": "Route16Header"
-	},
-	"Route17": {
-		"Index": 28,
-		"Header": "Route17Header"
-	},
-	"Route18": {
-		"Index": 29,
-		"Header": "Route18Header"
-	},
-	"Route19": {
-		"Index": 30,
-		"Header": "Route19Header"
-	},
-	"Route20": {
-		"Index": 31,
-		"Header": "Route20Header"
-	},
-	"Route21": {
-		"Index": 32,
-		"Header": "Route21Header"
-	},
-	"Route22": {
-		"Index": 33,
-		"Header": "Route22Header"
-	},
-	"Route23": {
-		"Index": 34,
-		"Header": "Route23Header"
-	},
-	"Route24": {
-		"Index": 35,
-		"Header": "Route24Header"
-	},
-	"Route25": {
-		"Index": 36,
-		"Header": "Route25Header"
-	},
-	"RedsHouse1F": {
-		"Index": 37,
-		"Header": "RedsHouse1FHeader"
-	},
-	"RedsHouse2F": {
-		"Index": 38,
-		"Header": "RedsHouse2FHeader"
-	},
-	"BluesHouse": {
-		"Index": 39,
-		"Header": "BluesHouseHeader"
-	},
-	"OaksLab": {
-		"Index": 40,
-		"Header": "OaksLabHeader"
-	},
-	"ViridianPokecenter": {
-		"Index": 41,
-		"Header": "ViridianPokecenterHeader"
-	},
-	"ViridianMart": {
-		"Index": 42,
-		"Header": "ViridianMartHeader"
-	},
-	"ViridianSchoolHouse": {
-		"Index": 43,
-		"Header": "ViridianSchoolHouseHeader"
-	},
-	"ViridianNicknameHouse": {
-		"Index": 44,
-		"Header": "ViridianNicknameHouseHeader"
-	},
-	"ViridianGym": {
-		"Index": 45,
-		"Header": "ViridianGymHeader"
-	},
-	"DiglettsCaveRoute2": {
-		"Index": 46,
-		"Header": "DiglettsCaveRoute2Header"
-	},
-	"ViridianForestNorthGate": {
-		"Index": 47,
-		"Header": "ViridianForestNorthGateHeader"
-	},
-	"Route2TradeHouse": {
-		"Index": 48,
-		"Header": "Route2TradeHouseHeader"
-	},
-	"Route2Gate": {
-		"Index": 49,
-		"Header": "Route2GateHeader"
-	},
-	"ViridianForestSouthGate": {
-		"Index": 50,
-		"Header": "ViridianForestSouthGateHeader"
-	},
-	"ViridianForest": {
-		"Index": 51,
-		"Header": "ViridianForestHeader"
-	},
-	"Museum1F": {
-		"Index": 52,
-		"Header": "Museum1FHeader"
-	},
-	"Museum2F": {
-		"Index": 53,
-		"Header": "Museum2FHeader"
-	},
-	"PewterGym": {
-		"Index": 54,
-		"Header": "PewterGymHeader"
-	},
-	"PewterNidoranHouse": {
-		"Index": 55,
-		"Header": "PewterNidoranHouseHeader"
-	},
-	"PewterMart": {
-		"Index": 56,
-		"Header": "PewterMartHeader"
-	},
-	"PewterSpeechHouse": {
-		"Index": 57,
-		"Header": "PewterSpeechHouseHeader"
-	},
-	"PewterPokecenter": {
-		"Index": 58,
-		"Header": "PewterPokecenterHeader"
-	},
-	"MtMoon1F": {
-		"Index": 59,
-		"Header": "MtMoon1FHeader"
-	},
-	"MtMoonB1F": {
-		"Index": 60,
-		"Header": "MtMoonB1FHeader"
-	},
-	"MtMoonB2F": {
-		"Index": 61,
-		"Header": "MtMoonB2FHeader"
-	},
-	"CeruleanTrashedHouse": {
-		"Index": 62,
-		"Header": "CeruleanTrashedHouseHeader"
-	},
-	"CeruleanTradeHouse": {
-		"Index": 63,
-		"Header": "CeruleanTradeHouseHeader"
-	},
-	"CeruleanPokecenter": {
-		"Index": 64,
-		"Header": "CeruleanPokecenterHeader"
-	},
-	"CeruleanGym": {
-		"Index": 65,
-		"Header": "CeruleanGymHeader"
-	},
-	"BikeShop": {
-		"Index": 66,
-		"Header": "BikeShopHeader"
-	},
-	"CeruleanMart": {
-		"Index": 67,
-		"Header": "CeruleanMartHeader"
-	},
-	"MtMoonPokecenter": {
-		"Index": 68,
-		"Header": "MtMoonPokecenterHeader"
-	},
-	"CeruleanTrashedHouseCopy": {
-		"Index": 69,
-		"Header": "CeruleanTrashedHouseHeader"
-	},
-	"Route5Gate": {
-		"Index": 70,
-		"Header": "Route5GateHeader"
-	},
-	"UndergroundPathRoute5": {
-		"Index": 71,
-		"Header": "UndergroundPathRoute5Header"
-	},
-	"Daycare": {
-		"Index": 72,
-		"Header": "DaycareHeader"
-	},
-	"Route6Gate": {
-		"Index": 73,
-		"Header": "Route6GateHeader"
-	},
-	"UndergroundPathRoute6": {
-		"Index": 74,
-		"Header": "UndergroundPathRoute6Header"
-	},
-	"UndergroundPathRoute6Copy": {
-		"Index": 75,
-		"Header": "UndergroundPathRoute6Header"
-	},
-	"Route7Gate": {
-		"Index": 76,
-		"Header": "Route7GateHeader"
-	},
-	"UndergroundPathRoute7": {
-		"Index": 77,
-		"Header": "UndergroundPathRoute7Header"
-	},
-	"UndergroundPathRoute7Copy": {
-		"Index": 78,
-		"Header": "UndergroundPathRoute7CopyHeader"
-	},
-	"Route8Gate": {
-		"Index": 79,
-		"Header": "Route8GateHeader"
-	},
-	"UndergroundPathRoute8": {
-		"Index": 80,
-		"Header": "UndergroundPathRoute8Header"
-	},
-	"RockTunnelPokecenter": {
-		"Index": 81,
-		"Header": "RockTunnelPokecenterHeader"
-	},
-	"RockTunnel1F": {
-		"Index": 82,
-		"Header": "RockTunnel1FHeader"
-	},
-	"PowerPlant": {
-		"Index": 83,
-		"Header": "PowerPlantHeader"
-	},
-	"Route11Gate1F": {
-		"Index": 84,
-		"Header": "Route11Gate1FHeader"
-	},
-	"DiglettsCaveRoute11": {
-		"Index": 85,
-		"Header": "DiglettsCaveRoute11Header"
-	},
-	"Route11Gate2F": {
-		"Index": 86,
-		"Header": "Route11Gate2FHeader"
-	},
-	"Route12Gate1F": {
-		"Index": 87,
-		"Header": "Route12Gate1FHeader"
-	},
-	"BillsHouse": {
-		"Index": 88,
-		"Header": "BillsHouseHeader"
-	},
-	"VermilionPokecenter": {
-		"Index": 89,
-		"Header": "VermilionPokecenterHeader"
-	},
-	"PokemonFanClub": {
-		"Index": 90,
-		"Header": "PokemonFanClubHeader"
-	},
-	"VermilionMart": {
-		"Index": 91,
-		"Header": "VermilionMartHeader"
-	},
-	"VermilionGym": {
-		"Index": 92,
-		"Header": "VermilionGymHeader"
-	},
-	"VermilionPidgeyHouse": {
-		"Index": 93,
-		"Header": "VermilionPidgeyHouseHeader"
-	},
-	"VermilionDock": {
-		"Index": 94,
-		"Header": "VermilionDockHeader"
-	},
-	"SSAnne1F": {
-		"Index": 95,
-		"Header": "SSAnne1FHeader"
-	},
-	"SSAnne2F": {
-		"Index": 96,
-		"Header": "SSAnne2FHeader"
-	},
-	"SSAnne3F": {
-		"Index": 97,
-		"Header": "SSAnne3FHeader"
-	},
-	"SSAnneB1F": {
-		"Index": 98,
-		"Header": "SSAnneB1FHeader"
-	},
-	"SSAnneBow": {
-		"Index": 99,
-		"Header": "SSAnneBowHeader"
-	},
-	"SSAnneKitchen": {
-		"Index": 100,
-		"Header": "SSAnneKitchenHeader"
-	},
-	"SSAnneCaptainsRoom": {
-		"Index": 101,
-		"Header": "SSAnneCaptainsRoomHeader"
-	},
-	"SSAnne1FRooms": {
-		"Index": 102,
-		"Header": "SSAnne1FRoomsHeader"
-	},
-	"SSAnne2FRooms": {
-		"Index": 103,
-		"Header": "SSAnne2FRoomsHeader"
-	},
-	"SSAnneB1FRooms": {
-		"Index": 104,
-		"Header": "SSAnneB1FRoomsHeader"
-	},
-	"UnusedMap_69": {
-		"Index": 105,
-		"Header": "LancesRoomHeader"
-	},
-	"UnusedMap_6A": {
-		"Index": 106,
-		"Header": "LancesRoomHeader"
-	},
-	"UnusedMap_6B": {
-		"Index": 107,
-		"Header": "LancesRoomHeader"
-	},
-	"VictoryRoad1F": {
-		"Index": 108,
-		"Header": "VictoryRoad1FHeader"
-	},
-	"UnusedMap_6D": {
-		"Index": 109,
-		"Header": "LancesRoomHeader"
-	},
-	"UnusedMap_6E": {
-		"Index": 110,
-		"Header": "LancesRoomHeader"
-	},
-	"UnusedMap_6F": {
-		"Index": 111,
-		"Header": "LancesRoomHeader"
-	},
-	"UnusedMap_70": {
-		"Index": 112,
-		"Header": "LancesRoomHeader"
-	},
-	"LancesRoom": {
-		"Index": 113,
-		"Header": "LancesRoomHeader"
-	},
-	"UnusedMap_72": {
-		"Index": 114,
-		"Header": "LancesRoomHeader"
-	},
-	"UnusedMap_73": {
-		"Index": 115,
-		"Header": "LancesRoomHeader"
-	},
-	"UnusedMap_74": {
-		"Index": 116,
-		"Header": "LancesRoomHeader"
-	},
-	"UnusedMap_75": {
-		"Index": 117,
-		"Header": "LancesRoomHeader"
-	},
-	"HallOfFame": {
-		"Index": 118,
-		"Header": "HallOfFameHeader"
-	},
-	"UndergroundPathNorthSouth": {
-		"Index": 119,
-		"Header": "UndergroundPathNorthSouthHeader"
-	},
-	"ChampionsRoom": {
-		"Index": 120,
-		"Header": "ChampionsRoomHeader"
-	},
-	"UndergroundPathWestEast": {
-		"Index": 121,
-		"Header": "UndergroundPathWestEastHeader"
-	},
-	"CeladonMart1F": {
-		"Index": 122,
-		"Header": "CeladonMart1FHeader"
-	},
-	"CeladonMart2F": {
-		"Index": 123,
-		"Header": "CeladonMart2FHeader"
-	},
-	"CeladonMart3F": {
-		"Index": 124,
-		"Header": "CeladonMart3FHeader"
-	},
-	"CeladonMart4F": {
-		"Index": 125,
-		"Header": "CeladonMart4FHeader"
-	},
-	"CeladonMartRoof": {
-		"Index": 126,
-		"Header": "CeladonMartRoofHeader"
-	},
-	"CeladonMartElevator": {
-		"Index": 127,
-		"Header": "CeladonMartElevatorHeader"
-	},
-	"CeladonMansion1F": {
-		"Index": 128,
-		"Header": "CeladonMansion1FHeader"
-	},
-	"CeladonMansion2F": {
-		"Index": 129,
-		"Header": "CeladonMansion2FHeader"
-	},
-	"CeladonMansion3F": {
-		"Index": 130,
-		"Header": "CeladonMansion3FHeader"
-	},
-	"CeladonMansionRoof": {
-		"Index": 131,
-		"Header": "CeladonMansionRoofHeader"
-	},
-	"CeladonMansionRoofHouse": {
-		"Index": 132,
-		"Header": "CeladonMansionRoofHouseHeader"
-	},
-	"CeladonPokecenter": {
-		"Index": 133,
-		"Header": "CeladonPokecenterHeader"
-	},
-	"CeladonGym": {
-		"Index": 134,
-		"Header": "CeladonGymHeader"
-	},
-	"GameCorner": {
-		"Index": 135,
-		"Header": "GameCornerHeader"
-	},
-	"CeladonMart5F": {
-		"Index": 136,
-		"Header": "CeladonMart5FHeader"
-	},
-	"GameCornerPrizeRoom": {
-		"Index": 137,
-		"Header": "GameCornerPrizeRoomHeader"
-	},
-	"CeladonDiner": {
-		"Index": 138,
-		"Header": "CeladonDinerHeader"
-	},
-	"CeladonChiefHouse": {
-		"Index": 139,
-		"Header": "CeladonChiefHouseHeader"
-	},
-	"CeladonHotel": {
-		"Index": 140,
-		"Header": "CeladonHotelHeader"
-	},
-	"LavenderPokecenter": {
-		"Index": 141,
-		"Header": "LavenderPokecenterHeader"
-	},
-	"PokemonTower1F": {
-		"Index": 142,
-		"Header": "PokemonTower1FHeader"
-	},
-	"PokemonTower2F": {
-		"Index": 143,
-		"Header": "PokemonTower2FHeader"
-	},
-	"PokemonTower3F": {
-		"Index": 144,
-		"Header": "PokemonTower3FHeader"
-	},
-	"PokemonTower4F": {
-		"Index": 145,
-		"Header": "PokemonTower4FHeader"
-	},
-	"PokemonTower5F": {
-		"Index": 146,
-		"Header": "PokemonTower5FHeader"
-	},
-	"PokemonTower6F": {
-		"Index": 147,
-		"Header": "PokemonTower6FHeader"
-	},
-	"PokemonTower7F": {
-		"Index": 148,
-		"Header": "PokemonTower7FHeader"
-	},
-	"MrFujisHouse": {
-		"Index": 149,
-		"Header": "MrFujisHouseHeader"
-	},
-	"LavenderMart": {
-		"Index": 150,
-		"Header": "LavenderMartHeader"
-	},
-	"LavenderCuboneHouse": {
-		"Index": 151,
-		"Header": "LavenderCuboneHouseHeader"
-	},
-	"FuchsiaMart": {
-		"Index": 152,
-		"Header": "FuchsiaMartHeader"
-	},
-	"FuchsiaBillsGrandpasHouse": {
-		"Index": 153,
-		"Header": "FuchsiaBillsGrandpasHouseHeader"
-	},
-	"FuchsiaPokecenter": {
-		"Index": 154,
-		"Header": "FuchsiaPokecenterHeader"
-	},
-	"WardensHouse": {
-		"Index": 155,
-		"Header": "WardensHouseHeader"
-	},
-	"SafariZoneGate": {
-		"Index": 156,
-		"Header": "SafariZoneGateHeader"
-	},
-	"FuchsiaGym": {
-		"Index": 157,
-		"Header": "FuchsiaGymHeader"
-	},
-	"FuchsiaMeetingRoom": {
-		"Index": 158,
-		"Header": "FuchsiaMeetingRoomHeader"
-	},
-	"SeafoamIslandsB1F": {
-		"Index": 159,
-		"Header": "SeafoamIslandsB1FHeader"
-	},
-	"SeafoamIslandsB2F": {
-		"Index": 160,
-		"Header": "SeafoamIslandsB2FHeader"
-	},
-	"SeafoamIslandsB3F": {
-		"Index": 161,
-		"Header": "SeafoamIslandsB3FHeader"
-	},
-	"SeafoamIslandsB4F": {
-		"Index": 162,
-		"Header": "SeafoamIslandsB4FHeader"
-	},
-	"VermilionOldRodHouse": {
-		"Index": 163,
-		"Header": "VermilionOldRodHouseHeader"
-	},
-	"FuchsiaGoodRodHouse": {
-		"Index": 164,
-		"Header": "FuchsiaGoodRodHouseHeader"
-	},
-	"PokemonMansion1F": {
-		"Index": 165,
-		"Header": "PokemonMansion1FHeader"
-	},
-	"CinnabarGym": {
-		"Index": 166,
-		"Header": "CinnabarGymHeader"
-	},
-	"CinnabarLab": {
-		"Index": 167,
-		"Header": "CinnabarLabHeader"
-	},
-	"CinnabarLabTradeRoom": {
-		"Index": 168,
-		"Header": "CinnabarLabTradeRoomHeader"
-	},
-	"CinnabarLabMetronomeRoom": {
-		"Index": 169,
-		"Header": "CinnabarLabMetronomeRoomHeader"
-	},
-	"CinnabarLabFossilRoom": {
-		"Index": 170,
-		"Header": "CinnabarLabFossilRoomHeader"
-	},
-	"CinnabarPokecenter": {
-		"Index": 171,
-		"Header": "CinnabarPokecenterHeader"
-	},
-	"CinnabarMart": {
-		"Index": 172,
-		"Header": "CinnabarMartHeader"
-	},
-	"CinnabarMartCopy": {
-		"Index": 173,
-		"Header": "CinnabarMartHeader"
-	},
-	"IndigoPlateauLobby": {
-		"Index": 174,
-		"Header": "IndigoPlateauLobbyHeader"
-	},
-	"CopycatsHouse1F": {
-		"Index": 175,
-		"Header": "CopycatsHouse1FHeader"
-	},
-	"CopycatsHouse2F": {
-		"Index": 176,
-		"Header": "CopycatsHouse2FHeader"
-	},
-	"FightingDojo": {
-		"Index": 177,
-		"Header": "FightingDojoHeader"
-	},
-	"SaffronGym": {
-		"Index": 178,
-		"Header": "SaffronGymHeader"
-	},
-	"SaffronPidgeyHouse": {
-		"Index": 179,
-		"Header": "SaffronPidgeyHouseHeader"
-	},
-	"SaffronMart": {
-		"Index": 180,
-		"Header": "SaffronMartHeader"
-	},
-	"SilphCo1F": {
-		"Index": 181,
-		"Header": "SilphCo1FHeader"
-	},
-	"SaffronPokecenter": {
-		"Index": 182,
-		"Header": "SaffronPokecenterHeader"
-	},
-	"MrPsychicsHouse": {
-		"Index": 183,
-		"Header": "MrPsychicsHouseHeader"
-	},
-	"Route15Gate1F": {
-		"Index": 184,
-		"Header": "Route15Gate1FHeader"
-	},
-	"Route15Gate2F": {
-		"Index": 185,
-		"Header": "Route15Gate2FHeader"
-	},
-	"Route16Gate1F": {
-		"Index": 186,
-		"Header": "Route16Gate1FHeader"
-	},
-	"Route16Gate2F": {
-		"Index": 187,
-		"Header": "Route16Gate2FHeader"
-	},
-	"Route16FlyHouse": {
-		"Index": 188,
-		"Header": "Route16FlyHouseHeader"
-	},
-	"Route12SuperRodHouse": {
-		"Index": 189,
-		"Header": "Route12SuperRodHouseHeader"
-	},
-	"Route18Gate1F": {
-		"Index": 190,
-		"Header": "Route18Gate1FHeader"
-	},
-	"Route18Gate2F": {
-		"Index": 191,
-		"Header": "Route18Gate2FHeader"
-	},
-	"SeafoamIslands1F": {
-		"Index": 192,
-		"Header": "SeafoamIslands1FHeader"
-	},
-	"Route22Gate": {
-		"Index": 193,
-		"Header": "Route22GateHeader"
-	},
-	"VictoryRoad2F": {
-		"Index": 194,
-		"Header": "VictoryRoad2FHeader"
-	},
-	"Route12Gate2F": {
-		"Index": 195,
-		"Header": "Route12Gate2FHeader"
-	},
-	"VermilionTradeHouse": {
-		"Index": 196,
-		"Header": "VermilionTradeHouseHeader"
-	},
-	"DiglettsCave": {
-		"Index": 197,
-		"Header": "DiglettsCaveHeader"
-	},
-	"VictoryRoad3F": {
-		"Index": 198,
-		"Header": "VictoryRoad3FHeader"
-	},
-	"RocketHideoutB1F": {
-		"Index": 199,
-		"Header": "RocketHideoutB1FHeader"
-	},
-	"RocketHideoutB2F": {
-		"Index": 200,
-		"Header": "RocketHideoutB2FHeader"
-	},
-	"RocketHideoutB3F": {
-		"Index": 201,
-		"Header": "RocketHideoutB3FHeader"
-	},
-	"RocketHideoutB4F": {
-		"Index": 202,
-		"Header": "RocketHideoutB4FHeader"
-	},
-	"RocketHideoutElevator": {
-		"Index": 203,
-		"Header": "RocketHideoutElevatorHeader"
-	},
-	"UnusedMap_CC": {
-		"Index": 204,
-		"Header": "RocketHideoutElevatorHeader"
-	},
-	"UnusedMap_CD": {
-		"Index": 205,
-		"Header": "RocketHideoutElevatorHeader"
-	},
-	"UnusedMap_CE": {
-		"Index": 206,
-		"Header": "RocketHideoutElevatorHeader"
-	},
-	"SilphCo2F": {
-		"Index": 207,
-		"Header": "SilphCo2FHeader"
-	},
-	"SilphCo3F": {
-		"Index": 208,
-		"Header": "SilphCo3FHeader"
-	},
-	"SilphCo4F": {
-		"Index": 209,
-		"Header": "SilphCo4FHeader"
-	},
-	"SilphCo5F": {
-		"Index": 210,
-		"Header": "SilphCo5FHeader"
-	},
-	"SilphCo6F": {
-		"Index": 211,
-		"Header": "SilphCo6FHeader"
-	},
-	"SilphCo7F": {
-		"Index": 212,
-		"Header": "SilphCo7FHeader"
-	},
-	"SilphCo8F": {
-		"Index": 213,
-		"Header": "SilphCo8FHeader"
-	},
-	"PokemonMansion2F": {
-		"Index": 214,
-		"Header": "PokemonMansion2FHeader"
-	},
-	"PokemonMansion3F": {
-		"Index": 215,
-		"Header": "PokemonMansion3FHeader"
-	},
-	"PokemonMansionB1F": {
-		"Index": 216,
-		"Header": "PokemonMansionB1FHeader"
-	},
-	"SafariZoneEast": {
-		"Index": 217,
-		"Header": "SafariZoneEastHeader"
-	},
-	"SafariZoneNorth": {
-		"Index": 218,
-		"Header": "SafariZoneNorthHeader"
-	},
-	"SafariZoneWest": {
-		"Index": 219,
-		"Header": "SafariZoneWestHeader"
-	},
-	"SafariZoneCenter": {
-		"Index": 220,
-		"Header": "SafariZoneCenterHeader"
-	},
-	"SafariZoneCenterRestHouse": {
-		"Index": 221,
-		"Header": "SafariZoneCenterRestHouseHeader"
-	},
-	"SafariZoneSecretHouse": {
-		"Index": 222,
-		"Header": "SafariZoneSecretHouseHeader"
-	},
-	"SafariZoneWestRestHouse": {
-		"Index": 223,
-		"Header": "SafariZoneWestRestHouseHeader"
-	},
-	"SafariZoneEastRestHouse": {
-		"Index": 224,
-		"Header": "SafariZoneEastRestHouseHeader"
-	},
-	"SafariZoneNorthRestHouse": {
-		"Index": 225,
-		"Header": "SafariZoneNorthRestHouseHeader"
-	},
-	"CeruleanCave2F": {
-		"Index": 226,
-		"Header": "CeruleanCave2FHeader"
-	},
-	"CeruleanCaveB1F": {
-		"Index": 227,
-		"Header": "CeruleanCaveB1FHeader"
-	},
-	"CeruleanCave1F": {
-		"Index": 228,
-		"Header": "CeruleanCave1FHeader"
-	},
-	"NameRatersHouse": {
-		"Index": 229,
-		"Header": "NameRatersHouseHeader"
-	},
-	"CeruleanBadgeHouse": {
-		"Index": 230,
-		"Header": "CeruleanBadgeHouseHeader"
-	},
-	"UnusedMap_E7": {
-		"Index": 231,
-		"Header": "Route16Gate1FHeader"
-	},
-	"RockTunnelB1F": {
-		"Index": 232,
-		"Header": "RockTunnelB1FHeader"
-	},
-	"SilphCo9F": {
-		"Index": 233,
-		"Header": "SilphCo9FHeader"
-	},
-	"SilphCo10F": {
-		"Index": 234,
-		"Header": "SilphCo10FHeader"
-	},
-	"SilphCo11F": {
-		"Index": 235,
-		"Header": "SilphCo11FHeader"
-	},
-	"SilphCoElevator": {
-		"Index": 236,
-		"Header": "SilphCoElevatorHeader"
-	},
-	"UnusedMap_ED": {
-		"Index": 237,
-		"Header": "SilphCo2FHeader"
-	},
-	"UnusedMap_EE": {
-		"Index": 237,
-		"Header": "SilphCo2FHeader"
-	},
-	"TradeCenter": {
-		"Index": 239,
-		"Header": "TradeCenterHeader"
-	},
-	"Colosseum": {
-		"Index": 240,
-		"Header": "ColosseumHeader"
-	},
-	"UnusedMap_F1": {
-		"Index": 241,
-		"Header": "SilphCo2FHeader"
-	},
-	"UnusedMap_F2": {
-		"Index": 242,
-		"Header": "SilphCo2FHeader"
-	},
-	"UnusedMap_F3": {
-		"Index": 243,
-		"Header": "SilphCo2FHeader"
-	},
-	"UnusedMap_F4": {
-		"Index": 244,
-		"Header": "SilphCo2FHeader"
-	},
-	"LoreleisRoom": {
-		"Index": 245,
-		"Header": "LoreleisRoomHeader"
-	},
-	"BrunosRoom": {
-		"Index": 246,
-		"Header": "BrunosRoomHeader"
-	},
-	"AgathasRoom": {
-		"Index": 247,
-		"Header": "AgathasRoomHeader"
+	"External" : {
+		"PalletTown": {
+			"Index": 0,
+			"Header": "PalletTownHeader",
+			"TownMapEntry": {
+				"ID" : "PalletTownMapEntry",
+				"Coords" : 1
+			}
+		},
+		"ViridianCity": {
+			"Index": 1,
+			"Header": "ViridianCityHeader",
+			"TownMapEntry": {
+				"ID" : "ViridianCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"PewterCity": {
+			"Index": 2,
+			"Header": "PewterCityHeader",
+			"TownMapEntry": {
+				"ID" : "PewterCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"CeruleanCity": {
+			"Index": 3,
+			"Header": "CeruleanCityHeader",
+			"TownMapEntry": {
+				"ID" : "CeruleanCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"LavenderTown": {
+			"Index": 4,
+			"Header": "LavenderTownHeader",
+			"TownMapEntry": {
+				"ID" : "LavenderTownMapEntry",
+				"Coords" : 0
+			}
+		},
+		"VermilionCity": {
+			"Index": 5,
+			"Header": "VermilionCityHeader",
+			"TownMapEntry": {
+				"ID" : "VermilionCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"CeladonCity": {
+			"Index": 6,
+			"Header": "CeladonCityHeader",
+			"TownMapEntry": {
+				"ID" : "CeladonCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"FuchsiaCity": {
+			"Index": 7,
+			"Header": "FuchsiaCityHeader",
+			"TownMapEntry": {
+				"ID" : "FuchsiaCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"CinnabarIsland": {
+			"Index": 8,
+			"Header": "CinnabarIslandHeader",
+			"TownMapEntry": {
+				"ID" : "CinnabarIslandMapEntry",
+				"Coords" : 0
+			}
+		},
+		"IndigoPlateau": {
+			"Index": 9,
+			"Header": "IndigoPlateauHeader",
+			"TownMapEntry": {
+				"ID" : "IndigoPlateauMapEntry",
+				"Coords" : 0
+			}
+		},
+		"SaffronCity": {
+			"Index": 10,
+			"Header": "SaffronCityHeader",
+			"TownMapEntry": {
+				"ID" : "SaffronCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"UnusedMap_0B": {
+			"Index": 11,
+			"Header": "SaffronCityHeader",
+			"TownMapEntry": {
+				"ID" : "PalletTownMapEntry",
+				"Coords" : 0
+			}
+		},
+		"Route1": {
+			"Index": 12,
+			"Header": "Route1Header",
+			"TownMapEntry": {
+				"ID" : "Route1MapEntry",
+				"Coords" : 0
+			}
+		},
+		"Route2": {
+			"Index": 13,
+			"Header": "Route2Header",
+			"TownMapEntry": {
+				"ID" : "Route2MapEntry",
+				"Coords" : 0
+			}
+		},
+		"Route3": {
+			"Index": 14,
+			"Header": "Route3Header",
+			"TownMapEntry": {
+				"ID" : "Route3MapEntry",
+				"Coords" : 0
+			}
+		},
+		"Route4": {
+			"Index": 15,
+			"Header": "Route4Header",
+			"TownMapEntry": {
+				"ID" : "Route4MapEntry",
+				"Coords" : 0
+			}
+		},
+		"Route5": {
+			"Index": 16,
+			"Header": "Route5Header",
+			"TownMapEntry": {
+				"ID" : "Route5MapEntry",
+				"Coords" : 0
+			}
+		},
+		"Route6": {
+			"Index": 17,
+			"Header": "Route6Header",
+			"TownMapEntry": {
+				"ID" : "Route6MapEntry",
+				"Coords" : 0
+			}
+		},
+		"Route7": {
+			"Index": 18,
+			"Header": "Route7Header",
+			"TownMapEntry": {
+				"ID" : "Route7MapEntry",
+				"Coords" : 0
+			}
+		},
+		"Route8": {
+			"Index": 19,
+			"Header": "Route8Header",
+			"TownMapEntry": {
+				"ID" : "Route8MapEntry",
+				"Coords" : 0
+			}
+		},
+		"Route9": {
+			"Index": 20,
+			"Header": "Route9Header",
+			"TownMapEntry": {
+				"ID" : "Route9MapEntry",
+				"Coords" : 0
+			}
+		},
+		"Route10": {
+			"Index": 21,
+			"Header": "Route10Header",
+			"TownMapEntry": {
+				"ID" : "Route10MapEntry",
+				"Coords" : 0
+			}
+		},
+		"Route11": {
+			"Index": 22,
+			"Header": "Route11Header",
+			"TownMapEntry": {
+				"ID" : "Route11MapEntry",
+				"Coords" : 0
+			}
+		},
+		"Route12": {
+			"Index": 23,
+			"Header": "Route12Header",
+			"TownMapEntry": {
+				"ID" : "Route12MapEntry",
+				"Coords" : 0
+			}
+		},
+		"Route13": {
+			"Index": 24,
+			"Header": "Route13Header",
+			"TownMapEntry": {
+				"ID" : "Route13MapEntry",
+				"Coords" : 0
+			}
+		},
+		"Route14": {
+			"Index": 25,
+			"Header": "Route14Header",
+			"TownMapEntry": {
+				"ID" : "Route14MapEntry",
+				"Coords" : 0
+			}
+		},
+		"Route15": {
+			"Index": 26,
+			"Header": "Route15Header",
+			"TownMapEntry": {
+				"ID" : "Route15MapEntry",
+				"Coords" : 0
+			}
+		},
+		"Route16": {
+			"Index": 27,
+			"Header": "Route16Header",
+			"TownMapEntry": {
+				"ID" : "Route16MapEntry",
+				"Coords" : 0
+			}
+		},
+		"Route17": {
+			"Index": 28,
+			"Header": "Route17Header",
+			"TownMapEntry": {
+				"ID" : "Route17MapEntry",
+				"Coords" : 0
+			}
+		},
+		"Route18": {
+			"Index": 29,
+			"Header": "Route18Header",
+			"TownMapEntry": {
+				"ID" : "Route18MapEntry",
+				"Coords" : 0
+			}
+		},
+		"Route19": {
+			"Index": 30,
+			"Header": "Route19Header",
+			"TownMapEntry": {
+				"ID" : "Route19MapEntry",
+				"Coords" : 0
+			}
+		},
+		"Route20": {
+			"Index": 31,
+			"Header": "Route20Header",
+			"TownMapEntry": {
+				"ID" : "Route20MapEntry",
+				"Coords" : 0
+			}
+		},
+		"Route21": {
+			"Index": 32,
+			"Header": "Route21Header",
+			"TownMapEntry": {
+				"ID" : "Route21MapEntry",
+				"Coords" : 0
+			}
+		},
+		"Route22": {
+			"Index": 33,
+			"Header": "Route22Header",
+			"TownMapEntry": {
+				"ID" : "Route22MapEntry",
+				"Coords" : 0
+			}
+		},
+		"Route23": {
+			"Index": 34,
+			"Header": "Route23Header",
+			"TownMapEntry": {
+				"ID" : "Route23MapEntry",
+				"Coords" : 0
+			}
+		},
+		"Route24": {
+			"Index": 35,
+			"Header": "Route24Header",
+			"TownMapEntry": {
+				"ID" : "Route24MapEntry",
+				"Coords" : 0
+			}
+		},
+		"Route25": {
+			"Index": 36,
+			"Header": "Route25Header",
+			"TownMapEntry": {
+				"ID" : "Route25MapEntry",
+				"Coords" : 0
+			}
+		}
+	},
+	"Internal" : {
+		"RedsHouse1F": {
+			"Index": 37,
+			"Header": "RedsHouse1FHeader",
+			"TownMapEntry": {
+				"ID" : "PalletTownMapEntry",
+				"Coords" : 1
+			}
+		},
+		"RedsHouse2F": {
+			"Index": 38,
+			"Header": "RedsHouse2FHeader",
+			"TownMapEntry": {
+				"ID" : "PalletTownMapEntry",
+				"Coords" : 1
+			}
+		},
+		"BluesHouse": {
+			"Index": 39,
+			"Header": "BluesHouseHeader",
+			"TownMapEntry": {
+				"ID" : "PalletTownMapEntry",
+				"Coords" : 1
+			}
+		},
+		"OaksLab": {
+			"Index": 40,
+			"Header": "OaksLabHeader",
+			"TownMapEntry": {
+				"ID" : "PalletTownMapEntry",
+				"Coords" : 1
+			}
+		},
+		"ViridianPokecenter": {
+			"Index": 41,
+			"Header": "ViridianPokecenterHeader",
+			"TownMapEntry": {
+				"ID" : "ViridianCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"ViridianMart": {
+			"Index": 42,
+			"Header": "ViridianMartHeader",
+			"TownMapEntry": {
+				"ID" : "ViridianCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"ViridianSchoolHouse": {
+			"Index": 43,
+			"Header": "ViridianSchoolHouseHeader",
+			"TownMapEntry": {
+				"ID" : "ViridianCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"ViridianNicknameHouse": {
+			"Index": 44,
+			"Header": "ViridianNicknameHouseHeader",
+			"TownMapEntry": {
+				"ID" : "ViridianCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"ViridianGym": {
+			"Index": 45,
+			"Header": "ViridianGymHeader",
+			"TownMapEntry": {
+				"ID" : "ViridianCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"DiglettsCaveRoute2": {
+			"Index": 46,
+			"Header": "DiglettsCaveRoute2Header",
+			"TownMapEntry": {
+				"ID" : "Route2MapEntry",
+				"Coords" : 0
+			}
+		},
+		"ViridianForestNorthGate": {
+			"Index": 47,
+			"Header": "ViridianForestNorthGateHeader",
+			"TownMapEntry": {
+				"ID" : "Route2MapEntry",
+				"Coords" : 0
+			}
+		},
+		"Route2TradeHouse": {
+			"Index": 48,
+			"Header": "Route2TradeHouseHeader",
+			"TownMapEntry": {
+				"ID" : "Route2MapEntry",
+				"Coords" : 0
+			}
+		},
+		"Route2Gate": {
+			"Index": 49,
+			"Header": "Route2GateHeader",
+			"TownMapEntry": {
+				"ID" : "Route2MapEntry",
+				"Coords" : 0
+			}
+		},
+		"ViridianForestSouthGate": {
+			"Index": 50,
+			"Header": "ViridianForestSouthGateHeader",
+			"TownMapEntry": {
+				"ID" : "Route2MapEntry",
+				"Coords" : 0
+			}
+		},
+		"ViridianForest": {
+			"Index": 51,
+			"Header": "ViridianForestHeader",
+			"TownMapEntry": {
+				"ID" : "ViridianForestMapEntry",
+				"Coords" : 0
+			}
+		},
+		"Museum1F": {
+			"Index": 52,
+			"Header": "Museum1FHeader",
+			"TownMapEntry": {
+				"ID" : "PewterCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"Museum2F": {
+			"Index": 53,
+			"Header": "Museum2FHeader",
+			"TownMapEntry": {
+				"ID" : "PewterCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"PewterGym": {
+			"Index": 54,
+			"Header": "PewterGymHeader",
+			"TownMapEntry": {
+				"ID" : "PewterCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"PewterNidoranHouse": {
+			"Index": 55,
+			"Header": "PewterNidoranHouseHeader",
+			"TownMapEntry": {
+				"ID" : "PewterCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"PewterMart": {
+			"Index": 56,
+			"Header": "PewterMartHeader",
+			"TownMapEntry": {
+				"ID" : "PewterCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"PewterSpeechHouse": {
+			"Index": 57,
+			"Header": "PewterSpeechHouseHeader",
+			"TownMapEntry": {
+				"ID" : "PewterCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"PewterPokecenter": {
+			"Index": 58,
+			"Header": "PewterPokecenterHeader",
+			"TownMapEntry": {
+				"ID" : "PewterCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"MtMoon1F": {
+			"Index": 59,
+			"Header": "MtMoon1FHeader",
+			"TownMapEntry": {
+				"ID" : "MountMoonMapEntry",
+				"Coords" : 0
+			}
+		},
+		"MtMoonB1F": {
+			"Index": 60,
+			"Header": "MtMoonB1FHeader",
+			"TownMapEntry": {
+				"ID" : "MountMoonMapEntry",
+				"Coords" : 0
+			}
+		},
+		"MtMoonB2F": {
+			"Index": 61,
+			"Header": "MtMoonB2FHeader",
+			"TownMapEntry": {
+				"ID" : "MountMoonMapEntry",
+				"Coords" : 0
+			}
+		},
+		"CeruleanTrashedHouse": {
+			"Index": 62,
+			"Header": "CeruleanTrashedHouseHeader",
+			"TownMapEntry": {
+				"ID" : "CeruleanCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"CeruleanTradeHouse": {
+			"Index": 63,
+			"Header": "CeruleanTradeHouseHeader",
+			"TownMapEntry": {
+				"ID" : "CeruleanCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"CeruleanPokecenter": {
+			"Index": 64,
+			"Header": "CeruleanPokecenterHeader",
+			"TownMapEntry": {
+				"ID" : "CeruleanCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"CeruleanGym": {
+			"Index": 65,
+			"Header": "CeruleanGymHeader",
+			"TownMapEntry": {
+				"ID" : "CeruleanCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"BikeShop": {
+			"Index": 66,
+			"Header": "BikeShopHeader",
+			"TownMapEntry": {
+				"ID" : "CeruleanCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"CeruleanMart": {
+			"Index": 67,
+			"Header": "CeruleanMartHeader",
+			"TownMapEntry": {
+				"ID" : "CeruleanCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"MtMoonPokecenter": {
+			"Index": 68,
+			"Header": "MtMoonPokecenterHeader",
+			"TownMapEntry": {
+				"ID" : "Route4MapEntry",
+				"Coords" : 1
+			}
+		},
+		"CeruleanTrashedHouseCopy": {
+			"Index": 69,
+			"Header": "CeruleanTrashedHouseHeader",
+			"TownMapEntry": {
+				"ID" : "CeruleanCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"Route5Gate": {
+			"Index": 70,
+			"Header": "Route5GateHeader",
+			"TownMapEntry": {
+				"ID" : "Route5MapEntry",
+				"Coords" : 1
+			}
+		},
+		"UndergroundPathRoute5": {
+			"Index": 71,
+			"Header": "UndergroundPathRoute5Header",
+			"TownMapEntry": {
+				"ID" : "Route5MapEntry",
+				"Coords" : 1
+			}
+		},
+		"Daycare": {
+			"Index": 72,
+			"Header": "DaycareHeader",
+			"TownMapEntry": {
+				"ID" : "Route5MapEntry",
+				"Coords" : 1
+			}
+		},
+		"Route6Gate": {
+			"Index": 73,
+			"Header": "Route6GateHeader",
+			"TownMapEntry": {
+				"ID" : "Route6MapEntry",
+				"Coords" : 1
+			}
+		},
+		"UndergroundPathRoute6": {
+			"Index": 74,
+			"Header": "UndergroundPathRoute6Header",
+			"TownMapEntry": {
+				"ID" : "Route6MapEntry",
+				"Coords" : 1
+			}
+		},
+		"UndergroundPathRoute6Copy": {
+			"Index": 75,
+			"Header": "UndergroundPathRoute6Header",
+			"TownMapEntry": {
+				"ID" : "Route6MapEntry",
+				"Coords" : 1
+			}
+		},
+		"Route7Gate": {
+			"Index": 76,
+			"Header": "Route7GateHeader",
+			"TownMapEntry": {
+				"ID" : "Route7MapEntry",
+				"Coords" : 1
+			}
+		},
+		"UndergroundPathRoute7": {
+			"Index": 77,
+			"Header": "UndergroundPathRoute7Header",
+			"TownMapEntry": {
+				"ID" : "Route7MapEntry",
+				"Coords" : 1
+			}
+		},
+		"UndergroundPathRoute7Copy": {
+			"Index": 78,
+			"Header": "UndergroundPathRoute7CopyHeader",
+			"TownMapEntry": {
+				"ID" : "Route7MapEntry",
+				"Coords" : 1
+			}
+		},
+		"Route8Gate": {
+			"Index": 79,
+			"Header": "Route8GateHeader",
+			"TownMapEntry": {
+				"ID" : "Route8MapEntry",
+				"Coords" : 1
+			}
+		},
+		"UndergroundPathRoute8": {
+			"Index": 80,
+			"Header": "UndergroundPathRoute8Header",
+			"TownMapEntry": {
+				"ID" : "Route8MapEntry",
+				"Coords" : 1
+			}
+		},
+		"RockTunnelPokecenter": {
+			"Index": 81,
+			"Header": "RockTunnelPokecenterHeader",
+			"TownMapEntry": {
+				"ID" : "RockTunnelMapEntry",
+				"Coords" : 0
+			}
+		},
+		"RockTunnel1F": {
+			"Index": 82,
+			"Header": "RockTunnel1FHeader",
+			"TownMapEntry": {
+				"ID" : "RockTunnelMapEntry",
+				"Coords" : 0
+			}
+		},
+		"PowerPlant": {
+			"Index": 83,
+			"Header": "PowerPlantHeader",
+			"TownMapEntry": {
+				"ID" : "PowerPlantMapEntry",
+				"Coords" : 0
+			}
+		},
+		"Route11Gate1F": {
+			"Index": 84,
+			"Header": "Route11Gate1FHeader",
+			"TownMapEntry": {
+				"ID" : "Route11MapEntry",
+				"Coords" : 1
+			}
+		},
+		"DiglettsCaveRoute11": {
+			"Index": 85,
+			"Header": "DiglettsCaveRoute11Header",
+			"TownMapEntry": {
+				"ID" : "Route11MapEntry",
+				"Coords" : 1
+			}
+		},
+		"Route11Gate2F": {
+			"Index": 86,
+			"Header": "Route11Gate2FHeader",
+			"TownMapEntry": {
+				"ID" : "Route11MapEntry",
+				"Coords" : 1
+			}
+		},
+		"Route12Gate1F": {
+			"Index": 87,
+			"Header": "Route12Gate1FHeader",
+			"TownMapEntry": {
+				"ID" : "Route12MapEntry",
+				"Coords" : 1
+			}
+		},
+		"BillsHouse": {
+			"Index": 88,
+			"Header": "BillsHouseHeader",
+			"TownMapEntry": {
+				"ID" : "SeaCottageMapEntry",
+				"Coords" : 0
+			}
+		},
+		"VermilionPokecenter": {
+			"Index": 89,
+			"Header": "VermilionPokecenterHeader",
+			"TownMapEntry": {
+				"ID" : "VermilionCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"PokemonFanClub": {
+			"Index": 90,
+			"Header": "PokemonFanClubHeader",
+			"TownMapEntry": {
+				"ID" : "VermilionCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"VermilionMart": {
+			"Index": 91,
+			"Header": "VermilionMartHeader",
+			"TownMapEntry": {
+				"ID" : "VermilionCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"VermilionGym": {
+			"Index": 92,
+			"Header": "VermilionGymHeader",
+			"TownMapEntry": {
+				"ID" : "VermilionCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"VermilionPidgeyHouse": {
+			"Index": 93,
+			"Header": "VermilionPidgeyHouseHeader",
+			"TownMapEntry": {
+				"ID" : "VermilionCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"VermilionDock": {
+			"Index": 94,
+			"Header": "VermilionDockHeader",
+			"TownMapEntry": {
+				"ID" : "VermilionCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"SSAnne1F": {
+			"Index": 95,
+			"Header": "SSAnne1FHeader",
+			"TownMapEntry": {
+				"ID" : "SSAnneMapEntry",
+				"Coords" : 0
+			}
+		},
+		"SSAnne2F": {
+			"Index": 96,
+			"Header": "SSAnne2FHeader",
+			"TownMapEntry": {
+				"ID" : "SSAnneMapEntry",
+				"Coords" : 0
+			}
+		},
+		"SSAnne3F": {
+			"Index": 97,
+			"Header": "SSAnne3FHeader",
+			"TownMapEntry": {
+				"ID" : "SSAnneMapEntry",
+				"Coords" : 0
+			}
+		},
+		"SSAnneB1F": {
+			"Index": 98,
+			"Header": "SSAnneB1FHeader",
+			"TownMapEntry": {
+				"ID" : "SSAnneMapEntry",
+				"Coords" : 0
+			}
+		},
+		"SSAnneBow": {
+			"Index": 99,
+			"Header": "SSAnneBowHeader",
+			"TownMapEntry": {
+				"ID" : "SSAnneMapEntry",
+				"Coords" : 0
+			}
+		},
+		"SSAnneKitchen": {
+			"Index": 100,
+			"Header": "SSAnneKitchenHeader",
+			"TownMapEntry": {
+				"ID" : "SSAnneMapEntry",
+				"Coords" : 0
+			}
+		},
+		"SSAnneCaptainsRoom": {
+			"Index": 101,
+			"Header": "SSAnneCaptainsRoomHeader",
+			"TownMapEntry": {
+				"ID" : "SSAnneMapEntry",
+				"Coords" : 0
+			}
+		},
+		"SSAnne1FRooms": {
+			"Index": 102,
+			"Header": "SSAnne1FRoomsHeader",
+			"TownMapEntry": {
+				"ID" : "SSAnneMapEntry",
+				"Coords" : 0
+			}
+		},
+		"SSAnne2FRooms": {
+			"Index": 103,
+			"Header": "SSAnne2FRoomsHeader",
+			"TownMapEntry": {
+				"ID" : "SSAnneMapEntry",
+				"Coords" : 0
+			}
+		},
+		"SSAnneB1FRooms": {
+			"Index": 104,
+			"Header": "SSAnneB1FRoomsHeader",
+			"TownMapEntry": {
+				"ID" : "SSAnneMapEntry",
+				"Coords" : 0
+			}
+		},
+		"UnusedMap_69": {
+			"Index": 105,
+			"Header": "LancesRoomHeader",
+			"TownMapEntry": {
+				"ID" : "VictoryRoadMapEntry",
+				"Coords" : 0
+			}
+		},
+		"UnusedMap_6A": {
+			"Index": 106,
+			"Header": "LancesRoomHeader",
+			"TownMapEntry": {
+				"ID" : "VictoryRoadMapEntry",
+				"Coords" : 0
+			}
+		},
+		"UnusedMap_6B": {
+			"Index": 107,
+			"Header": "LancesRoomHeader",
+			"TownMapEntry": {
+				"ID" : "VictoryRoadMapEntry",
+				"Coords" : 0
+			}
+		},
+		"VictoryRoad1F": {
+			"Index": 108,
+			"Header": "VictoryRoad1FHeader",
+			"TownMapEntry": {
+				"ID" : "VictoryRoadMapEntry",
+				"Coords" : 0
+			}
+		},
+		"UnusedMap_6D": {
+			"Index": 109,
+			"Header": "LancesRoomHeader",
+			"TownMapEntry": {
+				"ID" : "PokemonLeagueMapEntry",
+				"Coords" : 0
+			}
+		},
+		"UnusedMap_6E": {
+			"Index": 110,
+			"Header": "LancesRoomHeader",
+			"TownMapEntry": {
+				"ID" : "PokemonLeagueMapEntry",
+				"Coords" : 0
+			}
+		},
+		"UnusedMap_6F": {
+			"Index": 111,
+			"Header": "LancesRoomHeader",
+			"TownMapEntry": {
+				"ID" : "PokemonLeagueMapEntry",
+				"Coords" : 0
+			}
+		},
+		"UnusedMap_70": {
+			"Index": 112,
+			"Header": "LancesRoomHeader",
+			"TownMapEntry": {
+				"ID" : "PokemonLeagueMapEntry",
+				"Coords" : 0
+			}
+		},
+		"LancesRoom": {
+			"Index": 113,
+			"Header": "LancesRoomHeader",
+			"TownMapEntry": {
+				"ID" : "PokemonLeagueMapEntry",
+				"Coords" : 0
+			}
+		},
+		"UnusedMap_72": {
+			"Index": 114,
+			"Header": "LancesRoomHeader",
+			"TownMapEntry": {
+				"ID" : "PokemonLeagueMapEntry",
+				"Coords" : 0
+			}
+		},
+		"UnusedMap_73": {
+			"Index": 115,
+			"Header": "LancesRoomHeader",
+			"TownMapEntry": {
+				"ID" : "PokemonLeagueMapEntry",
+				"Coords" : 0
+			}
+		},
+		"UnusedMap_74": {
+			"Index": 116,
+			"Header": "LancesRoomHeader",
+			"TownMapEntry": {
+				"ID" : "PokemonLeagueMapEntry",
+				"Coords" : 0
+			}
+		},
+		"UnusedMap_75": {
+			"Index": 117,
+			"Header": "LancesRoomHeader",
+			"TownMapEntry": {
+				"ID" : "PokemonLeagueMapEntry",
+				"Coords" : 0
+			}
+		},
+		"HallOfFame": {
+			"Index": 118,
+			"Header": "HallOfFameHeader",
+			"TownMapEntry": {
+				"ID" : "PokemonLeagueMapEntry",
+				"Coords" : 0
+			}
+		},
+		"UndergroundPathNorthSouth": {
+			"Index": 119,
+			"Header": "UndergroundPathNorthSouthHeader",
+			"TownMapEntry": {
+				"ID" : "UndergroundPathMapEntry",
+				"Coords" : 0
+			}
+		},
+		"ChampionsRoom": {
+			"Index": 120,
+			"Header": "ChampionsRoomHeader",
+			"TownMapEntry": {
+				"ID" : "PokemonLeagueMapEntry",
+				"Coords" : 0
+			}
+		},
+		"UndergroundPathWestEast": {
+			"Index": 121,
+			"Header": "UndergroundPathWestEastHeader",
+			"TownMapEntry": {
+				"ID" : "UndergroundPathMapEntry",
+				"Coords" : 0
+			}
+		},
+		"CeladonMart1F": {
+			"Index": 122,
+			"Header": "CeladonMart1FHeader",
+			"TownMapEntry": {
+				"ID" : "CeladonCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"CeladonMart2F": {
+			"Index": 123,
+			"Header": "CeladonMart2FHeader",
+			"TownMapEntry": {
+				"ID" : "CeladonCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"CeladonMart3F": {
+			"Index": 124,
+			"Header": "CeladonMart3FHeader",
+			"TownMapEntry": {
+				"ID" : "CeladonCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"CeladonMart4F": {
+			"Index": 125,
+			"Header": "CeladonMart4FHeader",
+			"TownMapEntry": {
+				"ID" : "CeladonCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"CeladonMartRoof": {
+			"Index": 126,
+			"Header": "CeladonMartRoofHeader",
+			"TownMapEntry": {
+				"ID" : "CeladonCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"CeladonMartElevator": {
+			"Index": 127,
+			"Header": "CeladonMartElevatorHeader",
+			"TownMapEntry": {
+				"ID" : "CeladonCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"CeladonMansion1F": {
+			"Index": 128,
+			"Header": "CeladonMansion1FHeader",
+			"TownMapEntry": {
+				"ID" : "CeladonCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"CeladonMansion2F": {
+			"Index": 129,
+			"Header": "CeladonMansion2FHeader",
+			"TownMapEntry": {
+				"ID" : "CeladonCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"CeladonMansion3F": {
+			"Index": 130,
+			"Header": "CeladonMansion3FHeader",
+			"TownMapEntry": {
+				"ID" : "CeladonCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"CeladonMansionRoof": {
+			"Index": 131,
+			"Header": "CeladonMansionRoofHeader",
+			"TownMapEntry": {
+				"ID" : "CeladonCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"CeladonMansionRoofHouse": {
+			"Index": 132,
+			"Header": "CeladonMansionRoofHouseHeader",
+			"TownMapEntry": {
+				"ID" : "CeladonCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"CeladonPokecenter": {
+			"Index": 133,
+			"Header": "CeladonPokecenterHeader",
+			"TownMapEntry": {
+				"ID" : "CeladonCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"CeladonGym": {
+			"Index": 134,
+			"Header": "CeladonGymHeader",
+			"TownMapEntry": {
+				"ID" : "CeladonCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"GameCorner": {
+			"Index": 135,
+			"Header": "GameCornerHeader",
+			"TownMapEntry": {
+				"ID" : "CeladonCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"CeladonMart5F": {
+			"Index": 136,
+			"Header": "CeladonMart5FHeader",
+			"TownMapEntry": {
+				"ID" : "CeladonCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"GameCornerPrizeRoom": {
+			"Index": 137,
+			"Header": "GameCornerPrizeRoomHeader",
+			"TownMapEntry": {
+				"ID" : "CeladonCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"CeladonDiner": {
+			"Index": 138,
+			"Header": "CeladonDinerHeader",
+			"TownMapEntry": {
+				"ID" : "CeladonCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"CeladonChiefHouse": {
+			"Index": 139,
+			"Header": "CeladonChiefHouseHeader",
+			"TownMapEntry": {
+				"ID" : "CeladonCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"CeladonHotel": {
+			"Index": 140,
+			"Header": "CeladonHotelHeader",
+			"TownMapEntry": {
+				"ID" : "CeladonCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"LavenderPokecenter": {
+			"Index": 141,
+			"Header": "LavenderPokecenterHeader",
+			"TownMapEntry": {
+				"ID" : "LavenderTownMapEntry",
+				"Coords" : 0
+			}
+		},
+		"PokemonTower1F": {
+			"Index": 142,
+			"Header": "PokemonTower1FHeader",
+			"TownMapEntry": {
+				"ID" : "PokemonTowerMapEntry",
+				"Coords" : 0
+			}
+		},
+		"PokemonTower2F": {
+			"Index": 143,
+			"Header": "PokemonTower2FHeader",
+			"TownMapEntry": {
+				"ID" : "PokemonTowerMapEntry",
+				"Coords" : 0
+			}
+		},
+		"PokemonTower3F": {
+			"Index": 144,
+			"Header": "PokemonTower3FHeader",
+			"TownMapEntry": {
+				"ID" : "PokemonTowerMapEntry",
+				"Coords" : 0
+			}
+		},
+		"PokemonTower4F": {
+			"Index": 145,
+			"Header": "PokemonTower4FHeader",
+			"TownMapEntry": {
+				"ID" : "PokemonTowerMapEntry",
+				"Coords" : 0
+			}
+		},
+		"PokemonTower5F": {
+			"Index": 146,
+			"Header": "PokemonTower5FHeader",
+			"TownMapEntry": {
+				"ID" : "PokemonTowerMapEntry",
+				"Coords" : 0
+			}
+		},
+		"PokemonTower6F": {
+			"Index": 147,
+			"Header": "PokemonTower6FHeader",
+			"TownMapEntry": {
+				"ID" : "PokemonTowerMapEntry",
+				"Coords" : 0
+			}
+		},
+		"PokemonTower7F": {
+			"Index": 148,
+			"Header": "PokemonTower7FHeader",
+			"TownMapEntry": {
+				"ID" : "PokemonTowerMapEntry",
+				"Coords" : 0
+			}
+		},
+		"MrFujisHouse": {
+			"Index": 149,
+			"Header": "MrFujisHouseHeader",
+			"TownMapEntry": {
+				"ID" : "LavenderTownMapEntry",
+				"Coords" : 0
+			}
+		},
+		"LavenderMart": {
+			"Index": 150,
+			"Header": "LavenderMartHeader",
+			"TownMapEntry": {
+				"ID" : "LavenderTownMapEntry",
+				"Coords" : 0
+			}
+		},
+		"LavenderCuboneHouse": {
+			"Index": 151,
+			"Header": "LavenderCuboneHouseHeader",
+			"TownMapEntry": {
+				"ID" : "LavenderTownMapEntry",
+				"Coords" : 0
+			}
+		},
+		"FuchsiaMart": {
+			"Index": 152,
+			"Header": "FuchsiaMartHeader",
+			"TownMapEntry": {
+				"ID" : "FuchsiaCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"FuchsiaBillsGrandpasHouse": {
+			"Index": 153,
+			"Header": "FuchsiaBillsGrandpasHouseHeader",
+			"TownMapEntry": {
+				"ID" : "FuchsiaCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"FuchsiaPokecenter": {
+			"Index": 154,
+			"Header": "FuchsiaPokecenterHeader",
+			"TownMapEntry": {
+				"ID" : "FuchsiaCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"WardensHouse": {
+			"Index": 155,
+			"Header": "WardensHouseHeader",
+			"TownMapEntry": {
+				"ID" : "FuchsiaCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"SafariZoneGate": {
+			"Index": 156,
+			"Header": "SafariZoneGateHeader",
+			"TownMapEntry": {
+				"ID" : "SafariZoneMapEntry",
+				"Coords" : 0
+			}
+		},
+		"FuchsiaGym": {
+			"Index": 157,
+			"Header": "FuchsiaGymHeader",
+			"TownMapEntry": {
+				"ID" : "FuchsiaCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"FuchsiaMeetingRoom": {
+			"Index": 158,
+			"Header": "FuchsiaMeetingRoomHeader",
+			"TownMapEntry": {
+				"ID" : "FuchsiaCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"SeafoamIslandsB1F": {
+			"Index": 159,
+			"Header": "SeafoamIslandsB1FHeader",
+			"TownMapEntry": {
+				"ID" : "SeafoamIslandsMapEntry",
+				"Coords" : 0
+			}
+		},
+		"SeafoamIslandsB2F": {
+			"Index": 160,
+			"Header": "SeafoamIslandsB2FHeader",
+			"TownMapEntry": {
+				"ID" : "SeafoamIslandsMapEntry",
+				"Coords" : 0
+			}
+		},
+		"SeafoamIslandsB3F": {
+			"Index": 161,
+			"Header": "SeafoamIslandsB3FHeader",
+			"TownMapEntry": {
+				"ID" : "SeafoamIslandsMapEntry",
+				"Coords" : 0
+			}
+		},
+		"SeafoamIslandsB4F": {
+			"Index": 162,
+			"Header": "SeafoamIslandsB4FHeader",
+			"TownMapEntry": {
+				"ID" : "SeafoamIslandsMapEntry",
+				"Coords" : 0
+			}
+		},
+		"VermilionOldRodHouse": {
+			"Index": 163,
+			"Header": "VermilionOldRodHouseHeader",
+			"TownMapEntry": {
+				"ID" : "VermilionCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"FuchsiaGoodRodHouse": {
+			"Index": 164,
+			"Header": "FuchsiaGoodRodHouseHeader",
+			"TownMapEntry": {
+				"ID" : "FuchsiaCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"PokemonMansion1F": {
+			"Index": 165,
+			"Header": "PokemonMansion1FHeader",
+			"TownMapEntry": {
+				"ID" : "PokemonMansionMapEntry",
+				"Coords" : 0
+			}
+		},
+		"CinnabarGym": {
+			"Index": 166,
+			"Header": "CinnabarGymHeader",
+			"TownMapEntry": {
+				"ID" : "CinnabarIslandMapEntry",
+				"Coords" : 0
+			}
+		},
+		"CinnabarLab": {
+			"Index": 167,
+			"Header": "CinnabarLabHeader",
+			"TownMapEntry": {
+				"ID" : "CinnabarIslandMapEntry",
+				"Coords" : 0
+			}
+		},
+		"CinnabarLabTradeRoom": {
+			"Index": 168,
+			"Header": "CinnabarLabTradeRoomHeader",
+			"TownMapEntry": {
+				"ID" : "CinnabarIslandMapEntry",
+				"Coords" : 0
+			}
+		},
+		"CinnabarLabMetronomeRoom": {
+			"Index": 169,
+			"Header": "CinnabarLabMetronomeRoomHeader",
+			"TownMapEntry": {
+				"ID" : "CinnabarIslandMapEntry",
+				"Coords" : 0
+			}
+		},
+		"CinnabarLabFossilRoom": {
+			"Index": 170,
+			"Header": "CinnabarLabFossilRoomHeader",
+			"TownMapEntry": {
+				"ID" : "CinnabarIslandMapEntry",
+				"Coords" : 0
+			}
+		},
+		"CinnabarPokecenter": {
+			"Index": 171,
+			"Header": "CinnabarPokecenterHeader",
+			"TownMapEntry": {
+				"ID" : "CinnabarIslandMapEntry",
+				"Coords" : 0
+			}
+		},
+		"CinnabarMart": {
+			"Index": 172,
+			"Header": "CinnabarMartHeader",
+			"TownMapEntry": {
+				"ID" : "CinnabarIslandMapEntry",
+				"Coords" : 0
+			}
+		},
+		"CinnabarMartCopy": {
+			"Index": 173,
+			"Header": "CinnabarMartHeader",
+			"TownMapEntry": {
+				"ID" : "CinnabarIslandMapEntry",
+				"Coords" : 0
+			}
+		},
+		"IndigoPlateauLobby": {
+			"Index": 174,
+			"Header": "IndigoPlateauLobbyHeader",
+			"TownMapEntry": {
+				"ID" : "IndigoPlateauMapEntry",
+				"Coords" : 0
+			}
+		},
+		"CopycatsHouse1F": {
+			"Index": 175,
+			"Header": "CopycatsHouse1FHeader",
+			"TownMapEntry": {
+				"ID" : "SaffronCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"CopycatsHouse2F": {
+			"Index": 176,
+			"Header": "CopycatsHouse2FHeader",
+			"TownMapEntry": {
+				"ID" : "SaffronCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"FightingDojo": {
+			"Index": 177,
+			"Header": "FightingDojoHeader",
+			"TownMapEntry": {
+				"ID" : "SaffronCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"SaffronGym": {
+			"Index": 178,
+			"Header": "SaffronGymHeader",
+			"TownMapEntry": {
+				"ID" : "SaffronCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"SaffronPidgeyHouse": {
+			"Index": 179,
+			"Header": "SaffronPidgeyHouseHeader",
+			"TownMapEntry": {
+				"ID" : "SaffronCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"SaffronMart": {
+			"Index": 180,
+			"Header": "SaffronMartHeader",
+			"TownMapEntry": {
+				"ID" : "SaffronCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"SilphCo1F": {
+			"Index": 181,
+			"Header": "SilphCo1FHeader",
+			"TownMapEntry": {
+				"ID" : "SaffronCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"SaffronPokecenter": {
+			"Index": 182,
+			"Header": "SaffronPokecenterHeader",
+			"TownMapEntry": {
+				"ID" : "SaffronCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"MrPsychicsHouse": {
+			"Index": 183,
+			"Header": "MrPsychicsHouseHeader",
+			"TownMapEntry": {
+				"ID" : "SaffronCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"Route15Gate1F": {
+			"Index": 184,
+			"Header": "Route15Gate1FHeader",
+			"TownMapEntry": {
+				"ID" : "Route15MapEntry",
+				"Coords" : 1
+			}
+		},
+		"Route15Gate2F": {
+			"Index": 185,
+			"Header": "Route15Gate2FHeader",
+			"TownMapEntry": {
+				"ID" : "Route15MapEntry",
+				"Coords" : 1
+			}
+		},
+		"Route16Gate1F": {
+			"Index": 186,
+			"Header": "Route16Gate1FHeader",
+			"TownMapEntry": {
+				"ID" : "Route16MapEntry",
+				"Coords" : 1
+			}
+		},
+		"Route16Gate2F": {
+			"Index": 187,
+			"Header": "Route16Gate2FHeader",
+			"TownMapEntry": {
+				"ID" : "Route16MapEntry",
+				"Coords" : 1
+			}
+		},
+		"Route16FlyHouse": {
+			"Index": 188,
+			"Header": "Route16FlyHouseHeader",
+			"TownMapEntry": {
+				"ID" : "Route16MapEntry",
+				"Coords" : 1
+			}
+		},
+		"Route12SuperRodHouse": {
+			"Index": 189,
+			"Header": "Route12SuperRodHouseHeader",
+			"TownMapEntry": {
+				"ID" : "Route12MapEntry",
+				"Coords" : 2
+			}
+		},
+		"Route18Gate1F": {
+			"Index": 190,
+			"Header": "Route18Gate1FHeader",
+			"TownMapEntry": {
+				"ID" : "Route18MapEntry",
+				"Coords" : 1
+			}
+		},
+		"Route18Gate2F": {
+			"Index": 191,
+			"Header": "Route18Gate2FHeader",
+			"TownMapEntry": {
+				"ID" : "Route18MapEntry",
+				"Coords" : 1
+			}
+		},
+		"SeafoamIslands1F": {
+			"Index": 192,
+			"Header": "SeafoamIslands1FHeader",
+			"TownMapEntry": {
+				"ID" : "SeafoamIslandsMapEntry",
+				"Coords" : 0
+			}
+		},
+		"Route22Gate": {
+			"Index": 193,
+			"Header": "Route22GateHeader",
+			"TownMapEntry": {
+				"ID" : "Route22MapEntry",
+				"Coords" : 1
+			}
+		},
+		"VictoryRoad2F": {
+			"Index": 194,
+			"Header": "VictoryRoad2FHeader",
+			"TownMapEntry": {
+				"ID" : "VictoryRoadMapEntry",
+				"Coords" : 0
+			}
+		},
+		"Route12Gate2F": {
+			"Index": 195,
+			"Header": "Route12Gate2FHeader",
+			"TownMapEntry": {
+				"ID" : "Route12MapEntry",
+				"Coords" : 1
+			}
+		},
+		"VermilionTradeHouse": {
+			"Index": 196,
+			"Header": "VermilionTradeHouseHeader",
+			"TownMapEntry": {
+				"ID" : "VermilionCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"DiglettsCave": {
+			"Index": 197,
+			"Header": "DiglettsCaveHeader",
+			"TownMapEntry": {
+				"ID" : "DiglettsCaveMapEntry",
+				"Coords" : 0
+			}
+		},
+		"VictoryRoad3F": {
+			"Index": 198,
+			"Header": "VictoryRoad3FHeader",
+			"TownMapEntry": {
+				"ID" : "VictoryRoadMapEntry",
+				"Coords" : 0
+			}
+		},
+		"RocketHideoutB1F": {
+			"Index": 199,
+			"Header": "RocketHideoutB1FHeader",
+			"TownMapEntry": {
+				"ID" : "RocketHQMapEntry",
+				"Coords" : 0
+			}
+		},
+		"RocketHideoutB2F": {
+			"Index": 200,
+			"Header": "RocketHideoutB2FHeader",
+			"TownMapEntry": {
+				"ID" : "RocketHQMapEntry",
+				"Coords" : 0
+			}
+		},
+		"RocketHideoutB3F": {
+			"Index": 201,
+			"Header": "RocketHideoutB3FHeader",
+			"TownMapEntry": {
+				"ID" : "RocketHQMapEntry",
+				"Coords" : 0
+			}
+		},
+		"RocketHideoutB4F": {
+			"Index": 202,
+			"Header": "RocketHideoutB4FHeader",
+			"TownMapEntry": {
+				"ID" : "RocketHQMapEntry",
+				"Coords" : 0
+			}
+		},
+		"RocketHideoutElevator": {
+			"Index": 203,
+			"Header": "RocketHideoutElevatorHeader",
+			"TownMapEntry": {
+				"ID" : "RocketHQMapEntry",
+				"Coords" : 0
+			}
+		},
+		"UnusedMap_CC": {
+			"Index": 204,
+			"Header": "RocketHideoutElevatorHeader",
+			"TownMapEntry": {
+				"ID" : "RocketHQMapEntry",
+				"Coords" : 0
+			}
+		},
+		"UnusedMap_CD": {
+			"Index": 205,
+			"Header": "RocketHideoutElevatorHeader",
+			"TownMapEntry": {
+				"ID" : "RocketHQMapEntry",
+				"Coords" : 0
+			}
+		},
+		"UnusedMap_CE": {
+			"Index": 206,
+			"Header": "RocketHideoutElevatorHeader",
+			"TownMapEntry": {
+				"ID" : "RocketHQMapEntry",
+				"Coords" : 0
+			}
+		},
+		"SilphCo2F": {
+			"Index": 207,
+			"Header": "SilphCo2FHeader",
+			"TownMapEntry": {
+				"ID" : "SilphCoMapEntry",
+				"Coords" : 0
+			}
+		},
+		"SilphCo3F": {
+			"Index": 208,
+			"Header": "SilphCo3FHeader",
+			"TownMapEntry": {
+				"ID" : "SilphCoMapEntry",
+				"Coords" : 0
+			}
+		},
+		"SilphCo4F": {
+			"Index": 209,
+			"Header": "SilphCo4FHeader",
+			"TownMapEntry": {
+				"ID" : "SilphCoMapEntry",
+				"Coords" : 0
+			}
+		},
+		"SilphCo5F": {
+			"Index": 210,
+			"Header": "SilphCo5FHeader",
+			"TownMapEntry": {
+				"ID" : "SilphCoMapEntry",
+				"Coords" : 0
+			}
+		},
+		"SilphCo6F": {
+			"Index": 211,
+			"Header": "SilphCo6FHeader",
+			"TownMapEntry": {
+				"ID" : "SilphCoMapEntry",
+				"Coords" : 0
+			}
+		},
+		"SilphCo7F": {
+			"Index": 212,
+			"Header": "SilphCo7FHeader",
+			"TownMapEntry": {
+				"ID" : "SilphCoMapEntry",
+				"Coords" : 0
+			}
+		},
+		"SilphCo8F": {
+			"Index": 213,
+			"Header": "SilphCo8FHeader",
+			"TownMapEntry": {
+				"ID" : "SilphCoMapEntry",
+				"Coords" : 0
+			}
+		},
+		"PokemonMansion2F": {
+			"Index": 214,
+			"Header": "PokemonMansion2FHeader",
+			"TownMapEntry": {
+				"ID" : "PokemonMansionMapEntry",
+				"Coords" : 0
+			}
+		},
+		"PokemonMansion3F": {
+			"Index": 215,
+			"Header": "PokemonMansion3FHeader",
+			"TownMapEntry": {
+				"ID" : "PokemonMansionMapEntry",
+				"Coords" : 0
+			}
+		},
+		"PokemonMansionB1F": {
+			"Index": 216,
+			"Header": "PokemonMansionB1FHeader",
+			"TownMapEntry": {
+				"ID" : "PokemonMansionMapEntry",
+				"Coords" : 0
+			}
+		},
+		"SafariZoneEast": {
+			"Index": 217,
+			"Header": "SafariZoneEastHeader",
+			"TownMapEntry": {
+				"ID" : "SafariZoneMapEntry",
+				"Coords" : 0
+			}
+		},
+		"SafariZoneNorth": {
+			"Index": 218,
+			"Header": "SafariZoneNorthHeader",
+			"TownMapEntry": {
+				"ID" : "SafariZoneMapEntry",
+				"Coords" : 0
+			}
+		},
+		"SafariZoneWest": {
+			"Index": 219,
+			"Header": "SafariZoneWestHeader",
+			"TownMapEntry": {
+				"ID" : "SafariZoneMapEntry",
+				"Coords" : 0
+			}
+		},
+		"SafariZoneCenter": {
+			"Index": 220,
+			"Header": "SafariZoneCenterHeader",
+			"TownMapEntry": {
+				"ID" : "SafariZoneMapEntry",
+				"Coords" : 0
+			}
+		},
+		"SafariZoneCenterRestHouse": {
+			"Index": 221,
+			"Header": "SafariZoneCenterRestHouseHeader",
+			"TownMapEntry": {
+				"ID" : "SafariZoneMapEntry",
+				"Coords" : 0
+			}
+		},
+		"SafariZoneSecretHouse": {
+			"Index": 222,
+			"Header": "SafariZoneSecretHouseHeader",
+			"TownMapEntry": {
+				"ID" : "SafariZoneMapEntry",
+				"Coords" : 0
+			}
+		},
+		"SafariZoneWestRestHouse": {
+			"Index": 223,
+			"Header": "SafariZoneWestRestHouseHeader",
+			"TownMapEntry": {
+				"ID" : "SafariZoneMapEntry",
+				"Coords" : 0
+			}
+		},
+		"SafariZoneEastRestHouse": {
+			"Index": 224,
+			"Header": "SafariZoneEastRestHouseHeader",
+			"TownMapEntry": {
+				"ID" : "SafariZoneMapEntry",
+				"Coords" : 0
+			}
+		},
+		"SafariZoneNorthRestHouse": {
+			"Index": 225,
+			"Header": "SafariZoneNorthRestHouseHeader",
+			"TownMapEntry": {
+				"ID" : "SafariZoneMapEntry",
+				"Coords" : 0
+			}
+		},
+		"CeruleanCave2F": {
+			"Index": 226,
+			"Header": "CeruleanCave2FHeader",
+			"TownMapEntry": {
+				"ID" : "CeruleanCaveMapEntry",
+				"Coords" : 0
+			}
+		},
+		"CeruleanCaveB1F": {
+			"Index": 227,
+			"Header": "CeruleanCaveB1FHeader",
+			"TownMapEntry": {
+				"ID" : "CeruleanCaveMapEntry",
+				"Coords" : 0
+			}
+		},
+		"CeruleanCave1F": {
+			"Index": 228,
+			"Header": "CeruleanCave1FHeader",
+			"TownMapEntry": {
+				"ID" : "CeruleanCaveMapEntry",
+				"Coords" : 0
+			}
+		},
+		"NameRatersHouse": {
+			"Index": 229,
+			"Header": "NameRatersHouseHeader",
+			"TownMapEntry": {
+				"ID" : "LavenderTownMapEntry",
+				"Coords" : 0
+			}
+		},
+		"CeruleanBadgeHouse": {
+			"Index": 230,
+			"Header": "CeruleanBadgeHouseHeader",
+			"TownMapEntry": {
+				"ID" : "CeruleanCityMapEntry",
+				"Coords" : 0
+			}
+		},
+		"UnusedMap_E7": {
+			"Index": 231,
+			"Header": "Route16Gate1FHeader",
+			"TownMapEntry": {
+				"ID" : "RockTunnelMapEntry",
+				"Coords" : 0
+			}
+		},
+		"RockTunnelB1F": {
+			"Index": 232,
+			"Header": "RockTunnelB1FHeader",
+			"TownMapEntry": {
+				"ID" : "RockTunnelMapEntry",
+				"Coords" : 0
+			}
+		},
+		"SilphCo9F": {
+			"Index": 233,
+			"Header": "SilphCo9FHeader",
+			"TownMapEntry": {
+				"ID" : "SilphCoMapEntry",
+				"Coords" : 0
+			}
+		},
+		"SilphCo10F": {
+			"Index": 234,
+			"Header": "SilphCo10FHeader",
+			"TownMapEntry": {
+				"ID" : "SilphCoMapEntry",
+				"Coords" : 0
+			}
+		},
+		"SilphCo11F": {
+			"Index": 235,
+			"Header": "SilphCo11FHeader",
+			"TownMapEntry": {
+				"ID" : "SilphCoMapEntry",
+				"Coords" : 0
+			}
+		},
+		"SilphCoElevator": {
+			"Index": 236,
+			"Header": "SilphCoElevatorHeader",
+			"TownMapEntry": {
+				"ID" : "SilphCoMapEntry",
+				"Coords" : 0
+			}
+		},
+		"UnusedMap_ED": {
+			"Index": 237,
+			"Header": "SilphCo2FHeader",
+			"TownMapEntry": {
+				"ID" : "PokemonLeagueMapEntry",
+				"Coords" : 0
+			}
+		},
+		"UnusedMap_EE": {
+			"Index": 237,
+			"Header": "SilphCo2FHeader",
+			"TownMapEntry": {
+				"ID" : "PokemonLeagueMapEntry",
+				"Coords" : 0
+			}
+		},
+		"TradeCenter": {
+			"Index": 239,
+			"Header": "TradeCenterHeader",
+			"TownMapEntry": {
+				"ID" : "PokemonLeagueMapEntry",
+				"Coords" : 0
+			}
+		},
+		"Colosseum": {
+			"Index": 240,
+			"Header": "ColosseumHeader",
+			"TownMapEntry": {
+				"ID" : "PokemonLeagueMapEntry",
+				"Coords" : 0
+			}
+		},
+		"UnusedMap_F1": {
+			"Index": 241,
+			"Header": "SilphCo2FHeader",
+			"TownMapEntry": {
+				"ID" : "PokemonLeagueMapEntry",
+				"Coords" : 0
+			}
+		},
+		"UnusedMap_F2": {
+			"Index": 242,
+			"Header": "SilphCo2FHeader",
+			"TownMapEntry": {
+				"ID" : "PokemonLeagueMapEntry",
+				"Coords" : 0
+			}
+		},
+		"UnusedMap_F3": {
+			"Index": 243,
+			"Header": "SilphCo2FHeader",
+			"TownMapEntry": {
+				"ID" : "PokemonLeagueMapEntry",
+				"Coords" : 0
+			}
+		},
+		"UnusedMap_F4": {
+			"Index": 244,
+			"Header": "SilphCo2FHeader",
+			"TownMapEntry": {
+				"ID" : "PokemonLeagueMapEntry",
+				"Coords" : 0
+			}
+		},
+		"LoreleisRoom": {
+			"Index": 245,
+			"Header": "LoreleisRoomHeader",
+			"TownMapEntry": {
+				"ID" : "PokemonLeagueMapEntry",
+				"Coords" : 0
+			}
+		},
+		"BrunosRoom": {
+			"Index": 246,
+			"Header": "BrunosRoomHeader",
+			"TownMapEntry": {
+				"ID" : "PokemonLeagueMapEntry",
+				"Coords" : 0
+			}
+		},
+		"AgathasRoom": {
+			"Index": 247,
+			"Header": "AgathasRoomHeader",
+			"TownMapEntry": {
+				"ID" : "PokemonLeagueMapEntry",
+				"Coords" : 0
+			}
+		}
 	}
 }

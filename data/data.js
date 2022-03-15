@@ -6,6 +6,7 @@ include('./Pokemon.js')
 include('./Sprites.js')
 include('./Trainers.js')
 
+include('./TownMapEntries.js')
 include('./Tilesets.js')
 include('./Blocks.js')
 include('./Objects.js')
