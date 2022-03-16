@@ -1907,7 +1907,7 @@
 			}
 		},
 		"UnusedMap_EE": {
-			"Index": 237,
+			"Index": 238,
 			"Header": "SilphCo2FHeader",
 			"TownMapEntry": {
 				"ID" : "PokemonLeagueMapEntry",

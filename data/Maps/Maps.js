@@ -19,10 +19,11 @@ class MapData {
         this.Header.addMap(this);
 
         this.TownMapEntry = TownMapEntries.byID[data.TownMapEntry.ID].Coords[data.TownMapEntry.Coords];
-        this.TownMapEntry.addMap(this);
-
+    }
+    finalize(){
         MapHeaderPointers.add(this);
         MapHeaderBanks.add(this);
+        this.TownMapEntry.addMap(this);
     }
 }
 
@@ -36,6 +37,6 @@ Object.keys(MapsJSON.Internal).forEach(id => {
 });
 
 // Once all maps have been defined, then finalize the other data that refer to maps
+Maps.byIndex.forEach( map => map.finalize() );
 Objects.byOrder.forEach(object => object.finalize());
 Headers.byOrder.forEach(header => header.finalize());
-

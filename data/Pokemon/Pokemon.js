@@ -14,8 +14,6 @@ class PokemonData {
         this.ID = id;
         this.Index = data.Index;
         this.Name = data.Name;
-
-        PokemonNames.add(this);
     }
     getROMName(){
         if( !this.Name ){
@@ -31,3 +29,5 @@ Object.keys(PokemonJSON).forEach(name => {
     let pokemon = new PokemonData(name, PokemonJSON[name]);
     Pokemon.add(pokemon);
 });
+
+Pokemon.byIndex.forEach(pokemon => PokemonNames.add(pokemon));
