@@ -1,4 +1,5 @@
-let TownMapEntries = json('./TownMapEntries.json'),
+let TownMapEntriesJSON = json('./TownMapEntries.json'),
+    TownMapEntries = new Collection(),
     TownMapEntryTables = {
         External : new Table("ExternalTownMapEntryTable", map => map.TownMapEntry.compile() ),
         Internal : new Table("InternalTownMapEntryTable", data => [data.Map.Index+1, data.Coords.compile()], -1 )
@@ -53,7 +54,7 @@ class TownMapCoordinates {
 
 Goto('TownMapNames');
 
-Object.keys(TownMapEntries).forEach(id => {
-    let value = TownMapEntries[id];
-    TownMapEntries[id] = new TownMapEntry(id, value);
+Object.keys(TownMapEntriesJSON).forEach(id => {
+    let townMapEntry = new TownMapEntry(id, TownMapEntriesJSON[id]);
+    TownMapEntries.add(townMapEntry);
 });

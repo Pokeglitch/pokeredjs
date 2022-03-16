@@ -17,7 +17,8 @@ const ITEM = 0x80,
         None : 0xFF
     };
 
-let Objects = json('./Objects.json');
+let ObjectsJSON = json('./Objects.json'),
+    Objects = new Collection();
 
 class ObjectsData {
     constructor(id, data){
@@ -28,21 +29,21 @@ class ObjectsData {
         this.Sprites = data.Sprites;
 
         this.Sprites.forEach(sprite => {
-            sprite.Sprite = Sprites[ sprite.Sprite ];
+            sprite.Sprite = Sprites.byID[ sprite.Sprite ];
             
             if( sprite.Type === "Pokemon" ){
                 if( typeof sprite.Pokemon !== "number" ){
-                    sprite.Pokemon = Pokemon[ sprite.Pokemon ];
+                    sprite.Pokemon = Pokemon.byID[ sprite.Pokemon ];
                 }                    
             }
             else if( sprite.Type === "Trainer" ){
                 if( typeof sprite.Trainer !== "number" ){
-                    sprite.Trainer = Trainers[ sprite.Trainer ];
+                    sprite.Trainer = Trainers.byID[ sprite.Trainer ];
                 }
             }
             else if( sprite.Type === "Item" ){
                 if( typeof sprite.Item !== "number" ){
-                    sprite.Item = Items[ sprite.Item ];
+                    sprite.Item = Items.byID[ sprite.Item ];
                 }
             }
         })
@@ -54,7 +55,7 @@ class ObjectsData {
     finalize(){
         // Upgrade all Map references to the actual Map instance
         this.Warps.forEach(warp => {
-            let map = Maps[ warp.Map ];
+            let map = Maps.byID[ warp.Map ];
             if( map ){
                 warp.Map = map;
             }
@@ -156,7 +157,7 @@ class ObjectsData {
     }
 }
 
-Object.keys(Objects).forEach(id => {
-    let value = Objects[id];
-    Objects[id] = new ObjectsData(id, value);
+Object.keys(ObjectsJSON).forEach(id => {
+    let object = new ObjectsData(id, ObjectsJSON[id]);
+    Objects.add(object);
 });

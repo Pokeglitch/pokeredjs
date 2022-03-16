@@ -1,14 +1,51 @@
-include('./Table.js');
+class Table {
+    constructor(id, mapper = null, terminator = null){
+        this.ID = id;
+        this.Mapper = mapper;
+        this.Terminator = terminator;
+        this.Data = [];
+        this.Pointer = null;
+        this.LastAdd = null;
+    }
+    add(row){
+        this.Data.push( row );
+        this.LastAdd = row;
+    }
+    toROM(){
+        let data = this.Mapper ? this.Data.map(this.Mapper) : this.Data.slice();
 
-include('./Items.js')
-include('./Pokemon.js')
+        if( this.Terminator ){
+            data.push( this.Terminator );
+        }
 
-include('./Sprites.js')
-include('./Trainers.js')
+        this.Pointer = Data(this.ID, data);
+    }
+}
 
-include('./TownMapEntries.js')
-include('./Tilesets.js')
-include('./Blocks.js')
-include('./Objects.js')
-include('./Headers.js')
-include('./Maps.js')
+class Collection {
+    constructor(){
+        this.byID = {};
+        this.byIndex = [];
+        this.byOrder = [];
+    }
+    add(value){
+        this.byID[value.ID] = value;
+        this.byIndex[value.Index] = value;
+        this.byOrder.push(value);
+    }
+    by(key){}
+    sort(key){}
+    getBy(key, value){
+        let collection = new Collection();
+
+        return collection;
+    }
+}
+
+include('./Items/Items.js')
+include('./Pokemon/Pokemon.js')
+
+include('./Sprites/Sprites.js')
+include('./Trainers/Trainers.js')
+
+include('./Maps/Maps.js')

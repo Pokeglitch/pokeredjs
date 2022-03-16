@@ -5,7 +5,8 @@ const POKEMON = {
     }
 }
 
-let Pokemon = json('./Pokemon.json'),
+let PokemonJSON = json('./Pokemon.json'),
+    Pokemon = new Collection(),
     PokemonNames = new Table("MonsterNames", pokemon => pokemon.getROMName() )
 
 class PokemonData {
@@ -26,7 +27,7 @@ class PokemonData {
     }
 }
 
-Object.keys(Pokemon).forEach(name => {
-    let value = Pokemon[name];
-    Pokemon[name] = new PokemonData(name, value);
+Object.keys(PokemonJSON).forEach(name => {
+    let pokemon = new PokemonData(name, PokemonJSON[name]);
+    Pokemon.add(pokemon);
 });

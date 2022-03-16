@@ -8,7 +8,8 @@ const MAP = {
     }
 };
 
-let Headers = json('./Headers.json');
+let HeadersJSON = json('./Headers.json'),
+    Headers = new Collection();
 
 class HeaderData {
     constructor(id, data){
@@ -18,17 +19,17 @@ class HeaderData {
         this.Height = data.Height;
         this.Width = data.Width;
 
-        this.Tileset = Tilesets[data.Tileset];
+        this.Tileset = Tilesets.byID[data.Tileset];
         this.Tileset.addHeader(this);
 
-        this.Blocks = Blocks[data.Blocks];
+        this.Blocks = Blocks.byID[data.Blocks];
         this.Blocks.addHeader(this);
 
         this.Texts = null;
         this.Scripts = null;
         this.Connections = data.Connections;
 
-        this.Objects = Objects[data.Objects];
+        this.Objects = Objects.byID[data.Objects];
         this.Objects.addHeader(this);
 
         this.Pointer = null;
@@ -37,7 +38,7 @@ class HeaderData {
     finalize(){
         Object.keys(this.Connections).forEach(dir => {
             let data = this.Connections[dir];
-            data.Map = Maps[data.Map];
+            data.Map = Maps.byID[data.Map];
         });
 
         Goto(this.ID)
@@ -179,7 +180,7 @@ class HeaderData {
     }
 }
 
-Object.keys(Headers).forEach(id => {
-    let value = Headers[id];
-    Headers[id] = new HeaderData(id, value);
+Object.keys(HeadersJSON).forEach(id => {
+    let header = new HeaderData(id, HeadersJSON[id]);
+    Headers.add(header);
 });

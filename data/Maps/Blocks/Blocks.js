@@ -1,4 +1,5 @@
-let Blocks = json('./Blocks.json');
+let BlocksJSON = json('./Blocks.json'),
+    Blocks = new Collection();
 
 class BlocksData {
     constructor(id, data){
@@ -17,7 +18,7 @@ class BlocksData {
     }
 }
 
-Object.keys(Blocks).forEach(id => {
-    let value = Blocks[id];
-    Blocks[id] = new BlocksData(id, value);
+Object.keys(BlocksJSON).forEach(id => {
+    let block = new BlocksData(id, BlocksJSON[id]);
+    Blocks.add(block);
 });
