@@ -1,4 +1,4 @@
-include('./TownMap/TownMapEntries.js')
+include('./TownMap/TownMap.js')
 include('./Tilesets/Tilesets.js')
 include('./Blocks/Blocks.js')
 include('./Objects/Objects.js')
@@ -19,6 +19,7 @@ class MapData {
         this.Header.addMap(this);
 
         this.TownMapEntry = TownMapEntries.byID[data.TownMapEntry.ID].Coords[data.TownMapEntry.Coords];
+        this.TownMapOrder = null;
     }
     finalize(){
         MapHeaderPointers.add(this);
@@ -40,3 +41,9 @@ Object.keys(MapsJSON.Internal).forEach(id => {
 Maps.byIndex.forEach( map => map.finalize() );
 Objects.byOrder.forEach(object => object.finalize());
 Headers.byOrder.forEach(header => header.finalize());
+
+TownMapJSON.Order.forEach( (id, index) => {
+    let map = Maps.byID[id];
+    map.TownMapOrder = index;
+    TownMapOrder.add(map);
+})

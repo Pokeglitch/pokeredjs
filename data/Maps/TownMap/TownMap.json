@@ -1,0 +1,582 @@
+{
+	"Order" : [
+		"PalletTown",
+		"Route1",
+		"ViridianCity",
+		"Route2",
+		"ViridianForest",
+		"DiglettsCave",
+		"PewterCity",
+		"Route3",
+		"MtMoon1F",
+		"Route4",
+		"CeruleanCity",
+		"Route24",
+		"Route25",
+		"BillsHouse",
+		"Route5",
+		"Route6",
+		"VermilionCity",
+		"SSAnne1F",
+		"Route9",
+		"RockTunnelPokecenter",
+		"Route10",
+		"LavenderTown",
+		"PokemonTower2F",
+		"Route8",
+		"Route7",
+		"CeladonCity",
+		"SaffronCity",
+		"Route11",
+		"Route12",
+		"Route13",
+		"Route14",
+		"Route15",
+		"Route16",
+		"Route17",
+		"Route18",
+		"FuchsiaCity",
+		"SafariZoneEast",
+		"Route19",
+		"SeafoamIslandsB1F",
+		"Route20",
+		"CinnabarIsland",
+		"Route21",
+		"Route22",
+		"Route23",
+		"VictoryRoad3F",
+		"IndigoPlateau",
+		"PowerPlant"
+	],
+	"Entries" : {
+		"PalletTownMapEntry" : {
+			"Name" : "PALLET TOWN",
+			"Coords" : {
+				"0" : {
+					"X" : 0,
+					"Y" : 0
+				},
+				"1" : {
+					"X" : 2,
+					"Y" : 11
+				}
+			}
+		},
+		"ViridianCityMapEntry" : {
+			"Name" : "VIRIDIAN CITY",
+			"Coords" : {
+				"0" : {
+					"X" : 2,
+					"Y" : 8
+				}
+			}
+		},
+		"PewterCityMapEntry" : {
+			"Name" : "PEWTER CITY",
+			"Coords" : {
+				"0" : {
+					"X" : 2,
+					"Y" : 3
+				}
+			}
+		},
+		"CeruleanCityMapEntry" : {
+			"Name" : "CERULEAN CITY",
+			"Coords" : {
+				"0" : {
+					"X" : 10,
+					"Y" : 2
+				}
+			}
+		},
+		"LavenderTownMapEntry" : {
+			"Name" : "LAVENDER TOWN",
+			"Coords" : {
+				"0" : {
+					"X" : 14,
+					"Y" : 5
+				}
+			}
+		},
+		"VermilionCityMapEntry" : {
+			"Name" : "VERMILION CITY",
+			"Coords" : {
+				"0" : {
+					"X" : 10,
+					"Y" : 9
+				}
+			}
+		},
+		"CeladonCityMapEntry" : {
+			"Name" : "CELADON CITY",
+			"Coords" : {
+				"0" : {
+					"X" : 7,
+					"Y" : 5
+				}
+			}
+		},
+		"FuchsiaCityMapEntry" : {
+			"Name" : "FUCHSIA CITY",
+			"Coords" : {
+				"0" : {
+					"X" : 8,
+					"Y" : 13
+				}
+			}
+		},
+		"CinnabarIslandMapEntry" : {
+			"Name" : "CINNABAR ISLAND",
+			"Coords" : {
+				"0" : {
+					"X" : 2,
+					"Y" : 15
+				}
+			}
+		},
+		"IndigoPlateauMapEntry" : {
+			"Name" : "INDIGO PLATEAU",
+			"Coords" : {
+				"0" : {
+					"X" : 0,
+					"Y" : 2
+				}
+			}
+		},
+		"SaffronCityMapEntry" : {
+			"Name" : "SAFFRON CITY",
+			"Coords" : {
+				"0" : {
+					"X" : 10,
+					"Y" : 5
+				}
+			}
+		},
+		"Route1MapEntry" : {
+			"Name" : "ROUTE 1",
+			"Coords" : {
+				"0" : {
+					"X" : 2,
+					"Y" : 10
+				}
+			}
+		},
+		"Route2MapEntry" : {
+			"Name" : "ROUTE 2",
+			"Coords" : {
+				"0" : {
+					"X" : 2,
+					"Y" : 6
+				}
+			}
+		},
+		"Route3MapEntry" : {
+			"Name" : "ROUTE 3",
+			"Coords" : {
+				"0" : {
+					"X" : 4,
+					"Y" : 3
+				}
+			}
+		},
+		"Route4MapEntry" : {
+			"Name" : "ROUTE 4",
+			"Coords" : {
+				"0" : {
+					"X" : 8,
+					"Y" : 2
+				},
+				"1" : {
+					"X" : 5,
+					"Y" : 2
+				}
+			}
+		},
+		"Route5MapEntry" : {
+			"Name" : "ROUTE 5",
+			"Coords" : {
+				"0" : {
+					"X" : 10,
+					"Y" : 3
+				},
+				"1" : {
+					"X" : 10,
+					"Y" : 4
+				}
+			}
+		},
+		"Route6MapEntry" : {
+			"Name" : "ROUTE 6",
+			"Coords" : {
+				"0" : {
+					"X" : 10,
+					"Y" : 8
+				},
+				"1" : {
+					"X" : 10,
+					"Y" : 6
+				}
+			}
+		},
+		"Route7MapEntry" : {
+			"Name" : "ROUTE 7",
+			"Coords" : {
+				"0" : {
+					"X" : 8,
+					"Y" : 5
+				},
+				"1" : {
+					"X" : 9,
+					"Y" : 5
+				}
+			}
+		},
+		"Route8MapEntry" : {
+			"Name" : "ROUTE 8",
+			"Coords" : {
+				"0" : {
+					"X" : 13,
+					"Y" : 5
+				},
+				"1" : {
+					"X" : 11,
+					"Y" : 5
+				}
+			}
+		},
+		"Route9MapEntry" : {
+			"Name" : "ROUTE 9",
+			"Coords" : {
+				"0" : {
+					"X" : 13,
+					"Y" : 2
+				}
+			}
+		},
+		"Route10MapEntry" : {
+			"Name" : "ROUTE 10",
+			"Coords" : {
+				"0" : {
+					"X" : 14,
+					"Y" : 4
+				}
+			}
+		},
+		"Route11MapEntry" : {
+			"Name" : "ROUTE 11",
+			"Coords" : {
+				"0" : {
+					"X" : 12,
+					"Y" : 9
+				},
+				"1" : {
+					"X" : 13,
+					"Y" : 9
+				}
+			}
+		},
+		"Route12MapEntry" : {
+			"Name" : "ROUTE 12",
+			"Coords" : {
+				"0" : {
+					"X" : 14,
+					"Y" : 9
+				},
+				"1" : {
+					"X" : 14,
+					"Y" : 7
+				},
+				"2" : {
+					"X" : 14,
+					"Y" : 10
+				}
+			}
+		},
+		"Route13MapEntry" : {
+			"Name" : "ROUTE 13",
+			"Coords" : {
+				"0" : {
+					"X" : 13,
+					"Y" : 11
+				}
+			}
+		},
+		"Route14MapEntry" : {
+			"Name" : "ROUTE 14",
+			"Coords" : {
+				"0" : {
+					"X" : 11,
+					"Y" : 12
+				}
+			}
+		},
+		"Route15MapEntry" : {
+			"Name" : "ROUTE 15",
+			"Coords" : {
+				"0" : {
+					"X" : 10,
+					"Y" : 13
+				},
+				"1" : {
+					"X" : 9,
+					"Y" : 13
+				}
+			}
+		},
+		"Route16MapEntry" : {
+			"Name" : "ROUTE 16",
+			"Coords" : {
+				"0" : {
+					"X" : 5,
+					"Y" : 5
+				},
+				"1" : {
+					"X" : 4,
+					"Y" : 5
+				}
+			}
+		},
+		"Route17MapEntry" : {
+			"Name" : "ROUTE 17",
+			"Coords" : {
+				"0" : {
+					"X" : 4,
+					"Y" : 8
+				}
+			}
+		},
+		"Route18MapEntry" : {
+			"Name" : "ROUTE 18",
+			"Coords" : {
+				"0" : {
+					"X" : 6,
+					"Y" : 13
+				},
+				"1" : {
+					"X" : 7,
+					"Y" : 13
+				}
+			}
+		},
+		"Route19MapEntry" : {
+			"Name" : "SEA ROUTE 19",
+			"Coords" : {
+				"0" : {
+					"X" : 6,
+					"Y" : 15
+				}
+			}
+		},
+		"Route20MapEntry" : {
+			"Name" : "SEA ROUTE 20",
+			"Coords" : {
+				"0" : {
+					"X" : 4,
+					"Y" : 15
+				}
+			}
+		},
+		"Route21MapEntry" : {
+			"Name" : "SEA ROUTE 21",
+			"Coords" : {
+				"0" : {
+					"X" : 2,
+					"Y" : 13
+				}
+			}
+		},
+		"Route22MapEntry" : {
+			"Name" : "ROUTE 22",
+			"Coords" : {
+				"0" : {
+					"X" : 0,
+					"Y" : 8
+				},
+				"1" : {
+					"X" : 0,
+					"Y" : 7
+				}
+			}
+		},
+		"Route23MapEntry" : {
+			"Name" : "ROUTE 23",
+			"Coords" : {
+				"0" : {
+					"X" : 0,
+					"Y" : 6
+				}
+			}
+		},
+		"Route24MapEntry" : {
+			"Name" : "ROUTE 24",
+			"Coords" : {
+				"0" : {
+					"X" : 10,
+					"Y" : 1
+				}
+			}
+		},
+		"Route25MapEntry" : {
+			"Name" : "ROUTE 25",
+			"Coords" : {
+				"0" : {
+					"X" : 11,
+					"Y" : 0
+				}
+			}
+		},
+		"ViridianForestMapEntry" : {
+			"Name" : "VIRIDIAN FOREST",
+			"Coords" : {
+				"0" : {
+					"X" : 2,
+					"Y" : 4
+				}
+			}
+		},
+		"MountMoonMapEntry" : {
+			"Name" : "MT.MOON",
+			"Coords" : {
+				"0" : {
+					"X" : 6,
+					"Y" : 2
+				}
+			}
+		},
+		"RockTunnelMapEntry" : {
+			"Name" : "ROCK TUNNEL",
+			"Coords" : {
+				"0" : {
+					"X" : 14,
+					"Y" : 3
+				}
+			}
+		},
+		"SeaCottageMapEntry" : {
+			"Name" : "SEA COTTAGE",
+			"Coords" : {
+				"0" : {
+					"X" : 12,
+					"Y" : 0
+				}
+			}
+		},
+		"SSAnneMapEntry" : {
+			"Name" : "S.S.ANNE",
+			"Coords" : {
+				"0" : {
+					"X" : 9,
+					"Y" : 10
+				}
+			}
+		},
+		"PokemonLeagueMapEntry" : {
+			"Name" : "#MON LEAGUE",
+			"Coords" : {
+				"0" : {
+					"X" : 0,
+					"Y" : 2
+				}
+			}
+		},
+		"UndergroundPathMapEntry" : {
+			"Name" : "UNDERGROUND PATH",
+			"Coords" : {
+				"0" : {
+					"X" : 10,
+					"Y" : 5
+				}
+			}
+		},
+		"PokemonTowerMapEntry" : {
+			"Name" : "#MON TOWER",
+			"Coords" : {
+				"0" : {
+					"X" : 15,
+					"Y" : 5
+				}
+			}
+		},
+		"SeafoamIslandsMapEntry" : {
+			"Name" : "SEAFOAM ISLANDS",
+			"Coords" : {
+				"0" : {
+					"X" : 5,
+					"Y" : 15
+				}
+			}
+		},
+		"VictoryRoadMapEntry" : {
+			"Name" : "VICTORY ROAD",
+			"Coords" : {
+				"0" : {
+					"X" : 0,
+					"Y" : 4
+				}
+			}
+		},
+		"DiglettsCaveMapEntry" : {
+			"Name" : "DIGLETT's CAVE",
+			"Coords" : {
+				"0" : {
+					"X" : 3,
+					"Y" : 4
+				}
+			}
+		},
+		"RocketHQMapEntry" : {
+			"Name" : "ROCKET HQ",
+			"Coords" : {
+				"0" : {
+					"X" : 7,
+					"Y" : 5
+				}
+			}
+		},
+		"SilphCoMapEntry" : {
+			"Name" : "SILPH CO.",
+			"Coords" : {
+				"0" : {
+					"X" : 10,
+					"Y" : 5
+				}
+			}
+		},
+		"PokemonMansionMapEntry" : {
+			"Name" : "<PKMN> MANSION",
+			"Coords" : {
+				"0" : {
+					"X" : 2,
+					"Y" : 15
+				}
+			}
+		},
+		"SafariZoneMapEntry" : {
+			"Name" : "SAFARI ZONE",
+			"Coords" : {
+				"0" : {
+					"X" : 8,
+					"Y" : 12
+				}
+			}
+		},
+		"CeruleanCaveMapEntry" : {
+			"Name" : "CERULEAN CAVE",
+			"Coords" : {
+				"0" : {
+					"X" : 9,
+					"Y" : 1
+				}
+			}
+		},
+		"PowerPlantMapEntry" : {
+			"Name" : "POWER PLANT",
+			"Coords" : {
+				"0" : {
+					"X" : 15,
+					"Y" : 4
+				}
+			}
+		}
+	}
+}

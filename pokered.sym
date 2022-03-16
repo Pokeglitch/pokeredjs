@@ -25067,7 +25067,7 @@
 1C:4F0B DisplayTownMap.noUnderflow
 1C:4F11 TownMapOrder
 1C:4F40 TownMapCursor
-1C:4F40 TownMapOrderEnd
+1C:4F40 TownMapOrder:End
 1C:4F60 LoadTownMap_Nest
 1C:4F60 TownMapCursorEnd
 1C:4F89 MonsNestText
