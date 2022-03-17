@@ -45,6 +45,7 @@ let MapsJSON = json('./Maps.json'),
         }
     },
     ForcedBikeOrSurfMaps = new Table('ForcedBikeOrSurfMaps', data => [data.Map.Index, data.Coords.Y, data.Coords.X], -1)
+    MapBadgeFlags = new Table('MapBadgeFlags', map => [map.Index, wBeatGymFlags[map.Badge].Mask.on], -1)
 
 class MapData {
     constructor(id, data, isExternal){
@@ -61,6 +62,15 @@ class MapData {
         this.isSafariZoneRestHouse = data.hasOwnProperty('isSafariZoneRestHouse') ? data.isSafariZoneRestHouse : false;
         this.isDungeon = data.hasOwnProperty('isDungeon') ? data.isDungeon : false;
         this.Force = data.hasOwnProperty('Force') ? data.Force : null;
+    
+        if(data.Badge){
+            this.Badge = data.Badge;
+            this.BadgeIndex = wBeatGymFlags[data.Badge].Index;
+        }
+        else{
+            this.Badge = null;
+            this.BadgeIndex = -1;
+        }
     }
     finalize(){
         MapHeaderPointers.add(this);
@@ -103,4 +113,6 @@ TownMapJSON.Order.forEach( (id, index) => {
     let map = Maps.byID[id];
     map.TownMapOrder = index;
     TownMapOrder.add(map);
-})
+});
+
+Maps.by('BadgeIndex', [-1]).forEach(map => MapBadgeFlags.add(map) );

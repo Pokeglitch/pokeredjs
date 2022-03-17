@@ -2102,7 +2102,7 @@
 00:D71E wWhichDungeonWarp
 00:D71F wUnusedD71F
 00:D728 wd728
-00:D72A wBeatGymFlags
+
 00:D72C wd72c
 00:D72D wd72d
 00:D72E wd72e
@@ -12663,7 +12663,7 @@
 18:6429 GymStatues.loop
 18:6433 GymStatues.match
 18:643F GymStatues.haveBadge
-18:6442 GymStatues.BadgeFlags
+
 18:6453 GymStatueText1
 18:6458 GymStatueText2
 18:645D PrintBenchGuyText

@@ -13,6 +13,9 @@ ForcedBikeOrSurfMaps.toROM();
 Goto(0x07, 0x421E)
 PokemonNames.toROM();
 
+Goto(0x18, 0x6442)
+MapBadgeFlags.toROM();
+
 Goto(0x1C, 0x4A3F)
 DungeonMaps.toROM();
 

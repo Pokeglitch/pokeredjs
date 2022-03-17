@@ -638,3 +638,10 @@ def({
     wItemQuantity : 1,    
     wMaxItemQuantity : 1
 })
+
+
+
+Goto(0x00, 0xD72A)
+def({
+    wBeatGymFlags : Flags(["Boulder", "Cascade", "Thunder", "Rainbow", "Soul", "Marsh", "Volcano", "Earth"])
+})

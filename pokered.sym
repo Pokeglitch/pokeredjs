@@ -24769,8 +24769,9 @@
 18:6429 GymStatues.loop
 18:6433 GymStatues.match
 18:643F GymStatues.haveBadge
-18:6442 GymStatues.BadgeFlags
+18:6442 MapBadgeFlags
 18:6453 GymStatueText1
+18:6453 MapBadgeFlags:End
 18:6458 GymStatueText2
 18:645D PrintBenchGuyText
 18:6467 PrintBenchGuyText.loop

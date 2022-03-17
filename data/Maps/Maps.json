@@ -380,7 +380,8 @@
 			"TownMapEntry": {
 				"ID" : "ViridianCityMapEntry",
 				"Coords" : 0
-			}
+			},
+			"Badge" : "Earth"
 		},
 		"DiglettsCaveRoute2": {
 			"Index": 46,
@@ -453,7 +454,8 @@
 			"TownMapEntry": {
 				"ID" : "PewterCityMapEntry",
 				"Coords" : 0
-			}
+			},
+			"Badge" : "Boulder"
 		},
 		"PewterNidoranHouse": {
 			"Index": 55,
@@ -544,7 +546,8 @@
 			"TownMapEntry": {
 				"ID" : "CeruleanCityMapEntry",
 				"Coords" : 0
-			}
+			},
+			"Badge" : "Cascade"
 		},
 		"BikeShop": {
 			"Index": 66,
@@ -761,7 +764,8 @@
 			"TownMapEntry": {
 				"ID" : "VermilionCityMapEntry",
 				"Coords" : 0
-			}
+			},
+			"Badge" : "Thunder"
 		},
 		"VermilionPidgeyHouse": {
 			"Index": 93,
@@ -1121,7 +1125,8 @@
 			"TownMapEntry": {
 				"ID" : "CeladonCityMapEntry",
 				"Coords" : 0
-			}
+			},
+			"Badge" : "Rainbow"
 		},
 		"GameCorner": {
 			"Index": 135,
@@ -1316,7 +1321,8 @@
 			"TownMapEntry": {
 				"ID" : "FuchsiaCityMapEntry",
 				"Coords" : 0
-			}
+			},
+			"Badge" : "Soul"
 		},
 		"FuchsiaMeetingRoom": {
 			"Index": 158,
@@ -1400,7 +1406,8 @@
 			"TownMapEntry": {
 				"ID" : "CinnabarIslandMapEntry",
 				"Coords" : 0
-			}
+			},
+			"Badge" : "Volcano"
 		},
 		"CinnabarLab": {
 			"Index": 167,
@@ -1496,7 +1503,8 @@
 			"TownMapEntry": {
 				"ID" : "SaffronCityMapEntry",
 				"Coords" : 0
-			}
+			},
+			"Badge" : "Marsh"
 		},
 		"SaffronPidgeyHouse": {
 			"Index": 179,

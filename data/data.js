@@ -35,11 +35,18 @@ class Collection {
         this.byOrder.push(value);
         this.LastAdd = value;
     }
-    by(key){}
+    by(key, skipValues=[null]){
+        let list = [];
+        this.byOrder.forEach(item => {
+            if( skipValues.indexOf(item[key]) === -1 ){
+                list.push(item);
+            }
+        })
+        return list.sort( (a,b) => a[key] - b[key] );
+    }
     sort(key){}
     getBy(key, value){
         let collection = new Collection();
-
         return collection;
     }
 }
