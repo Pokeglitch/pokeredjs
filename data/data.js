@@ -27,11 +27,13 @@ class Collection {
         this.byID = {};
         this.byIndex = [];
         this.byOrder = [];
+        this.LastAdd = null;
     }
     add(value){
         this.byID[value.ID] = value;
         this.byIndex[value.Index] = value;
         this.byOrder.push(value);
+        this.LastAdd = value;
     }
     by(key){}
     sort(key){}

@@ -2909,7 +2909,7 @@
 01:7080 SetLastBlackoutMap.loop
 01:708A SetLastBlackoutMap.notresthouse
 01:7090 SetLastBlackoutMap.done
-01:7092 SafariZoneRestHouses
+
 01:7096 DisplayTextIDInit
 01:70BD DisplayTextIDInit.notStartMenu
 01:70C4 DisplayTextIDInit.drawTextBoxBorder
@@ -3742,7 +3742,7 @@
 03:43D7 CheckForceBikeOrSurf.incorrectMap
 03:43D8 CheckForceBikeOrSurf.incorrectY
 03:43DB CheckForceBikeOrSurf.forceSurfing
-03:43E6 ForcedBikeOrSurfMaps
+
 03:43FF IsPlayerFacingEdgeOfMap
 03:441E IsPlayerFacingEdgeOfMap.asm_c41e
 03:4422 IsPlayerFacingEdgeOfMap.functionPointerTable
@@ -12878,8 +12878,7 @@
 1C:4A2B GetBattleTransitionID_IsDungeonMap.noMatch1
 1C:4A2E GetBattleTransitionID_IsDungeonMap.loop2
 1C:4A3C GetBattleTransitionID_IsDungeonMap.noMatch2
-1C:4A3F DungeonMaps1
-1C:4A44 DungeonMaps2
+
 1C:4A4D LoadBattleTransitionTile
 1C:4A59 BattleTransitionTile
 1C:4A69 BattleTransition_BlackScreen
