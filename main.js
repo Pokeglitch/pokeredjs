@@ -10,6 +10,11 @@ SafariZoneRestHouses.toROM();
 Goto(0x03, 0x43E6)
 ForcedBikeOrSurfMaps.toROM();
 
+Goto(0x03, 0x48F5)
+MapHideShowPointers.toROM();
+Data('NoHS', [-1, -1, -1]);
+HideShowDataTable.toROM();
+
 Goto(0x07, 0x421E)
 PokemonNames.toROM();
 

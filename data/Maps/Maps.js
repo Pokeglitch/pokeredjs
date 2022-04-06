@@ -5,6 +5,7 @@ include('./Objects/Objects.js')
 include('./Headers/Headers.js')
 
 let MapsJSON = json('./Maps.json'),
+    HideShowJSON = json('./HideShow.json'),
     Maps = new Collection(),
     MapHeaderPointers = new Table('MapHeaderPointers', map => map.Header.Pointer),
     MapHeaderBanks = new Table('MapHeaderBanks', map => map.Header.Pointer.Bank),
@@ -45,7 +46,9 @@ let MapsJSON = json('./Maps.json'),
         }
     },
     ForcedBikeOrSurfMaps = new Table('ForcedBikeOrSurfMaps', data => [data.Map.Index, data.Coords.Y, data.Coords.X], -1)
-    MapBadgeFlags = new Table('MapBadgeFlags', map => [map.Index, wBeatGymFlags[map.Badge].Mask.on], -1)
+    MapBadgeFlags = new Table('MapBadgeFlags', map => [map.Index, wBeatGymFlags[map.Badge].Mask.on], -1),
+    MapHideShowPointers = new Table('MapHSPointers', map => map.HideShowDataPointer, [-1, -1] )
+    HideShowDataTable = new Table('MissableObjects', null, [-1, 1, HideShow.Visible] );
 
 class MapData {
     constructor(id, data, isExternal){
@@ -71,6 +74,8 @@ class MapData {
             this.Badge = null;
             this.BadgeIndex = -1;
         }
+
+        this.HideShowDataPointer = $('NoHS');
     }
     finalize(){
         MapHeaderPointers.add(this);
@@ -92,6 +97,33 @@ class MapData {
             }
             coords.sort( (a,b) => (a.X - b.X) || (a.Y - b.Y) ).forEach( Coords => ForcedBikeOrSurfMaps.add({ Map : this, Coords }) );
         }
+
+        MapHideShowPointers.add(this);
+        this.HideShowTableIndex = HideShowJSON.Order.indexOf(this.ID);
+    }
+
+    compileHideShowData(){       
+        this.HideShowDataPointer = $(`MissableObjects.${HideShowDataTable.Data.length}`);
+
+        let overrideData = HideShowJSON.Override[this.ID];
+
+        // Uses the objects if it was not overridden to null
+        if( !overrideData || overrideData.Objects !== null){
+            this.Header.Objects.Sprites.forEach( (sprite, i) => {
+                if( sprite.hasOwnProperty("Visible") ){
+                    sprite.HideShowTableIndex = HideShowDataTable.Data.length;
+                    HideShowDataTable.add([this.Index, i+1, sprite.Visible ? HideShow.Visible : HideShow.Hidden]);
+                }
+            });
+        }
+
+        // If there is additional data to add to the table, do so
+        if(overrideData && overrideData.Table){
+            overrideData.Table.forEach(sprite => {
+                HideShowDataTable.add([this.Index, sprite.Index, sprite.Visible ? HideShow.Visible : HideShow.Hidden]);
+            });
+        }
+
     }
 }
 
@@ -115,4 +147,5 @@ TownMapJSON.Order.forEach( (id, index) => {
     TownMapOrder.add(map);
 });
 
+Maps.by('HideShowTableIndex', [-1]).forEach(map => map.compileHideShowData() );
 Maps.by('BadgeIndex', [-1]).forEach(map => MapBadgeFlags.add(map) );

@@ -1,0 +1,100 @@
+{
+    "Override" : {
+        "UnusedMap_0B" : {
+            "Objects" : null
+        },
+        "UnusedMap_F4" : {
+            "Objects" : null,
+            "Table" : [
+                {
+                    "Index" : 2,
+                    "Visible" : true
+                }
+            ]
+        },
+        "SilphCo7F" : {
+            "Table" : [
+                {
+                    "Index" : 12,
+                    "Visible" : true
+                }
+            ]
+        }
+    },
+    "Order" : [
+        "PalletTown",
+        "ViridianCity",
+        "PewterCity",
+        "CeruleanCity",
+        "SaffronCity",
+        "Route2",
+        "Route4",
+        "Route9",
+        "Route12",
+        "Route15",
+        "Route16",
+        "Route22",
+        "Route24",
+        "Route25",
+        "BluesHouse",
+        "OaksLab",
+        "ViridianGym",
+        "Museum1F",
+        "CeruleanCave1F",
+        "PokemonTower2F",
+        "PokemonTower3F",
+        "PokemonTower4F",
+        "PokemonTower5F",
+        "PokemonTower6F",
+        "PokemonTower7F",
+        "MrFujisHouse",
+        "CeladonMansionRoofHouse",
+        "GameCorner",
+        "WardensHouse",
+        "PokemonMansion1F",
+        "FightingDojo",
+        "SilphCo1F",
+        "PowerPlant",
+        "VictoryRoad2F",
+        "BillsHouse",
+        "ViridianForest",
+        "MtMoon1F",
+        "MtMoonB2F",
+        "SSAnne2F",
+        "SSAnne1FRooms",
+        "SSAnne2FRooms",
+        "SSAnneB1FRooms",
+        "VictoryRoad3F",
+        "RocketHideoutB1F",
+        "RocketHideoutB2F",
+        "RocketHideoutB3F",
+        "RocketHideoutB4F",
+        "SilphCo2F",
+        "SilphCo3F",
+        "SilphCo4F",
+        "SilphCo5F",
+        "SilphCo6F",
+        "SilphCo7F",
+        "SilphCo8F",
+        "SilphCo9F",
+        "SilphCo10F",
+        "SilphCo11F",
+        "UnusedMap_F4",
+        "PokemonMansion2F",
+        "PokemonMansion3F",
+        "PokemonMansionB1F",
+        "SafariZoneEast",
+        "SafariZoneNorth",
+        "SafariZoneWest",
+        "SafariZoneCenter",
+        "CeruleanCave2F",
+        "CeruleanCaveB1F",
+        "VictoryRoad1F",
+        "ChampionsRoom",
+        "SeafoamIslands1F",
+        "SeafoamIslandsB1F",
+        "SeafoamIslandsB2F",
+        "SeafoamIslandsB3F",
+        "SeafoamIslandsB4F"
+    ]
+}

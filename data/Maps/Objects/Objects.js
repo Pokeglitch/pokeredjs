@@ -15,7 +15,11 @@ const ITEM = 0x80,
         Left : 0xD2,
         Right : 0xD3,
         None : 0xFF
-    };
+    },
+    HideShow = {
+        Hidden : 0x11,
+        Visible : 0x15
+    }
 
 let ObjectsJSON = json('./Objects.json'),
     Objects = new Collection();
@@ -28,7 +32,8 @@ class ObjectsData {
         this.Signs = data.Signs;
         this.Sprites = data.Sprites;
 
-        this.Sprites.forEach(sprite => {
+        this.Sprites.forEach( sprite => {
+            sprite.HideShowTableIndex = null;
             sprite.Sprite = Sprites.byID[ sprite.Sprite ];
             
             if( sprite.Type === "Pokemon" ){
